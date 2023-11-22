@@ -2,4 +2,6 @@
 
 Note-taking repository for AWS Certified Cloud Practitioner course (CLF-CO2)
 
+## Reosurces
 
+[Code & Slides](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
