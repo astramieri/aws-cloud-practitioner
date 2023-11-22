@@ -2,6 +2,8 @@
 
 Note-taking repository for AWS Certified Cloud Practitioner course (CLF-CO2)
 
-## Links
+[What is Cloud Computing](./docs/cloud_computing.md)
 
-[Code & Slides](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
+## Resources
+
+[Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)

@@ -1,0 +1,33 @@
+## Cloud Computing
+
+Three kinds of cloud computing:
+
+- **Private Cloud** (e.g. RackSpace)
+    - cloud services used by a single organization
+    - not exposed to the public
+    - complete control
+    - security for sensitive applications
+    - meet specific business needs
+- **Public Cloud** (e.g. Azure, Google, AWS)
+    - cloud resources owned and operated by a third-party cloud service delivered over the Internet
+- **Hybrid Cloud**
+    - keep some servers on premises and extend some capabilities to the cloud
+    - control over sensitive assets in your private infrastructure
+    - flexibility and cost-effectiveness of the public cloud
+
+Five characteristics of cloud cmputing:
+
+1. On-demand self-service
+2. Broad network access
+3. Multi-tenancy and resource pooling
+4. Rapid elasticity and scalability
+5. Measured service
+
+Six advantages of cloud computing:
+
+1. Trade CAPEX for OPEX
+2. Benefit from massive economies of scale
+3. Stop guessing capacity
+4. Increase speed and agility
+5. Stop spending money running and mantaining data centers
+6. Go global in minutes
