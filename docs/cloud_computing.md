@@ -15,7 +15,7 @@ Three kinds of cloud computing:
     - control over sensitive assets in your private infrastructure
     - flexibility and cost-effectiveness of the public cloud
 
-Five characteristics of cloud cmputing:
+Five characteristics of cloud computing:
 
 1. On-demand self-service
 2. Broad network access
@@ -31,3 +31,18 @@ Six advantages of cloud computing:
 4. Increase speed and agility
 5. Stop spending money running and mantaining data centers
 6. Go global in minutes
+
+Types of cloud computing:
+
+- Infrasctructure as a Service (IaaS)
+    - e.g. EC2
+- Platform as a Service (PaaS)
+    - e.g. Elastic Beanstalk
+- Software as a Service (SaaS)
+    - e.g. Rekognition for Machine Learning
+
+Pricing fundamentals of cloud computing:
+
+- Compute: pay for compute time
+- Storage: pay for data stored
+- Network: data transfer out of the cloud
