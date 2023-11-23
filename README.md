@@ -2,7 +2,8 @@
 
 Note-taking repository for AWS Certified Cloud Practitioner course (CLF-CO2)
 
-[What is Cloud Computing](./docs/cloud_computing.md)
+- [What is Cloud Computing](./docs/cloud_computing.md)
+- [AWS Cloud Overview](./docs/aws_overview.md)
 
 ## Resources
 
