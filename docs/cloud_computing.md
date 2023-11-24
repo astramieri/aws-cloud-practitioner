@@ -32,17 +32,19 @@ Six advantages of cloud computing:
 5. Stop spending money running and mantaining data centers
 6. Go global in minutes
 
-Types of cloud computing:
-
-- Infrasctructure as a Service (IaaS)
-    - e.g. EC2
-- Platform as a Service (PaaS)
-    - e.g. Elastic Beanstalk
-- Software as a Service (SaaS)
-    - e.g. Rekognition for Machine Learning
-
 Pricing fundamentals of cloud computing:
 
 - Compute: pay for compute time
 - Storage: pay for data stored
 - Network: data transfer out of the cloud
+
+## Types of cloud computing
+
+- **Infrasctructure as a Service (IaaS)**
+    - e.g. EC2
+- **Platform as a Service (PaaS)**
+    - e.g. Elastic Beanstalk
+- **Software as a Service (SaaS)**
+    - e.g. Rekognition for Machine Learning
+
+![Alt text](../images/types_of_cloud_computing.png)
