@@ -8,6 +8,10 @@ Introduction
 - [AWS Cloud Overview](./docs/aws_overview.md)
 - [AWS Shared Responsibility Model](./docs/aws_shared_responsibility.md)
 
+Identity and Access Management (IAM)
+
+- [IAM Introduction](./docs/iam_introduction.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
