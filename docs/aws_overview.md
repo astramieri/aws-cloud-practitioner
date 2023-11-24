@@ -9,8 +9,6 @@ AWS Global Infrastructure:
 
 ## AWS Regions
 
-Most AWS Services are region-scoped. 
-
 A **region** is a cluster of data centers. 
 
 How to choose an AWS Region ? Factors that may impact your choice:
@@ -20,11 +18,13 @@ How to choose an AWS Region ? Factors that may impact your choice:
 - **Available Services** within a region
 - **Pricing** of the region
 
+NOTE: most AWS Services are region-scoped. 
+
 ## AWS Availability Zones
 
-Each region has many **availability zones** (min 3, max 6).
+AWS Regions consist of multiple, isolated, and physically separate **Availability Zones** within a geographic area (min 3, max 6).
 
-Availability zone (AZ)
+Availability zone (AZ):
 - one or more discrete data center with reduntant power, networking and connectivity
 - separated from each others, so they are isolated from disasters
 - connected with high bandwith ultra-low latency networking

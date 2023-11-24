@@ -1,5 +1,7 @@
 ## Cloud Computing
 
+Cloud Computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
+
 Three kinds of cloud computing:
 
 - **Private Cloud** (e.g. RackSpace)
@@ -36,7 +38,7 @@ Pricing fundamentals of cloud computing:
 
 - Compute: pay for compute time
 - Storage: pay for data stored
-- Network: data transfer out of the cloud
+- Network: data transfer **out** of the cloud
 
 ## Types of cloud computing
 
