@@ -12,6 +12,7 @@ Identity and Access Management (IAM)
 
 - [IAM Introduction](./docs/iam_introduction.md)
 - [IAM Policies](./docs/iam_policies.md)
+- [IAM MFA](./docs/iam_mfa.md)
 
 ## Resources
 
