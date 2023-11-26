@@ -36,3 +36,14 @@ AWS SDK supports many different programming languages and platforms:
 - SDKs (JavaScript, Python, PHP, etc.)
 - Mobile SDKs (Android, iOS, etc.)
 - IoT Device SDKs (Embedded C, Arduino, etc.)
+
+## AWS CloudShell
+
+AWS CloudShell is an alternative to using the terminal to issue commands against AWS.
+
+Cool things:
+- credentials are the same of logged account
+- you have a full repository
+- you can configure it (e.g. font size, etc.)
+- you can download/upload files
+- you can open multiple tabs 
