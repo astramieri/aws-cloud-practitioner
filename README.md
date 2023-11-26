@@ -14,7 +14,6 @@ Identity and Access Management (IAM)
 - [IAM Policies](./docs/iam_policies.md)
 - [IAM Protection](./docs/iam_protection.md)
 - [IAM Access Management](./docs/iam_access_management.md)
-- []
 
 ## Resources
 
