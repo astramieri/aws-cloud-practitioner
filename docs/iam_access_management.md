@@ -1,4 +1,4 @@
-# IAM Access Keys
+# IAM Access Management
 
 To access AWS you have three options:
 - AWS Management Console 
@@ -13,7 +13,6 @@ Access Keys are generated through the AWS Console.
 Users manage their own access keys.
 
 Access Keys are like user and password:
-
 - access key ID ~= username
 - secret access key ~= password
 
