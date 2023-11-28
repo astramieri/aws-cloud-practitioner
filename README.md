@@ -7,6 +7,7 @@ Introduction
 - [What is Cloud Computing](./docs/cloud_computing.md)
 - [AWS Cloud Overview](./docs/aws_overview.md)
 - [AWS Shared Responsibility Model](./docs/aws_shared_responsibility.md)
+- [AWS Budget Setup](./docs/aws_budget_setup.md)
 
 Identity and Access Management (IAM)
 
