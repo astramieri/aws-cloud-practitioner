@@ -1,4 +1,4 @@
-## IAM Introduction
+# IAM Introduction
 
 Identity and Access Management (IAM) is a **global service**. There is no region to be selected. When you create a user in IAM, it will be available everywhere.
 

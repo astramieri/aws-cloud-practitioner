@@ -1,4 +1,4 @@
-## EC2 Instance
+# EC2 Instance
 
 Amazon EC2 provides a wide selection of instance types optimized to fit different use cases. 
 

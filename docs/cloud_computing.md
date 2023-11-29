@@ -1,4 +1,4 @@
-## Cloud Computing
+# Cloud Computing
 
 Cloud Computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
 

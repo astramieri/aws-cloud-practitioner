@@ -1,4 +1,4 @@
-## EC2 Basics
+# EC2 Basics
 
 Elastic Compute Cloud (EC2) is one of the most popular of AWS offering.
 

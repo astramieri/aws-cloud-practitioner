@@ -26,6 +26,10 @@ Elastic Compute Cloud (EC2)
 - [EC2 Basics](./docs/ec2/ec2_basics.md)
 - [EC2 Instance](./docs/ec2/ec2_instance.md)
 
+Network Security
+
+- [Security Group](./docs/security_group.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)

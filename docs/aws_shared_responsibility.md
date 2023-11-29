@@ -1,4 +1,4 @@
-## AWS Shared Responsibility Model
+# AWS Shared Responsibility Model
 
 AWS Shared Responsibility Model:
 
