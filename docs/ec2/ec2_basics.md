@@ -34,4 +34,4 @@ EC2 user data is used to automate boot tasks such as:
 - downloading common files from the internet
 - *anything you can think of*
 
-EC2 instance type: **t2.micro** is part of the AWS free tier (up to 750 hours per month)
+EC2 instance type: **t3.micro** is part of the AWS free tier (up to 750 hours per month)

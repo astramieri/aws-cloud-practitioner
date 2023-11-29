@@ -24,6 +24,7 @@ Identity and Access Management (IAM)
 Elastic Compute Cloud (EC2)
 
 - [EC2 Basics](./docs/ec2/ec2_basics.md)
+- [EC2 Instance](./docs/ec2/ec2_instance.md)
 
 ## Resources
 
