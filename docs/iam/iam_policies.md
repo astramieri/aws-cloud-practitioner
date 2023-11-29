@@ -2,7 +2,7 @@
 
 An **inline policy** is a policy that is only attached to a user.
 
-![IAM Policies](../images/iam_policies_inheritance.png)
+![IAM Policies](../../images/iam/iam_policies_inheritance.png)
 
 ## IAM Policy Structure
 

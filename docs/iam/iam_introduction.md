@@ -8,7 +8,7 @@ The **root account** is created by default when you create an AWS account. It sh
 
 **Groups** can only contain users, not other groups.
 
-![IAM Users and Groups](../images/iam_users_and_groups.png)
+![IAM Users and Groups](../../images/iam/iam_users_and_groups.png)
 
 Why do we create users and why do we create groups? To give them **permissions**.
 
@@ -16,5 +16,5 @@ Users or Groups can be assigned JSON documents called **policies**. These polici
 
 In AWS you apply the **least privilege principle**: don't give more permissions than a user needs.
 
-![IAM Policies](../images/iam_policies.png)
+![IAM Policies](../../images/iam/iam_policies.png)
 

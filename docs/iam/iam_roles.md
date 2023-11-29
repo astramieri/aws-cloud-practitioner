@@ -11,4 +11,4 @@ Common roles:
 - Lamba Function Roles
 - CloudFormation Roles
 
-![IAM Roles](../images/iam_role.png)
+![IAM Roles](../../images/iam/iam_role.png)

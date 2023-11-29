@@ -11,15 +11,19 @@ Introduction
 
 Identity and Access Management (IAM)
 
-- [IAM Introduction](./docs/iam_introduction.md)
-- [IAM Policies](./docs/iam_policies.md)
-- [IAM Protection](./docs/iam_protection.md)
-- [IAM Access Management](./docs/iam_access_management.md)
-- [IAM Roles](./docs/iam_roles.md)
-- [IAM Security Tools](./docs/iam_security_tools.md)
-- [IAM Best Practices](./docs/iam_best_practices.md)
-- [IAM Shared Responsibility](./docs/iam_shared_responsibility.md)
-- [IAM Summary](./docs/iam_summary.md)
+- [IAM Introduction](./docs/iam/iam_introduction.md)
+- [IAM Policies](./docs/iam/iam_policies.md)
+- [IAM Protection](./docs/iam/iam_protection.md)
+- [IAM Access Management](./docs/iam/iam_access_management.md)
+- [IAM Roles](./docs/iam/iam_roles.md)
+- [IAM Security Tools](./docs/iam/iam_security_tools.md)
+- [IAM Best Practices](./docs/iam/iam_best_practices.md)
+- [IAM Shared Responsibility](./docs/iam/iam_shared_responsibility.md)
+- [IAM Summary](./docs/iam/iam_summary.md)
+
+Elastic Compute Cloud (EC2)
+
+- [EC2 Basics](./docs/ec2/ec2_basics.md)
 
 ## Resources
 
