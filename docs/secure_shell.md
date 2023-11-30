@@ -2,11 +2,22 @@
 
 ![SSH Summary Table](../images/secure_shell.png)
 
-## How to connect
+## How to connect using Linux
 
-    > cd <where_the_key_pair_is_located>
     > chmod 0400 <my_key_pair.pem>
     > ssh -i <my_key_pair.pem> ec2-user@<public_ip_address>
-    > whoami
 
 **ec2-user** is already setup for any Amazon Machine Image (AMI)
+
+## How to connect using Windows 10+
+
+    * change permissions on <my_key_pair.pem>
+    > ssh -i <my_key_pair.pem> ec2-user@<public_ip_address>
+
+## How to connect using Putty (Windows <10)
+
+1. Use **PuttyGen** to generate private key (*.ppk) from *.pem
+2. Use **Putty** to connect with the generated private key 
+
+
+
