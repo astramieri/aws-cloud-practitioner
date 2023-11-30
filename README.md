@@ -29,6 +29,7 @@ Elastic Compute Cloud (EC2)
 Network Security
 
 - [Security Group](./docs/security_group.md)
+- [Secure Shell](./docs/secure_shell.md)
 
 ## Resources
 
