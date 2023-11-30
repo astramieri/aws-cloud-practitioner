@@ -33,7 +33,7 @@
     - can get a discount up to 90% (*may change*) compared to on-demand
     - instance that you can "lose" at any point of time if your max price is less than the current spot price
     - the most cost-efficient instance on AWS
-    - useful for workòpads that are resilient to failure
+    - useful for workloads that are resilient to failure
         - batch jobs
         - data analysis
         - image processing

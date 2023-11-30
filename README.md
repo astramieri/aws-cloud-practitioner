@@ -26,6 +26,8 @@ Elastic Compute Cloud (EC2)
 - [EC2 Basics](./docs/ec2/ec2_basics.md)
 - [EC2 Instance](./docs/ec2/ec2_instance.md)
 - [EC2 Purchasing Options](./docs/ec2/ec2_purchasing_options.md)
+- [EC2 Shared Responsibility](./docs/ec2/ec2_shared_responsibility.md)
+- [EC2 Summary](./docs/ec2/ec2_summary.md)
 
 Network Security
 
