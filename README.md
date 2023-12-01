@@ -29,6 +29,10 @@ Elastic Compute Cloud (EC2)
 - [EC2 Shared Responsibility](./docs/ec2/ec2_shared_responsibility.md)
 - [EC2 Summary](./docs/ec2/ec2_summary.md)
 
+Elastic Block Storage (EBS)
+
+- [EBS Basics](./docs/ebs/ebs_basics.md)
+
 Network Security
 
 - [Security Group](./docs/security_group.md)
