@@ -32,6 +32,7 @@ Elastic Compute Cloud (EC2)
 Elastic Block Storage (EBS)
 
 - [EBS Basics](./docs/ebs/ebs_basics.md)
+- [EBS Snapshots](./docs/ebs/ebs_snapshots.md)
 
 Network Security
 
