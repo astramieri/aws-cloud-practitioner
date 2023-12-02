@@ -28,6 +28,7 @@ Elastic Compute Cloud (EC2)
 - [EC2 Purchasing Options](./docs/ec2/ec2_purchasing_options.md)
 - [EC2 Shared Responsibility](./docs/ec2/ec2_shared_responsibility.md)
 - [EC2 Summary](./docs/ec2/ec2_summary.md)
+- [AMI Basics](./docs/ec2/ami_basics.md)
 
 Elastic Block Storage (EBS)
 
