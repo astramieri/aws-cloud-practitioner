@@ -31,6 +31,7 @@ Elastic Compute Cloud (EC2)
 - [EC2 AMI Basics](./docs/ec2/ec2_ami_basics.md)
 - [EC2 Image Builder](./docs/ec2/ec2_image_builder.md)
 - [EC2 Instance Store](./docs/ec2/ec2_instance_store.md)
+- [EC2 Storage Shared Responsibility](./docs/ec2/ec2_storage_shared_responsibility.md)
 
 Elastic Block Storage (EBS)
 
@@ -40,6 +41,10 @@ Elastic Block Storage (EBS)
 Elastic File System (EFS)
 
 - [EFS Basics](./docs/efs/efs_basics.md)
+
+Amazon FSx
+
+- [FSx Basics](./docs/fsx/fsx_basics.md)
 
 Network Security
 
