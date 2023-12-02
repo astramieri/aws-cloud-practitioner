@@ -32,6 +32,7 @@ Elastic Compute Cloud (EC2)
 - [EC2 Image Builder](./docs/ec2/ec2_image_builder.md)
 - [EC2 Instance Store](./docs/ec2/ec2_instance_store.md)
 - [EC2 Storage Shared Responsibility](./docs/ec2/ec2_storage_shared_responsibility.md)
+- [EC2 Storage Summary](./docs/ec2/ec2_storage_summary.md)
 
 Elastic Block Storage (EBS)
 
