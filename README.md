@@ -30,6 +30,7 @@ Elastic Compute Cloud (EC2)
 - [EC2 Summary](./docs/ec2/ec2_summary.md)
 - [AMI Basics](./docs/ec2/ami_basics.md)
 - [EC2 Image Builder](./docs/ec2/ec2_image_builder.md)
+- [EC2 Instance Store](./docs/ec2/ec2_instance_store.md)
 
 Elastic Block Storage (EBS)
 
