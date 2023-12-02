@@ -28,7 +28,7 @@ Elastic Compute Cloud (EC2)
 - [EC2 Purchasing Options](./docs/ec2/ec2_purchasing_options.md)
 - [EC2 Shared Responsibility](./docs/ec2/ec2_shared_responsibility.md)
 - [EC2 Summary](./docs/ec2/ec2_summary.md)
-- [AMI Basics](./docs/ec2/ami_basics.md)
+- [EC2 AMI Basics](./docs/ec2/ec2_ami_basics.md)
 - [EC2 Image Builder](./docs/ec2/ec2_image_builder.md)
 - [EC2 Instance Store](./docs/ec2/ec2_instance_store.md)
 
@@ -36,6 +36,10 @@ Elastic Block Storage (EBS)
 
 - [EBS Basics](./docs/ebs/ebs_basics.md)
 - [EBS Snapshots](./docs/ebs/ebs_snapshots.md)
+
+Elastic File System (EFS)
+
+- [EFS Basics](./docs/efs/efs_basics.md)
 
 Network Security
 
