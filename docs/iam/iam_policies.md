@@ -12,14 +12,14 @@ A IAM policy structure consists of:
 - **statement** (required)
     - **sid**: identifier for the statement (optional)
     - **effect**: whether the statement allows or denies access (Allow, Deny)
-    - **principal**: account/user/role to witch this policy applied to
+    - **principal**: account/user/role to witch this policy applied to (optional)
     - **actions**: list of actions this policy allows or denies
     - **resources**: list of resources to which the actions applied to
-    - **condition**: conditions for when this policy is in effect (optio
+    - **condition**: conditions for when this policy is in effect (optional)
 
 ### Example: AdministratorAccess Policy
 
-Note: Provides full access to AWS services and resources.
+Provides full access to AWS services and resources.
 
 ```
 {
@@ -36,7 +36,7 @@ Note: Provides full access to AWS services and resources.
 
 ### Example: IAMReadOnlyAccess Policy
 
-Note: Provides read only access to IAM via the AWS Management Console.
+Provides read only access to IAM via the AWS Management Console.
 
 ```
 {
