@@ -1,9 +1,9 @@
-# IAM MFA
+# IAM Protection
 
 The are two defence mechanims to protect users and groups:
 
-- password policy
-- multi factor authentication (MFA)
+- Password Policy
+- Multi Factor Authentication (MFA)
 
 ## Password Policy
 
