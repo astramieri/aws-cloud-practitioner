@@ -19,7 +19,7 @@ The EBS volume can only be attached to one instance in one specific AZ because t
 
 EFS is a network file system. That means that whatever is on the EFS drive is shared by everything that is mounted to it. Say we have many instances in Availability Zone 1 on one or many instances as well on Availability Zone 2. At the same time, all these instances can mount the same EFS drive using a mount target and they will all see the same files. So, that makes it a **shared file system**.
 
-![EBS vs EFS](../../images/efs/efs_vs_ebs.png)
+![EBS vs EFS](../../images/ec2_storage/efs_vs_ebs.png)
 
 ## EFS Infrequent Access (EFS-IA)
 
@@ -31,4 +31,4 @@ If you enable EFS-IA with a Lifecycle Policy, EFS will automatically move your f
 
 EFS-IA is transparent to the applications accessing EFS.
 
-![EFS IA](../../images/efs/efs_ia.png)
+![EFS IA](../../images/ec2_storage/efs_ia.png)

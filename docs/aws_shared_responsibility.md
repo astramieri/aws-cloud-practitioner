@@ -6,4 +6,4 @@ AWS Shared Responsibility Model:
 
 - AWS is responsibile for security **OF the cloud**.
 
-![Alt text](../images/aws_shared_responsibility.png)
+![AWS Shared Responsibility](../images/aws_shared_responsibility.png)

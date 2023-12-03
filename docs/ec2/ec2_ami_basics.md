@@ -13,7 +13,7 @@ You can launch EC2 instaces from:
 - **a custom AMI**: you make and mantain them yourself
 - **an AWS marketplace AMI**: an AMI someone else made (and potentially sells)
 
-![AMI Selection](../../images/ec2/ami_selection.png)
+![AMI Selection](../../images/ec2/ec2_ami_selection.png)
 
 ## AMI Process (from an EC2 instance)
 
@@ -22,4 +22,4 @@ You can launch EC2 instaces from:
 3. Build an AMI (this will also create EBS snapshots)
 4. Launch instance from other AMIs
 
-![AMI Process from an EC2 instance](../../images/ec2/ami_process.png)
+![AMI Process from an EC2 instance](../../images/ec2/ec2_ami_process.png)

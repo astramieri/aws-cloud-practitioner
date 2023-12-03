@@ -15,7 +15,7 @@ You have three offering today:
 - Integrated with Microsoft Active Directory
 - Can be accessed from AWS or your on-premise infrastructure
 
-![Amazon FSx for Windows File Server](../../images/fsx/fsx_for_windows.png)
+![Amazon FSx for Windows File Server](../../images/ec2_storage/fsx_for_windows.png)
 
 ## Amazon FSx for Lustre
 
@@ -23,6 +23,6 @@ You have three offering today:
 - The name Lustre is derived from "Linux" and "cluster"
 - Machine Learning, Analytics, Video Processing, Financial Modeling, etc.
 
-![Amazon FSx for Lustre](../../images/fsx/fsx_for_windows.png)
+![Amazon FSx for Lustre](../../images/ec2_storage/fsx_for_windows.png)
 
 

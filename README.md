@@ -2,6 +2,8 @@
 
 Note-taking repository for AWS Certified Cloud Practitioner course (CLF-CO2)
 
+## Notes
+
 Introduction
 
 - [What is Cloud Computing](./docs/cloud_computing.md)
@@ -25,32 +27,23 @@ Elastic Compute Cloud (EC2)
 
 - [EC2 Basics](./docs/ec2/ec2_basics.md)
 - [EC2 Instance](./docs/ec2/ec2_instance.md)
+- [EC2 Security Groups](./docs/ec2/ec2_security_groups.md)
+- [EC2 Secure Shell](./docs/ec2/ec2_secure_shell.md)
 - [EC2 Purchasing Options](./docs/ec2/ec2_purchasing_options.md)
-- [EC2 Shared Responsibility](./docs/ec2/ec2_shared_responsibility.md)
-- [EC2 Summary](./docs/ec2/ec2_summary.md)
 - [EC2 AMI Basics](./docs/ec2/ec2_ami_basics.md)
 - [EC2 Image Builder](./docs/ec2/ec2_image_builder.md)
-- [EC2 Instance Store](./docs/ec2/ec2_instance_store.md)
-- [EC2 Storage Shared Responsibility](./docs/ec2/ec2_storage_shared_responsibility.md)
-- [EC2 Storage Summary](./docs/ec2/ec2_storage_summary.md)
+- [EC2 Shared Responsibility](./docs/ec2/ec2_shared_responsibility.md)
+- [EC2 Summary](./docs/ec2/ec2_summary.md)
 
-Elastic Block Storage (EBS)
+EC2 Storage
 
-- [EBS Basics](./docs/ebs/ebs_basics.md)
-- [EBS Snapshots](./docs/ebs/ebs_snapshots.md)
-
-Elastic File System (EFS)
-
-- [EFS Basics](./docs/efs/efs_basics.md)
-
-Amazon FSx
-
-- [FSx Basics](./docs/fsx/fsx_basics.md)
-
-Network Security
-
-- [Security Group](./docs/security_group.md)
-- [Secure Shell](./docs/secure_shell.md)
+- [EBS Basics](./docs/ec2_storage/ebs_basics.md)
+- [EBS Snapshots](./docs/ec2_storage/ebs_snapshots.md)
+- [EC2 Instance Store](./docs/ec2_storage/ec2_instance_store.md)
+- [EFS Basics](./docs/ec2_storage/efs_basics.md)
+- [FSx Basics](./docs/ec2_storage/fsx_basics.md)
+- [EC2 Storage Shared Responsibility](./docs/ec2_storage/ec2_storage_shared_responsibility.md)
+- [EC2 Storage Summary](./docs/ec2_storage/ec2_storage_summary.md)
 
 ## Resources
 

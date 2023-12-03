@@ -49,4 +49,4 @@ Pricing fundamentals of cloud computing:
 - **Software as a Service (SaaS)**
     - e.g. Rekognition for Machine Learning
 
-![Alt text](../images/types_of_cloud_computing.png)
+![Cloud Computing](../images/cloud_computing.png)

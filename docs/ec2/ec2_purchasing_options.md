@@ -53,7 +53,7 @@
     - instance run on hardware that's dedicated to you
     - may share hardware with other instances in same account
     - no control over instance placement (can move hw after stop/start)
-    - **REMEMBER**: dedicated instances mmean that you have your own instance on your own hardware, whereas dedicated host, you get access to the physical server itself and it gives you visibility into the lower level hardware
+    - **REMEMBER**: dedicated instances mean that you have your own instance on your own hardware, whereas dedicated host, you get access to the physical server itself and it gives you visibility into the lower level hardware
 - **Capacity Reservations**: reserver capacity in specific AZ for any duration
     - you always have access to EC2 capacity when you need it
     - no time commitment (create/cancel anytime)

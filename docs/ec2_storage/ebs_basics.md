@@ -2,7 +2,7 @@
 
 An **Elastic Block Store (EBS)** volume is a network drive you can attach to your instance while they run. It allows your instances to persists data, even after their termination. We can recreate an instance and mount to the same EBS Volume from before and we'll get back our data.
 
-**NOTE**. Analogy: think of EBS volumes as a "network USB stick".
+**ANALOGY**: think of EBS volumes as a "network USB stick".
 
 EBS Volume:
 - it is a network drive (i.e. not a physical drive)
@@ -17,7 +17,7 @@ EBS Volume:
 
 It is possibile to create EBS volumes and leave them unattached (they can be attached on demand).
 
-![EBS volumes](../../images/ebs/ebs_volume.png)
+![EBS volumes](../../images/ec2_storage/ebs_volume.png)
 
 ## Delete on Termination Attribute
 
@@ -27,7 +27,7 @@ By default:
 - the root EBS volume is deleted (attribute enabled)
 - any other EBS volume is not deleted (attribute disabled)
 
-![EBS Delete on Termination Attribute](../../images/ebs/ebs_delete_on_termination.png)
+![EBS Delete on Termination Attribute](../../images/ec2_storage/ebs_delete_on_termination.png)
 
 ## EBS Multi-Attach Feature
 
