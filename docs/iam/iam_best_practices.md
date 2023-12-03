@@ -8,5 +8,5 @@ Guidelines & Best Practices
 - use and enforce the use of multi factor authentication (MFA)
 - create and use roles for giving permissions to AWS services
 - use access keys for programmatic access (CLI/SDK)
-- audit permissions of your account using IAM credentials reports & IAM access advisor
+- audit permissions of your account using IAM Credentials Report & IAM Access Advisor
 - **never share IAM users & access keys**
