@@ -24,12 +24,10 @@ NOTE: most AWS Services are region-scoped.
 
 AWS Regions consist of multiple, isolated, and physically separate **Availability Zones** within a geographic area (min 3, max 6).
 
-Availability zone (AZ):
+Availability Zone (AZ):
 - one or more discrete data center with reduntant power, networking and connectivity
 - separated from each others, so they are isolated from disasters
 - connected with high bandwith ultra-low latency networking
-
-Example:
 
 Region: **ap-southeast-2** (Sidney)
 - Availability Zone 1: **ap-southeast-2a**

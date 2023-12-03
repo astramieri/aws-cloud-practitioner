@@ -38,7 +38,7 @@ Pricing fundamentals of cloud computing:
 
 - Compute: pay for compute time
 - Storage: pay for data stored
-- Network: data transfer **out** of the cloud
+- Network: pay for data transfer **out** of the cloud
 
 ## Types of cloud computing
 
