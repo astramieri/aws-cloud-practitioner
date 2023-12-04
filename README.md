@@ -45,6 +45,11 @@ EC2 Storage
 - [EC2 Storage Shared Responsibility](./docs/ec2_storage/ec2_storage_shared_responsibility.md)
 - [EC2 Storage Summary](./docs/ec2_storage/ec2_storage_summary.md)
 
+Elastic Load Balancing (ELB) & Auto Scaling Groups (ASG)
+
+- [Scalability and High Availability](./docs/elb/scalability_and_high_availability.md)
+- [ELB Basics](./docs/elb/elb_basics.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
