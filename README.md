@@ -49,7 +49,8 @@ Elastic Load Balancing (ELB) & Auto Scaling Groups (ASG)
 
 - [Scalability and High Availability](./docs/elb/scalability_and_high_availability.md)
 - [ELB Basics](./docs/elb/elb_basics.md)
-- [ASG Basics](./docs/elb/auto_scaling_group.md)
+- [ASG Basics](./docs/elb/asg_basics.md)
+- [ASG Strategies](./docs/elb/asg_strategies.md)
 
 ## Resources
 
