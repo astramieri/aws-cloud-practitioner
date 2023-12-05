@@ -53,6 +53,10 @@ Elastic Load Balancing (ELB) & Auto Scaling Groups (ASG)
 - [ASG Strategies](./docs/elb/asg_strategies.md)
 - [ELB & ASG Summary](./docs/elb/elb_and_asg_summary.md)
 
+Simple Storage Service (S3)
+
+- [S3 Basics](./docs/s3/s3_basics.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
