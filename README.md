@@ -56,6 +56,7 @@ Elastic Load Balancing (ELB) & Auto Scaling Groups (ASG)
 Simple Storage Service (S3)
 
 - [S3 Basics](./docs/s3/s3_basics.md)
+- [S3 Security](./docs/s3/s3_security.md)
 
 ## Resources
 
