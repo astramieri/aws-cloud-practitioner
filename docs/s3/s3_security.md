@@ -26,7 +26,23 @@ Use S3 bucket for policy to:
 - force objects to be encrypted at upload
 - grant access to another account (cross account)
 
-![S3 Bucket Policy](../../images/s3/s3_bucket_policy.png)
+~~~
+{
+    "Id": "Policy170179458798",
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "Stmt1701887876128",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Effect": "Allow",
+            "Resource": "arn:aws:s3:::demo-s3/*",
+            "Principal": "*"
+        }
+    ]
+}
+~~~
 
 ## Buckets settings for Block Public Access
 
