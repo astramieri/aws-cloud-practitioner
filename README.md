@@ -60,6 +60,7 @@ Simple Storage Service (S3)
 - [S3 Website](./docs/s3/s3_website.md)
 - [S3 Versioning](./docs/s3/s3_versioning.md)
 - [S3 Replication](./docs/s3/s3_replication.md)
+- [S3 Storage Classes](./docs/s3/s3_storage_classes.md)
 
 ## Resources
 
