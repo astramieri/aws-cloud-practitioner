@@ -58,6 +58,7 @@ Simple Storage Service (S3)
 - [S3 Basics](./docs/s3/s3_basics.md)
 - [S3 Security](./docs/s3/s3_security.md)
 - [S3 Website](./docs/s3/s3_website.md)
+- [S3 Versioning](./docs/s3/s3_versioning.md)
 
 ## Resources
 
