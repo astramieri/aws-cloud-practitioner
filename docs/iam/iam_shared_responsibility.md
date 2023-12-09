@@ -1,3 +1,3 @@
 # IAM Shared Responsibility Model
 
-![IAM Shared Responsibility](../../images/iam/iam_shared_responsibility.png)
+![IAM Shared Responsibility Model](../../images/iam/iam_shared_responsibility.png)

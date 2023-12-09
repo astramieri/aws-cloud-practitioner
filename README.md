@@ -20,7 +20,7 @@ Identity and Access Management (IAM)
 - [IAM Roles](./docs/iam/iam_roles.md)
 - [IAM Security Tools](./docs/iam/iam_security_tools.md)
 - [IAM Best Practices](./docs/iam/iam_best_practices.md)
-- [IAM Shared Responsibility](./docs/iam/iam_shared_responsibility.md)
+- [IAM Shared Responsibility Model](./docs/iam/iam_shared_responsibility.md)
 - [IAM Summary](./docs/iam/iam_summary.md)
 
 Elastic Compute Cloud (EC2)
@@ -32,7 +32,7 @@ Elastic Compute Cloud (EC2)
 - [EC2 Purchasing Options](./docs/ec2/ec2_purchasing_options.md)
 - [EC2 AMI Basics](./docs/ec2/ec2_ami_basics.md)
 - [EC2 Image Builder](./docs/ec2/ec2_image_builder.md)
-- [EC2 Shared Responsibility](./docs/ec2/ec2_shared_responsibility.md)
+- [EC2 Shared Responsibility Model](./docs/ec2/ec2_shared_responsibility.md)
 - [EC2 Summary](./docs/ec2/ec2_summary.md)
 
 EC2 Storage
@@ -42,7 +42,7 @@ EC2 Storage
 - [EC2 Instance Store](./docs/ec2_storage/ec2_instance_store.md)
 - [EFS Basics](./docs/ec2_storage/efs_basics.md)
 - [FSx Basics](./docs/ec2_storage/fsx_basics.md)
-- [EC2 Storage Shared Responsibility](./docs/ec2_storage/ec2_storage_shared_responsibility.md)
+- [EC2 Storage Shared Responsibility Model](./docs/ec2_storage/ec2_storage_shared_responsibility.md)
 - [EC2 Storage Summary](./docs/ec2_storage/ec2_storage_summary.md)
 
 Elastic Load Balancing (ELB) & Auto Scaling Groups (ASG)
@@ -63,6 +63,7 @@ Simple Storage Service (S3)
 - [S3 Storage Classes](./docs/s3/s3_storage_classes.md)
 - [S3 Encryption](./docs/s3/s3_encryption.md)
 - [S3 IAM Access Analyzer](./docs/s3/s3_iam_access_analyzer.md)
+- [S3 Shared Responsibility Model](./docs/s3/s3_shared_responsibility.md)
 
 ## Resources
 
