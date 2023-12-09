@@ -71,7 +71,7 @@ Use Cases (long-term deployment: 1-3 years):
 - trascoding media stream
 
 Devices (all run EC2 instances or AWS Lambda functions):
-- Snowcone and Snowcone SSD (smalleeìr)
+- Snowcone and Snowcone SSD (smaller)
 - Snowball Edge - Computing Optimized
 - Snowball Edge - Storage Optimized
 
