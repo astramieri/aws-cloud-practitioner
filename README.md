@@ -62,6 +62,7 @@ Simple Storage Service (S3)
 - [S3 Replication](./docs/s3/s3_replication.md)
 - [S3 Storage Classes](./docs/s3/s3_storage_classes.md)
 - [S3 Encryption](./docs/s3/s3_encryption.md)
+- [S3 IAM Access Analyzer](./docs/s3/s3_iam_access_analyzer.md)
 
 ## Resources
 
