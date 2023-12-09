@@ -64,6 +64,7 @@ Simple Storage Service (S3)
 - [S3 Encryption](./docs/s3/s3_encryption.md)
 - [S3 IAM Access Analyzer](./docs/s3/s3_iam_access_analyzer.md)
 - [S3 Shared Responsibility Model](./docs/s3/s3_shared_responsibility.md)
+- [Snow Family](./docs/s3/snow_family.md)
 
 ## Resources
 
