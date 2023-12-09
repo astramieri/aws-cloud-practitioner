@@ -66,6 +66,7 @@ Simple Storage Service (S3)
 - [S3 Shared Responsibility Model](./docs/s3/s3_shared_responsibility.md)
 - [Snow Family](./docs/s3/snow_family.md)
 - [Storage Gateway](./docs/s3/storage_gateway.md)
+- [S3 Summary](./docs/s3/s3_summary.md)
 
 ## Resources
 
