@@ -68,6 +68,10 @@ Simple Storage Service (S3)
 - [Storage Gateway](./docs/s3/storage_gateway.md)
 - [S3 Summary](./docs/s3/s3_summary.md)
 
+Databases & Analytics
+
+- [Database Basics](./docs/database/database_basics.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
