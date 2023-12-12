@@ -15,3 +15,12 @@
 - Can only have 1 other AZ as failover
 
 ![RDS Multi AZ](../../images/database/rds_multi_az.png)
+
+## Multi-Region (Read Replicas)
+
+- Disaster Recovery in case of region issue
+- Local performance for global reads
+- Replication cost
+
+![RDS Multi Region](../../images/database/rds_multi_region.png)
+
