@@ -8,6 +8,8 @@ ElastiCache reduce load off databases for read intensive workloads.
 
 AWS takes care of OS maintenance/patching, optimizations, setup, configuration, monitoring, failure recovery and backups.
 
+## ElastiCache Solution Architecture
+
 ![ElastiCache Solution Architecture](../../images/database/elasticache_architecture.png)
 
 
