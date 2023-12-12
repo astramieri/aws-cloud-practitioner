@@ -72,6 +72,7 @@ Databases & Analytics
 
 - [Database Basics](./docs/database/database_basics.md)
 - [RDS Basics](./docs/database/rds_basics.md)
+- [RDS Deployment Options](./docs/database/rds_deployment.md)
 - [Aurora Basics](./docs/database/aurora_basics.md)
 
 ## Resources
