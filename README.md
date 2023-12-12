@@ -74,6 +74,7 @@ Databases & Analytics
 - [RDS Basics](./docs/database/rds_basics.md)
 - [RDS Deployment Options](./docs/database/rds_deployment.md)
 - [Aurora Basics](./docs/database/aurora_basics.md)
+- [ElastiCache Basics](./docs/database/elasticache_basics.md)
 
 ## Resources
 

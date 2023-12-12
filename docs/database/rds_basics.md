@@ -2,7 +2,7 @@
 
 RDS stands for **Relational Database Service**.
 
-RDS is a managed DB service for DB that will use SQL as a query language
+RDS is a managed DB service for DB that will use SQL as a query language.
 
 RDS allows you to create different relational databases:
 - Postgres
