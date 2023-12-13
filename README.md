@@ -75,6 +75,7 @@ Databases & Analytics
 - [RDS Deployment Options](./docs/database/rds_deployment.md)
 - [Aurora Basics](./docs/database/aurora_basics.md)
 - [ElastiCache Basics](./docs/database/elasticache_basics.md)
+- [DynamoDB Basics](./docs/database/dynamodb_basics.md)
 
 ## Resources
 
