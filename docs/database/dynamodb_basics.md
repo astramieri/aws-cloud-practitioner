@@ -18,7 +18,11 @@
 
 DynamoDB is a key/value database.
 
+The difference between DynamoDB and RDS is that DynamoDB will have all the data living within one single table and there's no way to join it with another table. So we need to make sure that all the relevant data is well formatted within our main DynamoDB table.
+
 ![DynamoDB Table](../../images/database/dynamodb_table.png)
+
+![DynamoDB Table Example](../../images/database/dynamodb_table_example.png)
 
 ## DynamoDB Accelerator (DAX)
 
