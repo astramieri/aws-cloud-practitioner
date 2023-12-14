@@ -82,6 +82,7 @@ Databases & Analytics
 - [QuickSight Basics](./docs/database/quicksight_basics.md)
 - [DocumentDB Basics](./docs/database/documentdb_basics.md)
 - [Neptune Basics](./docs/database/neptune_basics.md)
+- [QLDB Basics](./docs/database/qldb_basics.md)
 
 ## Resources
 
