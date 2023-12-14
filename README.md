@@ -77,6 +77,7 @@ Databases & Analytics
 - [ElastiCache Basics](./docs/database/elasticache_basics.md)
 - [DynamoDB Basics](./docs/database/dynamodb_basics.md)
 - [Redshift Basics](./docs/database/redshift_basics.md)
+- [EMR Basics](./docs/database/emr_basics.md)
 
 ## Resources
 
