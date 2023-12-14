@@ -80,7 +80,8 @@ Databases & Analytics
 - [EMR Basics](./docs/database/emr_basics.md)
 - [Athena Basics](./docs/database/athena_basics.md)
 - [QuickSight Basics](./docs/database/quicksight_basics.md)
-- [QuickSight Basics](./docs/database/documentdb_basics.md)
+- [DocumentDB Basics](./docs/database/documentdb_basics.md)
+- [Neptune Basics](./docs/database/neptune_basics.md)
 
 ## Resources
 
