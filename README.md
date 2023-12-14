@@ -84,6 +84,7 @@ Databases & Analytics
 - [Neptune Basics](./docs/database/neptune_basics.md)
 - [QLDB Basics](./docs/database/qldb_basics.md)
 - [Managed Blockchain Basics](./docs/database/managed_blockchain_basics.md)
+- [Glue Basics](./docs/database/glue_basics.md)
 
 ## Resources
 
