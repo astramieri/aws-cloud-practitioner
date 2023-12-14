@@ -85,6 +85,7 @@ Databases & Analytics
 - [QLDB Basics](./docs/database/qldb_basics.md)
 - [Managed Blockchain Basics](./docs/database/managed_blockchain_basics.md)
 - [Glue Basics](./docs/database/glue_basics.md)
+- [DMS Basics](./docs/database/dms_basics.md)
 
 ## Resources
 
