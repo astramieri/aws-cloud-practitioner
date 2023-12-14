@@ -78,6 +78,8 @@ Databases & Analytics
 - [DynamoDB Basics](./docs/database/dynamodb_basics.md)
 - [Redshift Basics](./docs/database/redshift_basics.md)
 - [EMR Basics](./docs/database/emr_basics.md)
+- [Athena Basics](./docs/database/athena_basics.md)
+- [QuickSight Basics](./docs/database/quicksight_basics.md)
 
 ## Resources
 
