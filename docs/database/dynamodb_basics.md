@@ -33,3 +33,13 @@ The difference between DynamoDB and RDS is that DynamoDB will have all the data 
 - Secure, Highly Scalable & High Available
 
 ![DynamoDB Acceleratore](../../images/database/dynamodb_accelerator.png)
+
+## DynamoDB Global Tables
+
+DynamoDB Global Tables feature make a DyanmoDB table accessibile with **low latency** in multiple-regions.
+
+A global table is truly global and users can read and write to the table in any specific region, there will just be replication between these two.
+
+So the fact that there is read/write access to any region of AWS on this global table, makes it an **active-active replication** because you can actively write to any region and it will actively be replicated into other regions.
+
+![DynamoDB Global Table](../../images/database/dynamodb_global_table.png)
