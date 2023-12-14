@@ -76,6 +76,7 @@ Databases & Analytics
 - [Aurora Basics](./docs/database/aurora_basics.md)
 - [ElastiCache Basics](./docs/database/elasticache_basics.md)
 - [DynamoDB Basics](./docs/database/dynamodb_basics.md)
+- [Redshift Basics](./docs/database/redshift_basics.md)
 
 ## Resources
 
