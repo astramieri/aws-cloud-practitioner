@@ -86,6 +86,7 @@ Databases & Analytics
 - [Managed Blockchain Basics](./docs/database/managed_blockchain_basics.md)
 - [Glue Basics](./docs/database/glue_basics.md)
 - [DMS Basics](./docs/database/dms_basics.md)
+- [Database & Analytics Summary](./docs/database/database_summary.md)
 
 ## Resources
 
