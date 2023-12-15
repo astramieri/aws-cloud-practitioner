@@ -88,6 +88,10 @@ Databases & Analytics
 - [DMS Basics](./docs/database/dms_basics.md)
 - [Database & Analytics Summary](./docs/database/database_summary.md)
 
+Other Compute Services
+
+- [Docker Basics](./docs/compute/docker.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
