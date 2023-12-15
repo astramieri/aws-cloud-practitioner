@@ -13,5 +13,5 @@
 - **QLDB**: Financial Transaction Ledger (immutable journal, cryptographically verifiable, central database)
 - **Managed Blockchain**: Managed Hyperledger Fabric & Ethereum blockchains (distributed)
 - **Glue**: Managed ETL (Extract Trasform Load) and Data Catalog service
-- **DMS**: Database migrations
+- **DMS**: Database migration service
 
