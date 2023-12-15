@@ -6,4 +6,4 @@
 - AWS takes care of starting/stopping the containers
 - Integrated with the Application Load Balancer
 
-![EC2](../../images/compute/ecs.png)
+![Elastic Container Service](../../images/compute/ecs.png)
