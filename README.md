@@ -91,6 +91,9 @@ Databases & Analytics
 Other Compute Services
 
 - [Docker Basics](./docs/compute/docker_basics.md)
+- [ECS Basics](./docs/compute/ecs_basics.md)
+- [Fargate Basics](./docs/compute/fargate_basics.md)
+
 
 ## Resources
 
