@@ -90,7 +90,7 @@ Databases & Analytics
 
 Other Compute Services
 
-- [Docker Basics](./docs/compute/docker.md)
+- [Docker Basics](./docs/compute/docker_basics.md)
 
 ## Resources
 
