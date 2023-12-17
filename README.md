@@ -98,6 +98,7 @@ Other Compute Services
 - [Lambda Basics](./docs/compute/lambda_basics.md)
 - [API Gateway Basics](./docs/compute/api_gateway_basics.md)
 - [Batch Basics](./docs/compute/batch_basics.md)
+- [Lightsail Basics](./docs/compute/lightsail_basics.md)
 
 ## Resources
 
