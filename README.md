@@ -96,6 +96,7 @@ Other Compute Services
 - [ECR Basics](./docs/compute/ecr_basics.md)
 - [Serverless Introduction](./docs/compute/serverless_introduction.md)
 - [Lambda Basics](./docs/compute/lambda_basics.md)
+- [API Gateway Basics](./docs/compute/api_gateway_basics.md)
 
 ## Resources
 
