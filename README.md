@@ -95,6 +95,7 @@ Other Compute Services
 - [Fargate Basics](./docs/compute/fargate_basics.md)
 - [ECR Basics](./docs/compute/ecr_basics.md)
 - [Serverless Introduction](./docs/compute/serverless_introduction.md)
+- [Lambda Basics](./docs/compute/lambda_basics.md)
 
 ## Resources
 
