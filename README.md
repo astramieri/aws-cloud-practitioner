@@ -99,6 +99,7 @@ Other Compute Services
 - [API Gateway Basics](./docs/compute/api_gateway_basics.md)
 - [Batch Basics](./docs/compute/batch_basics.md)
 - [Lightsail Basics](./docs/compute/lightsail_basics.md)
+- [Other Compute Summary](./docs/compute/other_compute_summary.md)
 
 ## Resources
 
