@@ -97,6 +97,7 @@ Other Compute Services
 - [Serverless Introduction](./docs/compute/serverless_introduction.md)
 - [Lambda Basics](./docs/compute/lambda_basics.md)
 - [API Gateway Basics](./docs/compute/api_gateway_basics.md)
+- [Batch Basics](./docs/compute/batch_basics.md)
 
 ## Resources
 
