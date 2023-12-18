@@ -101,6 +101,10 @@ Other Compute Services
 - [Lightsail Basics](./docs/compute/lightsail_basics.md)
 - [Other Compute Summary](./docs/compute/other_compute_summary.md)
 
+Deployments & Managing Infrastructure at Scale
+
+- [CloudFormation Basics](./docs/deploy/cloudformation_basics.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
