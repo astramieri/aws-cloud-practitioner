@@ -108,6 +108,7 @@ Deployments & Managing Infrastructure at Scale
 - [Elastic BeanStalk](./docs/deploy/beanstalk_basics.md)
 - [CodeDeploy](./docs/deploy/codedeploy_basics.md)
 - [CodeCommit](./docs/deploy/codecommit_basics.md)
+- [CodeBuild](./docs/deploy/codebuild_basics.md)
 
 ## Resources
 
