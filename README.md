@@ -105,6 +105,7 @@ Deployments & Managing Infrastructure at Scale
 
 - [CloudFormation Basics](./docs/deploy/cloudformation_basics.md)
 - [Cloud Development Kit (CDK)](./docs/deploy/cdk.md)
+- [Elastic BeanStalk](./docs/deploy/elastic_beanstalk.md)
 
 ## Resources
 
