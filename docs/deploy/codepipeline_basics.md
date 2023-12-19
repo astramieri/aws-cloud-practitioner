@@ -5,6 +5,7 @@
     - Basics for CICD (Continuous Integration & Continuous Delivery)
 - Fully managed
 - Compatible with CodeCommit, CodeBuild, CodeDeploy, Elastic Beanstalk, CloudFormation, 3rd party services (GitHub, GitLab, etc..) & custom plugins
+- Fast delivery & rapid updates
 
 ## CodePipeline Example
 
