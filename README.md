@@ -112,6 +112,7 @@ Deployments & Managing Infrastructure at Scale
 - [CodePipeline](./docs/deploy/codepipeline_basics.md)
 - [CodeArtifact](./docs/deploy/codeartifact_basics.md)
 - [CodeStar](./docs/deploy/codestar_basics.md)
+- [Cloud9](./docs/deploy/cloud9_basics.md)
 
 ## Resources
 
