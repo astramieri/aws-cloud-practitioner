@@ -110,7 +110,8 @@ Deployments & Managing Infrastructure at Scale
 - [CodeCommit](./docs/deploy/codecommit_basics.md)
 - [CodeBuild](./docs/deploy/codebuild_basics.md)
 - [CodePipeline](./docs/deploy/codepipeline_basics.md)
-- [CodeArtifact](./docs/deploy/codepipeline_artifact.md)
+- [CodeArtifact](./docs/deploy/codeartifact_basics.md)
+- [CodeStar](./docs/deploy/codestar_basics.md)
 
 ## Resources
 
