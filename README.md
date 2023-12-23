@@ -116,6 +116,10 @@ Deployments & Managing Infrastructure at Scale
 - [System Manager (SSM)](./docs/deploy/ssm_basics.md)
 - [Deploy and Dev Summary](./docs/deploy/deploy_and_dev_summary.md)
 
+Global Infrastructure
+
+[Global Application](./docs/global/global_application.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
