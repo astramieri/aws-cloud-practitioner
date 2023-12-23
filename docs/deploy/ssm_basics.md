@@ -18,3 +18,29 @@
 - Thanks to SSM agent,  we can **run commands, patch and configure servers**
 
 ![System Manager](../../images/deploy/system_manager.png)
+
+## SSM Session Manager
+
+- SSM Session Manager allows you to start a secure shell on your EC2 instance and on-premises servers 
+- **No SSH access, bastion hosts or SSH keys needed**
+- **No port 22 needed (better security)**
+- It supports for Linux, Windows and Mac OS
+- It can send session logs to S3 or CloudWatch Logs
+
+So to summarize, we have three ways of accessing our EC2 instance:
+1. **a terminal with SSH keys** (port 22 required)
+2. **EC2 Instance Connect** (port 22 required)
+3. **Session Manager + IAM role**
+
+## SSM Parameter Store  
+
+- SSM Parameter Store is a secure storage for configuration and secrets
+    - API keys
+    - passwords
+    - configurations
+    - etc.
+- Serverless, scalable, durable, easy SDK
+- Control access permissions using IAM
+- Version Tracking & Encryption (optional)
+
+![SSM Parameter Store ](../../images/deploy/ssm_parameter_store.png)
