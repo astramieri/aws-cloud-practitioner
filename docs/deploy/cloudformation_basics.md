@@ -10,6 +10,8 @@ Example:
 
 The CloudFormation creates thos for you, in **the right order**, with **the exact configuration** that you specify.
 
+CloudFormation is **free of use**, but you do pay for the resources created.
+
 ## Benefits of AWS CloudFormation
 
 - **Infrastructure as Code**

@@ -6,4 +6,4 @@
     - EC2 instances
     - On-Premises Servers
 
-Note. Servers/Instances must be provisioned and configured ahead of time with the **CodeDeploy Agent**.
+**NOTE**. Servers/Instances must be provisioned and configured ahead of time with the **CodeDeploy Agent**.

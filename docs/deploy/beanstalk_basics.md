@@ -15,7 +15,6 @@ Developer problems on AWS:
 - Elastic Beanstalk is a **developer centric** view of deploying an application on AWS
 - We still have full control over the configuration
 - **Beanstalk = Platform as a Service (PaaS)**
-- Beanstalk is free but you pay for the underlying instances
 - Beanstalk is a **managed service**
     - Instance configuration/OS is handled by Beanstalk
     - Deployment strategy is configurable but performed by Beanstalk
@@ -30,6 +29,8 @@ Developer problems on AWS:
     - Go, Java, PHP, Python, etc.
     - Single/Multi/Pre-configured Docker
     - If not supported, you can write your custom platform! (advanced)
+
+Elastic Beanstalk is **free of use**, but you do pay for the resources created.
 
 **NOTE**. All the resources that Beanstalk wants to create are actually created behind the scenes by CloudFormation.
 
