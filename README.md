@@ -118,7 +118,8 @@ Deployments & Managing Infrastructure at Scale
 
 Global Infrastructure
 
-[Global Application](./docs/global/global_application.md)
+- [Global Application](./docs/global/global_application.md)
+- [Route 53](./docs/global/route_53.md)
 
 ## Resources
 
