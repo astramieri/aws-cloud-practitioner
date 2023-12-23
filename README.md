@@ -113,6 +113,7 @@ Deployments & Managing Infrastructure at Scale
 - [CodeArtifact](./docs/deploy/codeartifact_basics.md)
 - [CodeStar](./docs/deploy/codestar_basics.md)
 - [Cloud9](./docs/deploy/cloud9_basics.md)
+- [System Manager (SSM)](./docs/deploy/ssm_basics.md)
 
 ## Resources
 
