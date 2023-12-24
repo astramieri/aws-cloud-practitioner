@@ -2,6 +2,12 @@
 
 **Route 53** is a managed DNS (Domain Name System).
 
+Route 53 features are (non exhaustive list): 
+- DNS
+- Domain Registration
+- Health Checks
+- Routing Policy
+
 A DNS is a collection of rules and records which helps clients understand how to reach the server through URLs.
 
 In AWS the most common records are:
