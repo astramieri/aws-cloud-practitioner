@@ -124,6 +124,7 @@ Global Infrastructure
 - [S3 Transfer Acceleraton](./docs/global/s3_transfer_acceleration.md)
 - [Global Accelerator](./docs/global/global_accelerator_basics.md)
 - [Outposts](./docs/global/outposts_basics.md)
+- [WaveLength](./docs/global/wavelength_basics.md)
 
 ## Resources
 
