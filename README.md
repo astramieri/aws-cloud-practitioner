@@ -121,6 +121,7 @@ Global Infrastructure
 - [Global Application](./docs/global/global_application.md)
 - [Route 53](./docs/global/route_53_basics.md)
 - [CloudFront](./docs/global/cloudfront_basics.md)
+- [S3 Transfer Acceleraton](./docs/global/s3_transfer_acceleration.md)
 
 ## Resources
 
