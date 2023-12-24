@@ -1,6 +1,7 @@
 # CloudFront Basics
 
 - CloudFront is **Content Delivery Network (CDN)**
+- CloudFront is a **global service**
 - It improves read performances because content is **cached at the edge locations**
 - It improves user experience (lower latency)
 - 216 Point of Presence (Edge Locations)
@@ -27,7 +28,7 @@ Using CloudFront and the edge locations, we can see that the content of our S3 b
 
 ![CloudFront: S3 as an Origin](../../images/global/cloudfront_s3_origin.png)
 
-## CloudFront VS S3 Cross Region Replication
+## CloudFront vs S3 Cross Region Replication
 
 - CloudFront
     - Global Edge Network (216 points of presence)
