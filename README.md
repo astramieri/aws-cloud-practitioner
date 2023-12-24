@@ -125,6 +125,7 @@ Global Infrastructure
 - [Global Accelerator](./docs/global/global_accelerator_basics.md)
 - [Outposts](./docs/global/outposts_basics.md)
 - [WaveLength](./docs/global/wavelength_basics.md)
+- [Local Zones](./docs/global/local_zones_basics.md)
 
 ## Resources
 
