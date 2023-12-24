@@ -126,6 +126,8 @@ Global Infrastructure
 - [Outposts](./docs/global/outposts_basics.md)
 - [WaveLength](./docs/global/wavelength_basics.md)
 - [Local Zones](./docs/global/local_zones_basics.md)
+- [Global Infrastructure](./docs/global/global_infrastructure.md)
+- [Global Infrastructure Summary](./docs/global/global_infrastructure_summary.md)
 
 ## Resources
 
