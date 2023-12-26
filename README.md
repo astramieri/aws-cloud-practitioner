@@ -134,6 +134,7 @@ Cloud Integrations
 - [Cloud Integrations](./docs/integration/cloud_integrations.md)
 - [SQS Basics](./docs/integration/sqs_basics.md)
 - [Kinesis Basics](./docs/integration/kinesis_basics.md)
+- [SNS Basics](./docs/integration/sns_basics.md)
 
 
 ## Resources
