@@ -132,6 +132,8 @@ Global Infrastructure
 Cloud Integrations
 
 - [Cloud Integrations](./docs/integration/cloud_integrations.md)
+- [SQS Basics](./docs/integration/sqs_basics.md)
+
 
 ## Resources
 
