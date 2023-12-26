@@ -129,6 +129,10 @@ Global Infrastructure
 - [Global Infrastructure](./docs/global/global_infrastructure.md)
 - [Global Infrastructure Summary](./docs/global/global_infrastructure_summary.md)
 
+Cloud Integrations
+
+- [Cloud Integrations](./docs/integration/cloud_integrations.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
