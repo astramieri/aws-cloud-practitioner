@@ -33,3 +33,22 @@ Important Metrics:
     - **INSUFFICIENT_DATA**: there is not enough data points to figure out if good or bad
     - **ALARM**: when it is bad
 
+## CloudWatch Logs
+
+- CloudWatch Logs can collect log from:
+    - ElasticBeanstalk: collection of logs from application
+    - ECS: collection from containers
+    - Lamba: collection from function logs
+    - CloudTrail based on filter
+    - CloudWatch log agents: on EC2 machines or on-premises servers
+    - Route53: Log DNS queries
+- Enables real-time monitoring of logs
+- Adjustable CloudWatch Logs retention
+
+CloudWatch Logs for EC2:
+- By default, no logs from you EC2 instance will go to the CloudWatch
+- You need to run a CloudWatch agent on EC2 to push the log files you want
+- Make sure IAM permissions are correct
+- The CloudWatch log agent can be setup on-premises too
+
+![CloudWatch Logs](../../images/monitoring/cloudwatch_logs.png)
