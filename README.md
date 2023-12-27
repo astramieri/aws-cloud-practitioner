@@ -138,6 +138,10 @@ Cloud Integrations
 - [MQ Basics](./docs/integration/mq_basics.md)
 - [Cloud Integrations Summary](./docs/integration/cloud_integrations_summary.md)
 
+Cloud Monitoring
+
+- [CloudWatch Basics](./docs/monitoring/cloudwatch_basics.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
