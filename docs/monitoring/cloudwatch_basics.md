@@ -15,7 +15,7 @@ Important Metrics:
     - Option for Detailed Monitoring ($$$): metrics every 1 minute
 - **EBS volumes**: Disk Reads/Writes
 - **S3 buckets**: Bucket Size Bytes, Number of Objects, All Requests
-- **Billing**: Totale Estimated Charge
+- **Billing**: Totale Estimated Charge (only us-east-1)
 - **Service limits**: How much you have been using a service API
 - **Custom metrics**: Push you own metrics
 
