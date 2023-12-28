@@ -145,7 +145,7 @@ Cloud Monitoring
 - [CloudTrail Basics](./docs/monitoring/cloudtrail_basics.md)
 - [X-Ray Basics](./docs/monitoring/xray_basics.md)
 - [CodeGuru Basics](./docs/monitoring/codeguru_basics.md)
-- [Health Basics](./docs/monitoring/health_basics.md)
+- [Health Basics](./docs/monitoring/health_dashboard_basics.md)
 - [Cloud Monitoring Summary](./docs/monitoring/cloud_monitoring_summary.md)
 
 ## Resources

@@ -1,4 +1,4 @@
-# Health Basics
+# Health Dashboard Basics
 
 There are two parts: 
 - Service History
