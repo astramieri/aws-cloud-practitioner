@@ -10,7 +10,7 @@
 
 With AWS X-Ray you get **tracing** and **visual analysis** of your application.
 
-![X-Ray Visual Analysis](../../images/monitoring/x-ray_visual_analysis.png)
+![X-Ray Visual Analysis](../../images/monitoring/xray_visual_analysis.png)
 
 ## X-Ray advantages:
 
