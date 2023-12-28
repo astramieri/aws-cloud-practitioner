@@ -142,6 +142,7 @@ Cloud Monitoring
 
 - [CloudWatch Basics](./docs/monitoring/cloudwatch_basics.md)
 - [EventBridge Basics](./docs/monitoring/eventbridge_basics.md)
+- [CloudTrail Basics](./docs/monitoring/cloudtrail_basics.md)
 
 ## Resources
 
