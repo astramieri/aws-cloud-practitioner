@@ -141,6 +141,7 @@ Cloud Integrations
 Cloud Monitoring
 
 - [CloudWatch Basics](./docs/monitoring/cloudwatch_basics.md)
+- [EventBridge Basics](./docs/monitoring/eventbridge_basics.md)
 
 ## Resources
 
