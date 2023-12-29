@@ -151,7 +151,7 @@ Cloud Monitoring
 VPC & Networking
 
 - [VPC Basics](./docs/networking/vpc_basics.md)
-- [NACLs & SGs Basics](./docs/networking/nacls_and_sgs.md)
+- [NACLs & SGs Basics](./docs/networking/nacls_and_sgs_basics.md)
 
 ## Resources
 
