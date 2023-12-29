@@ -1,7 +1,7 @@
-# Network ACL Basics
+# Network ACLs and Security Groups
 
 Two lines of defense:
-- **Network ACL (NACL)** (subnet level)
+- **Network ACLs (NACLs)** (subnet level)
     - A firewall that controls traffic from and to subnet (before it reaches our resources)
     - Can have ALLOW and DENY rules
     - Are attached to the **subnet level**
