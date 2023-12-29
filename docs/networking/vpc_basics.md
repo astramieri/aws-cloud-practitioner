@@ -14,3 +14,26 @@ VPC stands for **Virtual Private Cloud**.
 - **IPv6: Internet Protocol version 6** (3.4 x 10^38 addresses)
     - **Every IP address is public (no private range)**
     - Example: 2001:db8:3333:4444:cccc:dddd:eeee:ffff
+
+## VPC & Subnets Primer
+
+- VPC is a **private network cloud** to deploy your resources 
+    - A VPC is linked to a specific region (regional resource)
+- **Subnets** allow you to partition your network inside your VPC 
+    - A subnet is linked to an availability zone (AZ resource)
+    - A **public subnet** is accessible from the internet
+    - A **private subnet** is not accessibile from the internet
+- To define access to the internet and between subnets we use **Route Tables**
+
+![VPC Diagram](../../images/networking/vpc_diagram.png)
+
+## Internet Gateway & NAT Gateway
+
+- **Internet Gateways** helps our VPC instances connect with the internet
+    - Public Subnets have a route to the internet gateway
+    - A VCP can only have one Internet Gateway
+- **NAT Gateways** (AWS-managed) & **NAT Instances** (self-managed) allow your instances in your Private Subnets to access the internet while remaining private (e.g. software updates)
+
+How to allow private subnets to get internet connectivity ? We create a NAT Gateway or Nat instance in our public subnet and we create a route from the private subnets to the NAT Gateway, and from the NAT Gateway to the Internet Gateway. 
+
+![Internet and NAT Gateways](../../images/networking/gateways.png)
