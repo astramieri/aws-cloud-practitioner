@@ -151,6 +151,7 @@ Cloud Monitoring
 VPC & Networking
 
 - [VPC Basics](./docs/networking/vpc_basics.md)
+- [Network ACL Basics](./docs/networking/network_acl_basics.md)
 
 ## Resources
 
