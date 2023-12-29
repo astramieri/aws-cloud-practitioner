@@ -148,6 +148,10 @@ Cloud Monitoring
 - [Health Basics](./docs/monitoring/health_dashboard_basics.md)
 - [Cloud Monitoring Summary](./docs/monitoring/cloud_monitoring_summary.md)
 
+VPC & Networking
+
+- [VPC Basics](./docs/networking/vpc_basics.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
