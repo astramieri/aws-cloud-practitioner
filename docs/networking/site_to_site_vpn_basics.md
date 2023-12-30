@@ -1,5 +1,6 @@
-# Site to Site VPN & Direct Connect
+# Site to Site VPN Basics
 
+Two options to connect AWS to your data center:
 - **Site to Site VPN**
     - Connect an on-premise VPN to AWS
     - The connection is automatically encrypted

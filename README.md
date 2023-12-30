@@ -152,8 +152,11 @@ VPC & Networking
 
 - [VPC Basics](./docs/networking/vpc_basics.md)
 - [NACLs & SGs Basics](./docs/networking/nacls_and_sgs_basics.md)
-- [Site to Site VPN and Direct Connect](./docs/networking/s2s_vpn_and_dc_basics.md)
-- [Client VPN](./docs/networking/client_vpn.md)
+- [VPC Peering](./docs/networking/vpc_peering_basics.md)
+- [VPC Endpoints](./docs/networking/vpc_endpoints_basics.md)
+- [Site to Site VPN](./docs/networking/site_to_site_vpn_basics.md)
+- [Client VPN](./docs/networking/client_vpn_basics.md)
+- [Transit Gateway](./docs/networking/transit_gateway_basics.md)
 
 ## Resources
 
