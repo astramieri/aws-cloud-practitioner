@@ -37,3 +37,30 @@ VPC stands for **Virtual Private Cloud**.
 How to allow private subnets to get internet connectivity ? We create a NAT Gateway or Nat instance in our public subnet and we create a route from the private subnets to the NAT Gateway, and from the NAT Gateway to the Internet Gateway. 
 
 ![Internet and NAT Gateways](../../images/networking/gateways.png)
+
+## VPC Flow Logs Basics
+
+- Capture information about IP traffic going into your interfaces:
+    - VPL Flow Logs
+    - Subnet Flow Logs
+    - Elastic Network Interface Flow Logs
+- Help to monitor & troubleshoot connectivity issues
+    - e.g. a subnet cannot connect to internet
+    - e.g. a subnet cannot connect to another subnet
+    - e.g. internet cannot access a subnet
+- Capture network information from AWS managed interfaces:
+    - Elastic Load Balancers
+    - ElastiCache
+    - RDS
+    - Aurora
+    - Etc.
+- VPC Flow logs can go to S3, CloudWatch Logs, and Kinesis Data Firehose
+
+## VPC Peering
+
+- Connect two VPC privately using AWS network
+- Make them behave as if they were in the same network
+- Must not have overlapping CIDR (IP addresses range)
+- VPC peering connection **is not transitive** (must be enabled for each VPC that need to comunicate with one another)
+
+![VPC Peering](../../images/networking/vpc_peering.png)
