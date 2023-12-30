@@ -152,7 +152,6 @@ VPC & Networking
 
 - [VPC Basics](./docs/networking/vpc_basics.md)
 - [NACLs & SGs Basics](./docs/networking/nacls_and_sgs_basics.md)
-- [VPC Flow Logs Basics](./docs/networking/vpc_flow_logs_basics.md)
 
 ## Resources
 
