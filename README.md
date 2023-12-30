@@ -157,6 +157,7 @@ VPC & Networking
 - [Site to Site VPN](./docs/networking/site_to_site_vpn_basics.md)
 - [Client VPN](./docs/networking/client_vpn_basics.md)
 - [Transit Gateway](./docs/networking/transit_gateway_basics.md)
+- [VPC & Networking Basics](./docs/networking/vpc_and_networking_summary.md)
 
 ## Resources
 
