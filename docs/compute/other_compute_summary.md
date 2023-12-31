@@ -3,7 +3,7 @@
 - **Docker**: container technology to run applications
 - **ECS**: run Docker containers on EC2 instances
 - **Fargate**: run Docker containers serverless
-- **ECR**: private docker images repository
+- **ECR**: private Docker images repository
 - **Batch**: run batch jobs on AWS across managed EC2 intances
 - **Lightsail**: predictable & low pricing for simple applications & DB stacks
 
@@ -18,4 +18,4 @@
 - Use cases:
     - create thumbnails for images uploaded onto S3
     - run a serverless CRON job
-- API Gateway: expose Lambda functions as HTTP APIs
+- **API Gateway**: expose Lambda functions as HTTP APIs
