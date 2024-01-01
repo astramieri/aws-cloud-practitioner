@@ -10,12 +10,12 @@ VPC stands for **Virtual Private Cloud**.
     - **Private IPv4** can be used on private networks (LAN) such as internal ASW networking (e.g. 192.168.1.1)
         - Private IPv4 is fixed for EC2 instaces even if you start/stop them
 - **Elastic IP**: allows you to attach a fixed public IPv4 address to EC2 instance (it will cost you!)
-    - **Note**: has ongoing cost if not attached to EC2 instance or if the EC2 instance is stopped (because AWS needs to pay to keep that public IP alive and within its own network.)
-- **IPv6: Internet Protocol version 6** (3.4 x 10^38 addresses)
+    - **Note**: It has ongoing cost if not attached to EC2 instance or if the EC2 instance is stopped (because AWS needs to pay to keep that public IP alive and within its own network.)
+- **IPv6: Internet Protocol version 6** (3.4 * 10³⁸ naddresses)
     - **Every IP address is public (no private range)**
     - Example: 2001:db8:3333:4444:cccc:dddd:eeee:ffff
 
-## VPC & Subnets Primer
+## VPC & Subnets
 
 - VPC is a **private network cloud** to deploy your resources 
     - A VPC is linked to a specific region (regional resource)
@@ -29,21 +29,27 @@ VPC stands for **Virtual Private Cloud**.
 
 ## Internet Gateway & NAT Gateway
 
-- **Internet Gateways** helps our VPC instances connect with the internet
-    - Public Subnets have a route to the internet gateway
+- **Internet Gateways** allow VPC instances to connect with the internet
+    - Public Subnets have a route to the Internet Gateway
     - A VCP can only have one Internet Gateway
 - **NAT Gateways** (AWS-managed) & **NAT Instances** (self-managed) allow your instances in your Private Subnets to access the internet while remaining private (e.g. software updates)
 
-How to allow private subnets to get internet connectivity ? We create a NAT Gateway or Nat instance in our public subnet and we create a route from the private subnets to the NAT Gateway, and from the NAT Gateway to the Internet Gateway. 
+## NAT Gateway Example 
+
+How to allow private subnets to get internet connectivity ? 
+
+1. Create a NAT Gateway (or Nat Instance) in the public subnet
+2. Ceate a route from the private subnets to the NAT Gateway
+3. Create a route from the NAT Gateway to the Internet Gateway
 
 ![Internet and NAT Gateways](../../images/networking/gateways.png)
 
-## VPC Flow Logs Basics
+## VPC Flow Logs
 
 - Capture information about IP traffic going into your interfaces:
-    - VPL Flow Logs
+    - VPC Flow Logs
     - Subnet Flow Logs
-    - Elastic Network Interface Flow Logs
+    - ENI Flow Logs
 - Help to monitor & troubleshoot connectivity issues
     - e.g. a subnet cannot connect to internet
     - e.g. a subnet cannot connect to another subnet
