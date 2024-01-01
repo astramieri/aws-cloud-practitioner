@@ -14,4 +14,4 @@
     - Real-time data streaming, persistence and analysis
 - **MQ**
     - Managed message broker for ActiveMQ and RabbitMQ in the cloud
-    - Protocols: MQTT, AMQP, STOMP, Openwire, WSS
+    - Protocols: MQTT, AMQP, STOMP, OpenWire, WSS

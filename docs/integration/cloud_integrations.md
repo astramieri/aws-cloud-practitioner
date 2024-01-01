@@ -11,7 +11,7 @@ Synchronous between application can be problematic if there are sudden spikes of
 
 It is better to **decouple applications** using:
 - SQS: queue model (producer/consumer)
-- SNS: pub/sub model
+- SNS: publish/subscribe model
 - Kinesis: real-time data streaming model
 
 Decoupled services **can scale indipendently** from our application.

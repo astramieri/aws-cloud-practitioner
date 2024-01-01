@@ -7,7 +7,7 @@
 - Scale seamlessly (from 1 message per second to 10K per second)
 - Default retention of message is 4 days (maximum of 14 days)
 - No limit how many messages can be in the queue
-- **Messages are deleted after they are from the consumers**
+- **Messages are deleted after they are read from the consumers**
 - Low latency (<10ms on publish and receive)
 - Consumers share the work to read message & scale horizontally
 
@@ -15,11 +15,11 @@
 
 ## SQS to decouple betwen application tiers
 
-In this scenario there are two layers, the web servers and the video processing fully decoupled from the SQS queue and scaling independently.
+In this scenario there are two layers, the web servers and the video processing, fully decoupled from the SQS queue and scaling independently.
 
 ![SQS Queue](../../images/integration/sqs_example.png)
 
-## SQL FIFO Queues
+## SQS FIFO Queues
 
 When you have a normal SQS queue consumers can read messages altogether and they could be in different orders.
 
