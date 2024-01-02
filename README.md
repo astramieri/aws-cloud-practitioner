@@ -159,6 +159,10 @@ VPC & Networking
 - [Transit Gateway](./docs/networking/transit_gateway_basics.md)
 - [VPC & Networking Basics](./docs/networking/vpc_and_networking_summary.md)
 
+Security & Compliance
+
+- [AWS Shared Responsibility Model](./docs/security/shared_responsibility_model.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
