@@ -162,7 +162,8 @@ VPC & Networking
 Security & Compliance
 
 - [AWS Shared Responsibility Model](./docs/security/shared_responsibility_model.md)
-- [DDoS Protection](./docs/security/ddos_protection.md)
+- [DDoS Protection: Shield & WAF](./docs/security/ddos_protection.md)
+- [Network Firewall](./docs/security/network_firewall.md)
 
 ## Resources
 
