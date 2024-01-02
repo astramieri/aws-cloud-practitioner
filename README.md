@@ -164,6 +164,8 @@ Security & Compliance
 - [AWS Shared Responsibility Model](./docs/security/shared_responsibility_model.md)
 - [DDoS Protection: Shield & WAF](./docs/security/ddos_protection.md)
 - [Network Firewall](./docs/security/network_firewall.md)
+- [Firewall Manager](./docs/security/firewall_manager.md)
+- [Penetration Testing](./docs/security/penetration_testing.md)
 
 ## Resources
 
