@@ -22,6 +22,11 @@ In AWS the most common records are:
 
 ## Route 53 Routing Policies
 
+- Simple Routing Policy
+- Weighted Routing Policy
+- Latency Routing Policy
+- Failover Routing Policy
+
 ![Route 53 Routing Policies 1](../../images/global/routing_policies_1.png)
 
 ![Route 53 Routing Policies 2](../../images/global/routing_policies_2.png)
