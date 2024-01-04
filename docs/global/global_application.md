@@ -4,7 +4,7 @@ A **global application** is an application deployed in **multiple geographies**.
 
 Global Application Use Cases:
 - **Decreased Latency**
-    - Latency is the time it takes for a netowrk packet to reach the server
+    - Latency is the time it takes for a network packet to reach the server
     - Deploy the application closer to you users for better experience
 - **Disaster Recovery (DR)**
     - If an AWS region goes down (earthquake, storms, power shutdown, politics, etc.)
@@ -21,10 +21,12 @@ Global Application Use Cases:
 
 ## Global Application in AWS
 
-- Global DNS: **Ruote 53**
-    - Great to route users to the closest deployment with last latency
+- **Ruote 53**
+    - Global Domain Name System (DNS)
+    - Great to route users to the closest deployment with least latency
     - Great for disaster recover strategy
-- Global Content Delivery Network (CDN): **CloudFront**
+- **CloudFront**
+    - Global Content Delivery Network (CDN)
     - Replicate part of your application to AWS Edge Locations (decrease latency)
     - Cache common requests (improved user experience and decreased latency)
 - **S3 Transfer Acceleration**
