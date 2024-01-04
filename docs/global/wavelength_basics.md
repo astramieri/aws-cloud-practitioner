@@ -19,6 +19,6 @@
     - Interactive Live Video Streams
     - AR/VR
     - Real-time Gaming
-    - Anything that requires really low latency and to be very close at the edge to your users
+    - **Anything that requires really low latency and to be very close at the edge to your users**
     
 ![AWS WaveLength](../../images/global/wavelength.png)
