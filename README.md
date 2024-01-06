@@ -166,6 +166,7 @@ Security & Compliance
 - [Network Firewall](./docs/security/network_firewall.md)
 - [Firewall Manager](./docs/security/firewall_manager.md)
 - [Penetration Testing](./docs/security/penetration_testing.md)
+- [Encryption with KMS](./docs/security/encryption_with_kms.md)
 
 ## Resources
 
