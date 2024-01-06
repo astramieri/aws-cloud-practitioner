@@ -172,6 +172,7 @@ Security & Compliance
 - [AWS Artifact](./docs/security/aws_artifact.md)
 - [GuardDuty](./docs/security/guardduty.md)
 - [Inspector](./docs/security/inspector.md)
+- [Config](./docs/security/config.md)
 
 ## Resources
 
