@@ -171,6 +171,7 @@ Security & Compliance
 - [Secrets Manager](./docs/security/secrets_manager.md)
 - [AWS Artifact](./docs/security/aws_artifact.md)
 - [GuardDuty](./docs/security/guardduty.md)
+- [Inspector](./docs/security/inspector.md)
 
 ## Resources
 
