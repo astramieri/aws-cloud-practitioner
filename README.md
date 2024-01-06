@@ -170,6 +170,7 @@ Security & Compliance
 - [Certificate Manager](./docs/security/certificate_manager.md)
 - [Secrets Manager](./docs/security/secrets_manager.md)
 - [AWS Artifact](./docs/security/aws_artifact.md)
+- [GuardDuty](./docs/security/guardduty.md)
 
 ## Resources
 
