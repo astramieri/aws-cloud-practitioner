@@ -168,6 +168,7 @@ Security & Compliance
 - [Penetration Testing](./docs/security/penetration_testing.md)
 - [Encryption with KMS](./docs/security/encryption_with_kms.md)
 - [Certificate Manager](./docs/security/certificate_manager.md)
+- [Secrets Manager](./docs/security/secrets_manager.md)
 
 ## Resources
 
