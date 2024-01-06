@@ -167,6 +167,7 @@ Security & Compliance
 - [Firewall Manager](./docs/security/firewall_manager.md)
 - [Penetration Testing](./docs/security/penetration_testing.md)
 - [Encryption with KMS](./docs/security/encryption_with_kms.md)
+- [Certificate Manager](./docs/security/certificate_manager.md)
 
 ## Resources
 
