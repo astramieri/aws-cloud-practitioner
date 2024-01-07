@@ -177,6 +177,7 @@ Security & Compliance
 - [Security Hub](./docs/security/security_hub.md)
 - [Detective](./docs/security/detective.md)
 - [Abuse](./docs/security/abuse.md)
+- [Root User Privileges](./docs/security/root_user.md)
 
 ## Resources
 
