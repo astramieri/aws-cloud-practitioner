@@ -174,6 +174,7 @@ Security & Compliance
 - [Inspector](./docs/security/inspector.md)
 - [Config](./docs/security/config.md)
 - [Macie](./docs/security/macie.md)
+- [Security Hub](./docs/security/security_hub.md)
 
 ## Resources
 
