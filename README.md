@@ -178,6 +178,7 @@ Security & Compliance
 - [Detective](./docs/security/detective.md)
 - [Abuse](./docs/security/abuse.md)
 - [Root User Privileges](./docs/security/root_user.md)
+- [IAM Access Analyzer](./docs/security/iam_access_analyzer.md)
 
 ## Resources
 
