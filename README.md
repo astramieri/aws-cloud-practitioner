@@ -189,6 +189,7 @@ Machine Learning
 - [Translate](./docs/ml/translate.md)
 - [Lex & Connect](./docs/ml/lex_and_connect.md)
 - [Comprehend](./docs/ml/comprehend.md)
+- [SageMaker](./docs/ml/sakemaker.md)
 
 ## Resources
 
