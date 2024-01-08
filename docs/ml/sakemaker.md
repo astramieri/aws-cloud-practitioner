@@ -5,6 +5,6 @@
 
 ## ML process (simplified): predicting the CLF-CO2 exam score
 
-![AWS Lex & Connect](../../images/ml/sagemaker.png)
+![AWS SageMaker](../../images/ml/sagemaker.png)
 
 
