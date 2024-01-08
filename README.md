@@ -192,6 +192,7 @@ Machine Learning
 - [SageMaker](./docs/ml/sakemaker.md)
 - [Forecast](./docs/ml/forecast.md)
 - [Personalize](./docs/ml/personalize.md)
+- [Textract](./docs/ml/textract.md)
 
 ## Resources
 
