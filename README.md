@@ -193,6 +193,7 @@ Machine Learning
 - [Forecast](./docs/ml/forecast.md)
 - [Personalize](./docs/ml/personalize.md)
 - [Textract](./docs/ml/textract.md)
+- [Machine Learning Summary](./docs/ml/machine_learning_summary.md)
 
 ## Resources
 
