@@ -9,4 +9,4 @@
     - Financial Planning
     - Resource Planning
 
-![Forecast](../../images/ml/forecast.png)
+![AWS Forecast](../../images/ml/forecast.png)

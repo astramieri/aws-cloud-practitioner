@@ -191,7 +191,7 @@ Machine Learning
 - [Comprehend](./docs/ml/comprehend.md)
 - [SageMaker](./docs/ml/sakemaker.md)
 - [Forecast](./docs/ml/forecast.md)
-- [Kendra](./docs/ml/kendra.md)
+- [Personalize](./docs/ml/personalize.md)
 
 ## Resources
 
