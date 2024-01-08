@@ -190,6 +190,8 @@ Machine Learning
 - [Lex & Connect](./docs/ml/lex_and_connect.md)
 - [Comprehend](./docs/ml/comprehend.md)
 - [SageMaker](./docs/ml/sakemaker.md)
+- [Forecast](./docs/ml/forecast.md)
+- [Kendra](./docs/ml/kendra.md)
 
 ## Resources
 
