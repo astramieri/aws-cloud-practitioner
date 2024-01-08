@@ -1,4 +1,4 @@
-# Transcribe
+# AWS Transcribe
 
 - AWS Transcribe is a service that allows you to automatically **convert speech to text**
 - It uses a **deep learning process** called **automatic speech recognition (ASR)** to convert speech to text quickly and accurately
