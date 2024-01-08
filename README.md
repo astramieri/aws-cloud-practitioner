@@ -183,7 +183,7 @@ Security & Compliance
 
 Machine Learning
 
-- [Rekognition Overview](./docs/ml/recognition.md)
+- [Rekognition Overview](./docs/ml/rekognition.md)
 
 ## Resources
 
