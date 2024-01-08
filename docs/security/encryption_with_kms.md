@@ -1,7 +1,7 @@
 # Encryption with KMS
 
 There are two type of data encryption on AWS:
-- Encryption **at rest** (data stored on a device)
+- Encryption **at rest** (data stored or archived on a device)
     - E.g. encrypted at rest on EFS or S3
 - Encryption **in transit** (data moved from one location to another)
     - E.g. from on-premises to AWS or from EC2 to DynamoDB

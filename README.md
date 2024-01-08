@@ -169,7 +169,7 @@ Security & Compliance
 - [Encryption with KMS](./docs/security/encryption_with_kms.md)
 - [Certificate Manager](./docs/security/certificate_manager.md)
 - [Secrets Manager](./docs/security/secrets_manager.md)
-- [AWS Artifact](./docs/security/aws_artifact.md)
+- [Artifact](./docs/security/artifact.md)
 - [GuardDuty](./docs/security/guardduty.md)
 - [Inspector](./docs/security/inspector.md)
 - [Config](./docs/security/config.md)

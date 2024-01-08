@@ -1,6 +1,6 @@
 # AWS GaurdDuty
 
-- AWS GuardDuty helps you do **intelligent threat discovery** to protect your AWS account
+- AWS GuardDuty is a **threat detection service** that continuously monitors for malicious activity and unauthorized behaviour to protect yoour AWS accounts and workloads 
 - It uses Machine Learning algorithms, anomaly detection, third part data
 - One click to enable (30 days trial), no need to install software
 - Input data includes:
