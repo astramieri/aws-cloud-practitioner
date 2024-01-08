@@ -187,6 +187,7 @@ Machine Learning
 - [Transcribe](./docs/ml/transcribe.md)
 - [Polly](./docs/ml/polly.md)
 - [Translate](./docs/ml/translate.md)
+- [Lex & Connect](./docs/ml/lex_and_connect.md)
 
 ## Resources
 
