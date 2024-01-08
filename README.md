@@ -181,6 +181,10 @@ Security & Compliance
 - [IAM Access Analyzer](./docs/security/iam_access_analyzer.md)
 - [Security & Compliance Summary](./docs/security/security_and_compliance_summary.md)
 
+Machine Learning
+
+- [Rekognition Overview](./docs/ml/recognition.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
