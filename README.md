@@ -186,6 +186,7 @@ Machine Learning
 - [Rekognition](./docs/ml/rekognition.md)
 - [Transcribe](./docs/ml/transcribe.md)
 - [Polly](./docs/ml/polly.md)
+- [Translate](./docs/ml/translate.md)
 
 ## Resources
 
