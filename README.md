@@ -2,6 +2,10 @@
 
 Note-taking repository for AWS Certified Cloud Practitioner course (CLF-CO2)
 
+## Quick References
+
+- [List of AWS Services](./docs/aws_services.md)
+
 ## Notes
 
 Introduction
