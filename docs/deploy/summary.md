@@ -19,6 +19,8 @@
 
 ## Development
 
+- **Cloud Development Kit (CDK)**
+    - Define your cloud infrastructure using a programming language (compiled into a CloudFormation template)
 - **CodeCommit**
     - Store code in private Git repository (version controlled)
 - **CodeBuild**
@@ -30,8 +32,6 @@
 - **CodeArtifact**
     - Store software packages/dependencies on AWS
 - **CodeStar**
-    - Unified view fro allowing developers to do CICD and code
+    - Unified view for allowing developers to do CICD and code
 - **Cloud9**
     - Cloud IDE (Integrated Development Environment) with collaboration features
-- **Cloud Development Kit (CDK)**
-    - Define your cloud infrastructure using a programming language (compiled into a CloudFormation template)
