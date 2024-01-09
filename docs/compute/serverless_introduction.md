@@ -1,6 +1,6 @@
 # Serveless Introduction
 
-Severless is a new paradigm in which the developers don't manage the servers anymore: they just do what they do best, they just deploy the codes.
+Severless is a new paradigm in which the developers do nott manage the servers anymore. Developers "just" deploy the codes.
 
 Serverless was pioneered as a **Function as a Service (FaaS)** with **AWS Lambda** but now also includes anything that's managed (database, messaging, storage, etc.).
 

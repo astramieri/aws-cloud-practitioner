@@ -4,25 +4,25 @@ Databases are **optmized for a purpose** and come with different features, shape
 
 Databases types:
 - **Relational Databases**
-    - can use the SQL language to perform queries/lookups
-    - "engineered" for vertical scaling
+    - Can use the SQL language to perform queries/lookups
+    - "Engineered" for vertical scaling
 - **NoSQL Datatabases**
-    - NoSQL = non-SQL = non relational databases
-    - built for specific data models
-    - flexible schema for modern applications
-    - benefits: 
-        - flexibility: easy to evolve the data model
-        - scalability: designed to scale-out by using distributed clusters
-        - high-performance: optimized for a specific data model
-        - high-functional: types optimized for the data model
-    - examples:
-        - key-value
-        - document
-        - graph
-        - in-memory
-        - search databases
+    - NoSQL = non-SQL = non-relational databases
+    - Built for specific data models
+    - Flexible schema for modern applications
+    - Benefits: 
+        - Flexibility: easy to evolve the data model
+        - Scalability: designed to scale-out by using distributed clusters
+        - High-performance: optimized for a specific data model
+        - High-functional: types optimized for the data model
+    - Examples:
+        - Key-Value
+        - Document
+        - Graph
+        - In-Memory
+        - Search Databases
 
-## NoSQL data example: JSON
+## NoSQL Data Example: JSON
 
 - JSON = JavaScript Object Notation
 - JSON is a common form of data that fits into a NoSQL model
@@ -48,13 +48,13 @@ Databases types:
 AWS offers use to **manage** different databases.
 
 Benefits include:
-- quick provisioning
-- high availability
-- vertical/horizontal scaling
-- automated backup & restore
-- operations
-- upgrades
-- OS patching is handled by AWS
-- monitoring & alerting
+- Quick Provisioning
+- High Availability
+- Vertical/Horizontal Scaling
+- Automated Backup & Restore
+- Operations
+- Upgrades
+- OS patching
+- Monitoring & Alerting
 
-**NOTE**. Many database technologies could be run on EC2, but you must handle yourself the resiliency, backup, patching, high availability, fault tolerance, scaling, ...
+**NOTE**. Many database technologies could be run on EC2, but you must handle yourself the resiliency, backup, patching, high availability, fault tolerance, scaling, etc.

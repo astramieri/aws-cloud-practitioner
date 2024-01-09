@@ -4,4 +4,4 @@
 - It is a managed service to:
     - join public blockchain networks
     - create you own scalable private network
-- It is compatible with the frameworks Hyperledger Fabric & Ethereum
+- It is compatible with the frameworks **Hyperledger Fabric** and **Ethereum**

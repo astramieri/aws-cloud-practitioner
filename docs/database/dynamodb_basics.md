@@ -3,7 +3,7 @@
 - Fully managed
 - High available database (with replication across 3 AZ)
 - NoSQL Database (not a relational database)
-- Distributed **serverless database****
+- Distributed **serverless database**
 - Scale to massive workloads
 - Millions of requests per seconds, trillions of row, 100s of TB storage
 - Fast and consistent in performance
@@ -12,13 +12,15 @@
 - Low cost and auto-scaling capabilities
 - Standard & Infrequent Access (IA) Table Class
         
-** With RDS or with ElastiCache you need to provision a *instance type*, but with DynamoDB you don't. But there are still servers in the backend!
+**NOTE**. With RDS or with ElastiCache you need to provision a *instance type*, but with DynamoDB you don't. But there are still servers in the backend!
 
 ## DynamoDB Types of Data
 
 DynamoDB is a key/value database.
 
-The difference between DynamoDB and RDS is that DynamoDB will have all the data living within one single table and there's no way to join it with another table. So we need to make sure that all the relevant data is well formatted within our main DynamoDB table.
+The difference between DynamoDB and RDS is that DynamoDB will have all the data living within **one single table** and there's **no way to join** it with another table. 
+
+We need to make sure that all the relevant data is well formatted within our main DynamoDB table.
 
 ![DynamoDB Table](../../images/database/dynamodb_table.png)
 
@@ -26,7 +28,7 @@ The difference between DynamoDB and RDS is that DynamoDB will have all the data 
 
 ## DynamoDB Accelerator (DAX)
 
-- Fully managed in-memory cache for DynamoDB
+- **Fully managed in-memory cache for DynamoDB**
 - A cache specific for DynamoDB (it's not like ElastiCache)
 - 10x performance improvment when accessing DynamoDB tables
 - Micro-seconds latency
@@ -36,7 +38,7 @@ The difference between DynamoDB and RDS is that DynamoDB will have all the data 
 
 ## DynamoDB Global Tables
 
-DynamoDB Global Tables feature make a DyanmoDB table accessibile with **low latency** in multiple-regions.
+DynamoDB Global Tables feature make a DyanmoDB table accessibile with **low latency** in **multiple-regions**.
 
 A global table is truly global and users can read and write to the table in any specific region, there will just be replication between these two.
 

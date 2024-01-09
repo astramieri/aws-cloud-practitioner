@@ -1,13 +1,13 @@
 # Global Infrastructure Summary
 
 - **Route 53** (Global DNS)
-    - Great to route users to the closest deploymentwith least latency
+    - Great to route users to the closest deployment with least latency
     - Great for disaster recovery strategies
 - **CloudFront** (Global CDN)
     - Replicate part of your application to AWS Edge Locations (decrease latency)
     - Cache common requests (improved user experience and decrease latency)
 - **S3 Transfer Acceleration**
-    - Accelerate global uploads & downloads into Amazon S3
+    - Accelerate global uploads & downloads into S3
 - **AWS Global Accelerator**
     - Improve global application availability and performance using AWS global network
 - **AWS Outposts**

@@ -24,9 +24,9 @@ Docker images are stored in Docker Repositories.
 
 ## Docker VS Virtual Machines
 
-Docker is a *sort of*"* a virtualization technology, *but not exactly*. 
+Docker is a *sort of* a virtualization technology, *but not exactly*. 
 
-In Docker resources are shared withe the host: many containers on one server.
+In Docker resources are shared with the host: many containers on one server.
 
 ![Docker vs Virtual Machines](../../images/compute/docker_vs_vms.png)
 

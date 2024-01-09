@@ -1,0 +1,25 @@
+# Security and Compliance Summary
+
+- **Shared Responsibility on AWS**
+- **Shield**: automatic DDoS Protection (+ 24/7 support for advanced)
+- **WAF**: firewall to filter incoming requests bases on rules
+- **KMS**: encryption keys managed by AWS
+- **CloudHSM**: hardware encryption, AWS do not manage the encryption keys
+- **Certificate Manager**: provision, manage, and deploy SSL/TLS Certificates
+- **Artifact**: get access to compliance reports such as PCI, ISO, etc.
+- **GuardDuty**: find malicious behaviour with VPC, DNS & CloudTrail Logs
+- **Inspector**: find software vulnerabilities in EC2, ECR images, and Lambda functions
+- **Network Firewall**: protect VPC against network attacks
+- **Config**: track config changes and compliance against rules
+- **Macie**: find sensitive data (ex: PII data) in S3 buckets
+- **CloudTrail**: track API calls made by users within account
+- **Security Hub**: gather security findings from multiple AWS accounts
+- **Detective**: find the root cause of security issues or suspicious activities
+- **Abuse**: report AWS resources used for abusive or illegal purposes
+- **Root User Privileges**:
+    - Change account settings
+    - Close your AWS account
+    - Change or cancel your AWS Support Plan
+    - Register a seller in the Reserved Instance Marketplace
+- **IAM Access Analyzer**: identify which resources are shared externally
+- **Firewall Manager**: manage security rules accross an Organization (WAF, Shield, etc.)

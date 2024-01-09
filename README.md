@@ -137,8 +137,8 @@ Cloud Integrations
 
 - [Cloud Integrations](./docs/integration/cloud_integrations.md)
 - [SQS Basics](./docs/integration/sqs_basics.md)
-- [Kinesis Basics](./docs/integration/kinesis_basics.md)
 - [SNS Basics](./docs/integration/sns_basics.md)
+- [Kinesis Basics](./docs/integration/kinesis_basics.md)
 - [MQ Basics](./docs/integration/mq_basics.md)
 - [Cloud Integrations Summary](./docs/integration/cloud_integrations_summary.md)
 
@@ -156,6 +156,48 @@ VPC & Networking
 
 - [VPC Basics](./docs/networking/vpc_basics.md)
 - [NACLs & SGs Basics](./docs/networking/nacls_and_sgs_basics.md)
+- [VPC Peering](./docs/networking/vpc_peering_basics.md)
+- [VPC Endpoints](./docs/networking/vpc_endpoints_basics.md)
+- [Site to Site VPN](./docs/networking/site_to_site_vpn_basics.md)
+- [Client VPN](./docs/networking/client_vpn_basics.md)
+- [Transit Gateway](./docs/networking/transit_gateway_basics.md)
+- [VPC & Networking Basics](./docs/networking/vpc_and_networking_summary.md)
+
+Security & Compliance
+
+- [AWS Shared Responsibility Model](./docs/security/shared_responsibility_model.md)
+- [DDoS Protection: Shield & WAF](./docs/security/ddos_protection.md)
+- [Network Firewall](./docs/security/network_firewall.md)
+- [Firewall Manager](./docs/security/firewall_manager.md)
+- [Penetration Testing](./docs/security/penetration_testing.md)
+- [Encryption with KMS](./docs/security/encryption_with_kms.md)
+- [Certificate Manager](./docs/security/certificate_manager.md)
+- [Secrets Manager](./docs/security/secrets_manager.md)
+- [Artifact](./docs/security/artifact.md)
+- [GuardDuty](./docs/security/guardduty.md)
+- [Inspector](./docs/security/inspector.md)
+- [Config](./docs/security/config.md)
+- [Macie](./docs/security/macie.md)
+- [Security Hub](./docs/security/security_hub.md)
+- [Detective](./docs/security/detective.md)
+- [Abuse](./docs/security/abuse.md)
+- [Root User Privileges](./docs/security/root_user.md)
+- [IAM Access Analyzer](./docs/security/iam_access_analyzer.md)
+- [Security & Compliance Summary](./docs/security/security_and_compliance_summary.md)
+
+Machine Learning
+
+- [Rekognition](./docs/ml/rekognition.md)
+- [Transcribe](./docs/ml/transcribe.md)
+- [Polly](./docs/ml/polly.md)
+- [Translate](./docs/ml/translate.md)
+- [Lex & Connect](./docs/ml/lex_and_connect.md)
+- [Comprehend](./docs/ml/comprehend.md)
+- [SageMaker](./docs/ml/sakemaker.md)
+- [Forecast](./docs/ml/forecast.md)
+- [Personalize](./docs/ml/personalize.md)
+- [Textract](./docs/ml/textract.md)
+- [Machine Learning Summary](./docs/ml/machine_learning_summary.md)
 
 ## Resources
 

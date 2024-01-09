@@ -3,11 +3,11 @@
 A classic approach to run code in the cloud:
 - Virtual Server in the cloud (Amazon EC2)
 - Limited by RAM and CPU
-- Continously running-
+- Continously running
 - Scaling means intervention to add/remove servers
 
 With **Amazon Lambda**:
-- Virtual Fuctions (no server to manage!)
+- Virtual Fuctions (no server to manage)
 - Limited by time (short executions)
 - Run on-demand
 - Scaling is automated
