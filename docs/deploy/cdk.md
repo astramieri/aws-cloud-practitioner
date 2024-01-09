@@ -1,4 +1,4 @@
-# Cloud Development Kit (CDK) Basics
+# Cloud Development Kit (CDK)
 
 - **Cloud Development Kit (CDK)** is a way to define cloud infrastructure using a familiar programming language like JavaScript, Python, Java, etc
 - The **code is translated** into a CloudFormation template (JSON or YAML)

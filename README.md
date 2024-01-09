@@ -4,7 +4,7 @@ Note-taking repository for AWS Certified Cloud Practitioner course (CLF-CO2)
 
 ## Quick References
 
-- [List of AWS Services](./docs/aws_services.md)
+- [List of Amazon Web Services](./docs/aws_services.md)
 
 ## Notes
 
@@ -107,9 +107,9 @@ Other Compute Services
 
 Deployments & Managing Infrastructure at Scale
 
-- [CloudFormation Basics](./docs/deploy/cloudformation_basics.md)
-- [Cloud Development Kit (CDK)](./docs/deploy/cdk_basics.md)
-- [Elastic BeanStalk](./docs/deploy/beanstalk_basics.md)
+- [CloudFormation](./docs/deploy/cloudformation.md)
+- [Cloud Development Kit (CDK)](./docs/deploy/cdk.md)
+- [Elastic BeanStalk](./docs/deploy/elastic_beanstalk.md)
 - [CodeDeploy](./docs/deploy/codedeploy_basics.md)
 - [CodeCommit](./docs/deploy/codecommit_basics.md)
 - [CodeBuild](./docs/deploy/codebuild_basics.md)
