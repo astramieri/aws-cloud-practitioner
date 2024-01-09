@@ -1,21 +1,21 @@
-# Deployment and Developer Summary
+# Summary
 
 ## Deployment
 
 - **CloudFormation** (AWS only)
     - Infrastructure-as-a-Code (IaaC), 
     - Works with almost all of AWS resources
-- **Beanstalk** (AWS only)
+- **Elastic Beanstalk** (AWS only)
     - Platform-as-a-Service (PaaS)
     - Limited to certain programming language or Docker
     - Deploy code consistently with a known architecture (e.g. ALB + EC2 + RDS)
 - **CodeDeploy** (hybrid)
-    - deploy and upgrade any application onto servers
+    - Deploy and upgrade any application onto servers
     - EC2 instances or on-premises infrastructure
-- **System Manager** (hybrid)
-    - patch, configure and run commands at scale
+- **Systems Manager (SSM)** (hybrid)
+    - Patch, configure and run commands at scale
 - **OpsWorks**
-    - managed Chef and Puppet in AWS
+    - Managed Chef and Puppet in AWS
 
 ## Development
 
@@ -28,10 +28,10 @@
 - **CodePipeline**
     - Orchestration of pipeline (from code to build to deploy)
 - **CodeArtifact**
-    - Store software packages / dependecies on AWS
-- **CodeStart**
+    - Store software packages/dependencies on AWS
+- **CodeStar**
     - Unified view fro allowing developers to do CICD and code
 - **Cloud9**
     - Cloud IDE (Integrated Development Environment) with collaboration features
-- **AWS CDK**
+- **Cloud Development Kit (CDK)**
     - Define your cloud infrastructure using a programming language (compiled into a CloudFormation template)

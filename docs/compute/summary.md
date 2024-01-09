@@ -1,4 +1,4 @@
-# Other Compute Summary
+# Summary
 
 - **Docker**: container technology to run applications
 - **ECS**: run Docker containers on EC2 instances

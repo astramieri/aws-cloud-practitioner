@@ -103,22 +103,22 @@ Other Compute Services
 - [API Gateway Basics](./docs/compute/api_gateway_basics.md)
 - [Batch Basics](./docs/compute/batch_basics.md)
 - [Lightsail Basics](./docs/compute/lightsail_basics.md)
-- [Other Compute Summary](./docs/compute/other_compute_summary.md)
+- [Summary](./docs/compute/summary.md)
 
 Deployments & Managing Infrastructure at Scale
 
 - [CloudFormation](./docs/deploy/cloudformation.md)
 - [Cloud Development Kit (CDK)](./docs/deploy/cdk.md)
 - [Elastic BeanStalk](./docs/deploy/elastic_beanstalk.md)
-- [CodeDeploy](./docs/deploy/codedeploy_basics.md)
-- [CodeCommit](./docs/deploy/codecommit_basics.md)
-- [CodeBuild](./docs/deploy/codebuild_basics.md)
-- [CodePipeline](./docs/deploy/codepipeline_basics.md)
-- [CodeArtifact](./docs/deploy/codeartifact_basics.md)
-- [CodeStar](./docs/deploy/codestar_basics.md)
-- [Cloud9](./docs/deploy/cloud9_basics.md)
-- [System Manager (SSM)](./docs/deploy/ssm_basics.md)
-- [Deploy and Dev Summary](./docs/deploy/deploy_and_dev_summary.md)
+- [CodeCommit](./docs/deploy/codecommit.md)
+- [CodeBuild](./docs/deploy/codebuild.md)
+- [CodeDeploy](./docs/deploy/codedeploy.md)
+- [CodePipeline](./docs/deploy/codepipeline.md)
+- [CodeArtifact](./docs/deploy/codeartifact.md)
+- [CodeStar](./docs/deploy/codestar.md)
+- [Cloud9](./docs/deploy/cloud9.md)
+- [Systems Manager (SSM)](./docs/deploy/systems_manager.md)
+- [Summary](./docs/deploy/summary.md)
 
 Global Infrastructure
 

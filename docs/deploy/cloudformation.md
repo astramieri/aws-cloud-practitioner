@@ -39,4 +39,4 @@ Example: WordPress CloudFormation Stack
 - You can see all the resources
 - You can see all the relations between the components
 
-![WordPress CloudFormation Designer](../../images/deploy/cloudformation_stack_designer.png)
+![WordPress CloudFormation Designer](../../images/deploy/wordpress_cloudformation.png)

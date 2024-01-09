@@ -1,4 +1,4 @@
-# Cloud9 Basics
+# Cloud9
 
 A cloud IDE can be used within a web browser, meaning you can work on your project from you office, home, or anywhere with internet with no setup necessary.
 

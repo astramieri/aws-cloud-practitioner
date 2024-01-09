@@ -1,4 +1,4 @@
-# CodeCommit Basics
+# CodeCommit
 
 - Source-control service that hosts Git-based repositories
 - Make it easy to collaborate with others on code

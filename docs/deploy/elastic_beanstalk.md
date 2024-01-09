@@ -1,17 +1,5 @@
 # Elastic Beanstalk
 
-![Typical Wep App 3-tier Architecture](../../images/deploy/web_app_3_tier.png)
-
-This architecture is something we can easily reproduce manually or with CloudFormation, but there is a better way.
-
-Developer problems on AWS:
-
-- Managing infrastructure
-- Deploying code
-- Scaling concerns
-
-## Elastic Beanstalk Overview
-
 - Elastic Beanstalk is a **developer centric** view of deploying an application on AWS
 - Elastic Beanstalk is a **Platform as a Service (PaaS)**
 - Elastic Beanstalk is a **managed service**

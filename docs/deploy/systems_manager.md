@@ -1,6 +1,6 @@
-# System Manager (SSM)  
+# Systems Manager (SSM)  
 
-- System Manager (SSM) helps you manage your **EC2 instances and On-Premises systems** at scale
+- Systems Manager (SSM) helps you manage your **EC2 instances and On-Premises systems** at scale
 - SSM is another **hybrid service**
 - SSM provides operational insights about the state of your intrastructure
 - Suite of **10+ products**
@@ -17,7 +17,7 @@
 - If an instance can't be controlled with SSM, it is probably an issue with the SSM agent
 - Thanks to SSM agent,  we can **run commands, patch and configure servers**
 
-![System Manager](../../images/deploy/system_manager.png)
+![Systems Manager](../../images/deploy/systems_manager.png)
 
 ## SSM Session Manager
 
