@@ -51,11 +51,11 @@ EC2 Storage
 
 Elastic Load Balancing (ELB) & Auto Scaling Groups (ASG)
 
-- [Scalability and High Availability](./docs/elb/scalability_and_high_availability.md)
-- [ELB Basics](./docs/elb/elb_basics.md)
-- [ASG Basics](./docs/elb/asg_basics.md)
+- [Scalability & High Availability](./docs/elb/scalability_and_high_availability.md)
+- [ELB](./docs/elb/elb.md)
+- [ASG](./docs/elb/asg.md)
 - [ASG Strategies](./docs/elb/asg_strategies.md)
-- [ELB & ASG Summary](./docs/elb/elb_and_asg_summary.md)
+- [Summary](./docs/elb/summary.md)
 
 Simple Storage Service (S3)
 

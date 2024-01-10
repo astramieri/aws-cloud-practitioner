@@ -5,15 +5,15 @@
 Scalability means that an application or system can handle greater loads by adapting.
 
 The are two kinds of scalability:
-- vertical scalability
-    - it means increasing the size of the instance/system
+- Vertical Scalability
+    - It means increasing the size of the instance/system
         - e.g. from *t2.micro* to *t2.large*
-    - it is very common for non distributed system (e.g. database)
-    - there is usually a limit to how much you can scale (hardware limit)
-- horizontal scalability (= elasticity)
-    - it means increasing the number of instances/systems for you application
-    - horizontal scaling implies distributed systems
-    - this is very common for web/modern application
+    - It is very common for non distributed system (e.g. database)
+    - There is usually a limit to how much you can scale (hardware limit)
+- Horizontal Scalability (= Elasticity)
+    - It means increasing the number of instances/systems for you application
+    - Horizontal scaling implies **distributed systems**
+    - This is very common for web/modern application
 
 Scalability is linked but different to High Availability.
 
@@ -28,8 +28,8 @@ The goal of high availability is to survive a data center loss (disaster).
 ## Scalability and High Availability for EC2
 
 - Vertical Scaling: increase instance size (= scale up/down)
-    - from t2.nano (0.5 GB of RAM, 1 vCPU)
-    - from u-12tb1.metal (12.3 TB of RAM, 448 vCPUs)
+    - t2.nano (0.5 GB of RAM, 1 vCPU)
+    - u-12tb1.metal (12.3 TB of RAM, 448 vCPUs)
 
 - Horizontal Scaling: increase numbner of instances (= scale in/out)
     - Auto Scaling Group
