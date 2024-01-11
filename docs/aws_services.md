@@ -15,8 +15,9 @@ List of services in alphabetical order.
 | CodePipeline | Developer Tools | Release software using continuos delivery |
 | CodeStar | Developer Tools | Develop and deploy AWS application |
 | EC2 (Elastic Cloud Compute) | Compute | Virtual servers in the cloud |
-| Elastic Beanstalk | Networking & Content Delivery | Run and manage web apps |
-| ELB (Elastic Load Balancing) | Compute | istribute incoming traffic across multiple targets |
+| EC2 Auto Scaling | Compute | Scale compute capacity to meet demand |
+| Elastic Beanstalk | Compute | Run and manage web apps |
+| ELB (Elastic Load Balancing) | Networking & Content Delivery | Distribute incoming traffic across multiple targets |
 | S3 (Simple Storage Service) | Storage | Scalable storage in the cloud |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
 
