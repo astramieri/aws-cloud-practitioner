@@ -201,7 +201,8 @@ Machine Learning
 
 Advanced Identity
 
-- [Security Toekn Service (STS) Overview](./docs/identity/sts.md)
+- [Security Token Service (STS)](./docs/identity/sts.md)
+- [Cognito](./docs/identity/cognito.md)
 
 ## Resources
 

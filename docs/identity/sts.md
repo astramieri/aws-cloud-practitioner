@@ -1,4 +1,4 @@
-# Security Token Service (STS)
+# AWS Security Token Service (STS)
 
 - Security Token Service (STS) enables you to create **temporary, limited-privileges credentials** to access your AWS resources
 - Short-term credentials (you configure expiration period)
