@@ -15,13 +15,12 @@ List of services in alphabetical order.
 | CodeDeploy | Developer Tools | Automate code deployments |
 | CodePipeline | Developer Tools | Release software using continuos delivery |
 | CodeStar | Developer Tools | Develop and deploy AWS application |
+| Directory Service | Security, Identity and Compliance | Host and manage Active Directory (AD) |
 | EC2 (Elastic Cloud Compute) | Compute | Virtual servers in the cloud |
 | EC2 Auto Scaling | Compute | Scale compute capacity to meet demand |
 | Elastic Beanstalk | Compute | Run and manage web apps |
 | ELB (Elastic Load Balancing) | Networking & Content Delivery | Distribute incoming traffic across multiple targets |
+| IAM Identity Center | Security, Identity and Compliance | Securely manage access to services and resources |
 | S3 (Simple Storage Service) | Storage | Scalable storage in the cloud |
 | STS (Security Toekn Service) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
-
-
-
