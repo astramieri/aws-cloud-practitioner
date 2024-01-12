@@ -199,6 +199,10 @@ Machine Learning
 - [Textract](./docs/ml/textract.md)
 - [Machine Learning Summary](./docs/ml/machine_learning_summary.md)
 
+Advanced Identity
+
+- [Security Toekn Service (STS) Overview](./docs/identity/sts.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)

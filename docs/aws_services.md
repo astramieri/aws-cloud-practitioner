@@ -19,6 +19,7 @@ List of services in alphabetical order.
 | Elastic Beanstalk | Compute | Run and manage web apps |
 | ELB (Elastic Load Balancing) | Networking & Content Delivery | Distribute incoming traffic across multiple targets |
 | S3 (Simple Storage Service) | Storage | Scalable storage in the cloud |
+| STS (Security Toekn Service) | Request temporary, limited-privilege credentials for AWS IAM users or federated users | Security, Identity and Compliance |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
 
 
