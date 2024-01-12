@@ -203,6 +203,7 @@ Advanced Identity
 
 - [Security Token Service (STS)](./docs/identity/sts.md)
 - [Cognito](./docs/identity/cognito.md)
+- [Directory Service](./docs/identity/directory_service.md)
 
 ## Resources
 
