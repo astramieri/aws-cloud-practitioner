@@ -210,6 +210,7 @@ Advanced Identity
 Other Services
 
 - [Workspaces](./docs/other/workspaces.md)
+- [AppStream 2.0](./docs/other/appstream.md)
 
 ## Resources
 

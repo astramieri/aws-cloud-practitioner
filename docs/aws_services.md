@@ -4,6 +4,7 @@ List of services in alphabetical order.
 
 | Service | Category | Description |
 | - | - | - |
+| AppStream 2.0 | End User Computing | Stream desktop applications securely to a browser |
 | CDK (Cloud Development Kit) | Developer Tools | Model cloud infrastructure using code |
 | Cloud9 | Developer Tools | Write, run, and debug code on a cloud IDE |
 | CloudFormation | Management & Governance | Create and manage resources with templates |
@@ -24,3 +25,4 @@ List of services in alphabetical order.
 | S3 (Simple Storage Service) | Storage | Scalable storage in the cloud |
 | STS (Security Toekn Service) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
+| Workspaces | End User Computing | Virtual desktop services for every use case |
