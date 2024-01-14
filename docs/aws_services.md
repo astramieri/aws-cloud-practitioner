@@ -19,6 +19,7 @@ List of services in alphabetical order.
 | CodeDeploy | Developer Tools | Automate code deployments |
 | CodePipeline | Developer Tools | Release software using continuos delivery |
 | CodeStar | Developer Tools | Develop and deploy AWS application |
+| Device Farm | Front-End Web & Mobile | Test Android, iOS, and web apps on real devices in the AWS cloud |
 | Directory Service | Security, Identity and Compliance | Host and manage Active Directory (AD) |
 | EC2 (Elastic Cloud Compute) | Compute | Virtual servers in the cloud |
 | EC2 Auto Scaling | Compute | Scale compute capacity to meet demand |

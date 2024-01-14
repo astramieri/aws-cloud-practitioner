@@ -8,4 +8,4 @@
 
 *Serverless Application Model (SAM)
 
-![Application Composer](../../images/other/application_composer.png)
+![AWS Application Composer](../../images/other/application_composer.png)

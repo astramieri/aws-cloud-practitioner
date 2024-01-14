@@ -6,7 +6,7 @@
 
 ## Example: Blender
 
-![AppStream 2.0 Example](../../images/other/appstream.png)
+![AWS AppStream 2.0 Example](../../images/other/appstream.png)
 
 ## Workspaces vs AppStream 2.0
 
