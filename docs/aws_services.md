@@ -5,6 +5,7 @@ List of services in alphabetical order.
 | Service | Category | Description |
 | - | - | - |
 | AppStream 2.0 | End User Computing | Stream desktop applications securely to a browser |
+| AppSync | Front-End Web & Mobile | Fully-managed, scalable GraphQL APIs |
 | CDK (Cloud Development Kit) | Developer Tools | Model cloud infrastructure using code |
 | Cloud9 | Developer Tools | Write, run, and debug code on a cloud IDE |
 | CloudFormation | Management & Governance | Create and manage resources with templates |
