@@ -211,6 +211,7 @@ Other Services
 
 - [Workspaces](./docs/other/workspaces.md)
 - [AppStream 2.0](./docs/other/appstream.md)
+- [IoT Core](./docs/other/iot_core.md)
 
 ## Resources
 
