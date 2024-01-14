@@ -207,6 +207,10 @@ Advanced Identity
 - [IAM Identity Center](./docs/identity/iam_identity_center.md)
 - [Summary](./docs/identity/summary.md)
 
+Other Services
+
+- [Workspaces](./docs/other/workspaces.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
