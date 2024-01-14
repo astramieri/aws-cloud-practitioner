@@ -213,6 +213,7 @@ Other Services
 - [AppStream 2.0](./docs/other/appstream.md)
 - [IoT Core](./docs/other/iot_core.md)
 - [AppSync](./docs/other/appsync.md)
+- [Amplify](./docs/other/amplify.md)
 
 ## Resources
 
