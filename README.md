@@ -216,6 +216,7 @@ Other Services
 - [Amplify](./docs/other/amplify.md)
 - [Application Composer](./docs/other/application_composer.md)
 - [Device Farm](./docs/other/device_farm.md)
+- [Backup](./docs/other/backup.md)
 
 ## Resources
 
