@@ -219,6 +219,7 @@ Other Services
 - [Backup](./docs/other/backup.md)
 - [DR Strategies](./docs/other/dr_strategies.md)
 - [Elastic Disaster Recovery (DRS)](./docs/other/drs.md)
+- [DataSync](./docs/other/datasync.md)
 
 ## Resources
 
