@@ -25,6 +25,7 @@ List of services in alphabetical order.
 | EC2 (Elastic Cloud Compute) | Compute | Virtual servers in the cloud |
 | EC2 Auto Scaling | Compute | Scale compute capacity to meet demand |
 | Elastic Beanstalk | Compute | Run and manage web apps |
+| Elastic Disaster Recovery (DRS) | Storage | Scalable, cost-effective application recovery |
 | ELB (Elastic Load Balancing) | Networking & Content Delivery | Distribute incoming traffic across multiple targets |
 | IAM Identity Center | Security, Identity and Compliance | Securely manage access to services and resources |
 | IoT Core | Internet of Things | Connect devices to the cloud |
