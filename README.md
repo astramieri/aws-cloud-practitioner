@@ -217,6 +217,7 @@ Other Services
 - [Application Composer](./docs/other/application_composer.md)
 - [Device Farm](./docs/other/device_farm.md)
 - [Backup](./docs/other/backup.md)
+- [DR Strategies](./docs/other/dr_strategies.md)
 
 ## Resources
 
