@@ -41,13 +41,13 @@ Elastic Compute Cloud (EC2)
 
 EC2 Storage
 
-- [EBS Basics](./docs/ec2_storage/ebs_basics.md)
+- [EBS](./docs/ec2_storage/ebs.md)
 - [EBS Snapshots](./docs/ec2_storage/ebs_snapshots.md)
 - [EC2 Instance Store](./docs/ec2_storage/ec2_instance_store.md)
-- [EFS Basics](./docs/ec2_storage/efs_basics.md)
-- [FSx Basics](./docs/ec2_storage/fsx_basics.md)
-- [EC2 Storage Shared Responsibility Model](./docs/ec2_storage/ec2_storage_shared_responsibility.md)
-- [EC2 Storage Summary](./docs/ec2_storage/ec2_storage_summary.md)
+- [EFS](./docs/ec2_storage/efs.md)
+- [FSx](./docs/ec2_storage/fsx.md)
+- [Shared Responsibility Model](./docs/ec2_storage/shared_responsibility.md)
+- [Summary](./docs/ec2_storage/summary.md)
 
 Elastic Load Balancing (ELB) & Auto Scaling Groups (ASG)
 

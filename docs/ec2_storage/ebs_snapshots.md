@@ -10,14 +10,14 @@ You can copy snapshots across Availability Zones or Regions in order to transfer
 
 ## EBS Snapshot Archive
 
-- move a snapshot to an "archive tier" that is 74% cheaper
-- takes within 24 to 72 hours for restoring the archive
+- Move a snapshot to an "archive tier" that is 74% cheaper
+- Takes within 24 to 72 hours for restoring the archive
 
 ![EBS Snapshot Archive](../../images/ec2_storage/ebs_snapshot_archive.png)
 
 ## EBS Snapshot Recycle Bin
 
-- setup rules to retain deleted snapshots so you can recover them after an accidental deletion
-- specify retention (from 1 day to 1 year)
+- Setup rules to retain deleted snapshots so you can recover them after an accidental deletion
+- Specify retention (from 1 day to 1 year)
 
 ![EBS Snapshots Recycle Bin](../../images/ec2_storage/ebs_snapshot_recycle_bin.png)
