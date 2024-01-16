@@ -1,4 +1,4 @@
-# IAM Summary
+# Summary
 
 - **Users**: mapped to a physical user; has a password for AWS console
 - **Groups**: contains users only

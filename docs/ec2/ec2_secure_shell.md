@@ -1,4 +1,4 @@
-# Secure Shell
+# EC2 Secure Shell
 
 ![SSH Summary Table](../../images/ec2/ec2_secure_shell.png)
 
