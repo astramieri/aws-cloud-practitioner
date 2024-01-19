@@ -1,4 +1,4 @@
-# RDS Basics
+# RDS
 
 RDS stands for **Relational Database Service**.
 

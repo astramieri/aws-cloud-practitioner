@@ -75,7 +75,7 @@ Simple Storage Service (S3)
 Databases & Analytics
 
 - [Database Basics](./docs/database/database_basics.md)
-- [RDS Basics](./docs/database/rds_basics.md)
+- [RDS](./docs/database/rds.md)
 - [RDS Deployment Options](./docs/database/rds_deployment.md)
 - [Aurora Basics](./docs/database/aurora_basics.md)
 - [ElastiCache Basics](./docs/database/elasticache_basics.md)
