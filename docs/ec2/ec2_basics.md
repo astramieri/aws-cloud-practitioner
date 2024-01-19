@@ -2,11 +2,11 @@
 
 Elastic Compute Cloud (EC2) is one of the most popular of AWS offering.
 
-EC2 is not just one service, it mainly consists:
-- renting virtual machine (EC2 instances)
-- storing data on virtual drives (EBS volumes)
-- distributing load across machine (ELB - Elastic Load Balancer)
-- scaling services using an auto-scaling group (ASG)
+EC2 is not just one service. It mainly consists:
+- Renting virtual machine (EC2 instances)
+- Storing data on virtual drives (EBS volumes)
+- Distributing load across machine (ELB - Elastic Load Balancer)
+- Scaling services using an auto-scaling group (ASG)
 
 ## EC2 Sizing & Configuration Options
 
@@ -29,7 +29,7 @@ This script **only run once** ad the instance **first start**.
 The EC2 User Data Script runs with the root user.
 
 EC2 user data is used to automate boot tasks such as:
-- installing updates
-- installing software
-- downloading common files from the internet
-- *anything you can think of*
+- Installing updates
+- Installing software
+- Downloading common files from the internet
+- *Anything you can think of*

@@ -1,4 +1,4 @@
-# EC2 Summary
+# Summary
 
 - **EC2 Instance**
     - Amazon Machine Image (AMI) (OS)
