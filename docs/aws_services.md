@@ -35,6 +35,7 @@ List of services in alphabetical order.
 | FSx | Storage | Managed service to get third-party high-performance file systems |
 | IAM Identity Center | Security, Identity and Compliance | Securely manage access to services and resources |
 | IoT Core | Internet of Things | Connect devices to the cloud |
+| Migration Evaluator | Migration & Transfer | Create a business case for cloud migration |
 | Simple Storage Service (S3) | Storage | Scalable storage in the cloud |
 | Security Toekn Service (STS) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
 | Systems Manager | Management & Governance | Gain operational insights and take action |

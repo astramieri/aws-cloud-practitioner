@@ -222,6 +222,7 @@ Other Services
 - [DataSync](./docs/other/datasync.md)
 - [Application Discovery Service](./docs/other/application_discovery_service.md)
 - [Application Migration Service (MGN)](./docs/other/application_migration_service.md)
+- [Migration Evaluator](./docs/other/migration_evaluator.md)
 
 ## Resources
 
