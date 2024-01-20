@@ -225,6 +225,8 @@ Other Services
 - [Migration Evaluator](./docs/other/migration_evaluator.md)
 - [Migration Hub](./docs/other/migration_hub.md)
 - [Fault Injection Simulator (FIS)](./docs/other/fis.md)
+- [Step Functions](./docs/other/step_functions.md)
+- [Ground Stations](./docs/other/step_functions.md)
 
 ## Resources
 
