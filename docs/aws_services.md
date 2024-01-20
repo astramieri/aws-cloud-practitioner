@@ -6,6 +6,8 @@ List of services in alphabetical order.
 | - | - | - |
 | Amplify | Front-End Web & Mobile | Build, deploy, and host scalable web and mobile apps |
 | Application Composer | Serverless | Visually design and build serverless applications quickly |
+| Application Discovery Service | Migration & Transfer | Discover on-premises applications to streamline migration |
+| Application Migration Service (MGN) | Migration & Transfer | Move and improve your on-premises and cloud-based applications |
 | AppStream 2.0 | End User Computing | Stream desktop applications securely to a browser |
 | AppSync | Front-End Web & Mobile | Fully-managed, scalable GraphQL APIs |
 | Backup | Storage | Centralized backup across AWS services |
