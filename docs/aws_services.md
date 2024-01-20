@@ -39,6 +39,7 @@ List of services in alphabetical order.
 | IoT Core | Internet of Things | Connect devices to the cloud |
 | Migration Evaluator | Migration & Transfer | Create a business case for cloud migration |
 | Migration Hub | Migration & Transfer | Track migrations from a single place |
+| PinPoint | Front-End Web & Mobile | Personalized user engagement across channels |
 | Simple Storage Service (S3) | Storage | Scalable storage in the cloud |
 | Security Toekn Service (STS) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
 | Step Functions | Application Integration | Coordination for distributed applications |

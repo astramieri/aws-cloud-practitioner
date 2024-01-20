@@ -227,6 +227,7 @@ Other Services
 - [Fault Injection Simulator (FIS)](./docs/other/fis.md)
 - [Step Functions](./docs/other/step_functions.md)
 - [Ground Station](./docs/other/ground_station.md)
+- [PinPoint](./docs/other/pinpoint.md)
 
 ## Resources
 
