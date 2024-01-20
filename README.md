@@ -224,7 +224,7 @@ Other Services
 - [Application Migration Service (MGN)](./docs/other/application_migration_service.md)
 - [Migration Evaluator](./docs/other/migration_evaluator.md)
 - [Migration Hub](./docs/other/migration_hub.md)
-
+- [Fault Injection Simulator (FIS)](./docs/other/fis.md)
 
 ## Resources
 

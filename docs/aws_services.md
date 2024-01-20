@@ -32,6 +32,7 @@ List of services in alphabetical order.
 | Elastic Disaster Recovery (DRS) | Storage | Scalable, cost-effective application recovery |
 | Elastic File System (EFS) | Storage | Fully managed file system for EC2 |
 | Elastic Load Balancing (ELB) | Networking & Content Delivery | Distribute incoming traffic across multiple targets |
+| Fault Injection Simulator (FIS) | Developer Tools | Fully managed fault injection service |
 | FSx | Storage | Managed service to get third-party high-performance file systems |
 | IAM Identity Center | Security, Identity and Compliance | Securely manage access to services and resources |
 | IoT Core | Internet of Things | Connect devices to the cloud |
