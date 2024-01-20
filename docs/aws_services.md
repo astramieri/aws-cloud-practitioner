@@ -34,6 +34,7 @@ List of services in alphabetical order.
 | Elastic Load Balancing (ELB) | Networking & Content Delivery | Distribute incoming traffic across multiple targets |
 | Fault Injection Simulator (FIS) | Developer Tools | Fully managed fault injection service |
 | FSx | Storage | Managed service to get third-party high-performance file systems |
+| Ground Station | Satellite | Fully managed ground station as a service |
 | IAM Identity Center | Security, Identity and Compliance | Securely manage access to services and resources |
 | IoT Core | Internet of Things | Connect devices to the cloud |
 | Migration Evaluator | Migration & Transfer | Create a business case for cloud migration |
