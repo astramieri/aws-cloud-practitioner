@@ -220,6 +220,7 @@ Other Services
 - [DR Strategies](./docs/other/dr_strategies.md)
 - [Elastic Disaster Recovery (DRS)](./docs/other/drs.md)
 - [DataSync](./docs/other/datasync.md)
+- [Application Discovery Service](./docs/other/application_discovery_service.md)
 
 ## Resources
 
