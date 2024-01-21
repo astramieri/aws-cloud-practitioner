@@ -235,7 +235,9 @@ AWS Architecting & Ecosystem Section
 - [Pillar 1 - Operational Excellence](./docs/architecting/pillar_1_operational_excellence.md)
 - [Pillar 2 - Security](./docs/architecting/pillar_2_security.md)
 - [Pillar 3 - Reliability](./docs/architecting/pillar_3_reliability.md)
-
+- [Pillar 4 - Performance Efficiency](./docs/architecting/pillar_4_performance_efficiency.md)
+- [Pillar 5 - Cost Optimization](./docs/architecting/pillar_5_cost_optimization.md)
+- [Pillar 6 - Sustainability](./docs/architecting/pillar_6_sustainability.md)
 
 ## Resources
 
