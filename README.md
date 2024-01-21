@@ -234,6 +234,7 @@ AWS Architecting & Ecosystem Section
 - [Well Architected Framework](./docs/architecting/well_architected_framework.md)
 - [Pillar 1 - Operational Excellence](./docs/architecting/pillar_1_operational_excellence.md)
 - [Pillar 2 - Security](./docs/architecting/pillar_2_security.md)
+- [Pillar 3 - Reliability](./docs/architecting/pillar_3_reliability.md)
 
 
 ## Resources
