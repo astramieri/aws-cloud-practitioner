@@ -232,6 +232,8 @@ Other Services
 AWS Architecting & Ecosystem Section
 
 - [Well Architected Framework](./docs/architecting/well_architected_framework.md)
+- [Pillar 1 - Operational Excellence](./docs/architecting/1_operational_excellence.md)
+
 
 ## Resources
 

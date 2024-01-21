@@ -38,4 +38,3 @@
 6. Sustainability
 
 They are not something to balance, or trade-offs, **there are a synergy**.
-
