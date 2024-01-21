@@ -12,7 +12,7 @@ There are different storage classes for S3:
 When you create an object in S3:
 - you can choose its class
 - you can modify its storage class manually
-- you can use S3 Lifecycle configurations to move objects automatically between storage classes
+- you can use **S3 lifecycle configurations** to move objects automatically between storage classes
 
 ## Durability and Availability
 
@@ -41,33 +41,35 @@ When you create an object in S3:
         - content distribution
 - **S3 Infrequent Access**
     - data that is less frequently accessed, but requires rapid access when needed
-    - lower costs thatn S3 standard but you will have a cost on retrieva
-    - **S3 Standard - Infrequent Access (S3 Standard IA)**
-        - 99.99% availability
-        - use cases: disaster recovery, backups
-    - **S3 One Zone - Infrequent Access (S3 One Zone IA)**
-        - 99.999999999% availability in a sigle AZ (data lost when AZ is destroyed)
-        - 99.5% availability
-        - use cases: storing secondary backup copies of premises data or data you can recreate
+    - **lower costs than S3 Standard but you will have a cost on retrieval**
+    - two sub-classes:
+        - **S3 Standard - Infrequent Access (S3 Standard IA)**
+            - 99.99% availability
+            - use cases: disaster recovery, backups
+        - **S3 One Zone - Infrequent Access (S3 One Zone IA)**
+            - 99.999999999% availability in a sigle AZ (data lost when AZ is destroyed)
+            - 99.5% availability
+            - use cases: storing secondary backup copies of premises data or data you can recreate
 - **S3 Glacier**
     - low cost object storage meant for archiving/backup
-    - pricing: pay for storage + pay for retrieval
-    - **S3 Glacier Instant Retrieval**
-        - millisecond retrieval, great for data accessed once a quarter
-        - minimum storage duration is 90 days
-    - **S3 Glacier Flexibile Retrieval**
-        - 3 flexibility data back:
-            - expedited (1 to 5 minutes)
-            - standard (between 3 to 5 hours)
-            - bulk (between 5 to 12 hours)
-        - minimum storage duration is 90 days
-    - **S3 Glacier Deep Archive**
-        - long term storage
-        -lower costs
-        - 2 tiers:
-            - standard (12 hours)
-            - bulk (48 hours)
-        - minimum storage duration is 180 days
+    - **pricing: pay for storage + pay for retrieval**
+    - three sub-classes:
+        - **S3 Glacier Instant Retrieval**
+            - millisecond retrieval, great for data accessed once a quarter
+            - minimum storage duration is 90 days
+        - **S3 Glacier Flexibile Retrieval**
+            - 3 flexibility data back:
+                - expedited (1 to 5 minutes)
+                - standard (between 3 to 5 hours)
+                - bulk (between 5 to 12 hours)
+            - minimum storage duration is 90 days
+        - **S3 Glacier Deep Archive**
+            - long term storage
+            -lower costs
+            - 2 tiers:
+                - standard (12 hours)
+                - bulk (48 hours)
+            - minimum storage duration is 180 days
 - **S3 Intellingent Tiering**
     - small monthly monitoring and auto-tiering fee
     - moved objects automatically between access tiers based on usage 

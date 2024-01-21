@@ -1,6 +1,6 @@
 # S3 Replication
 
-The idea of **S3 Replication** is that we have a source S3 Bucket and a target S3 and we want to set up *asynchronous* replication between these two buckets.
+The idea of **S3 Replication** is that we have a source S3 Bucket and a target S3 and we want to set up **asynchronous replication** between these two buckets.
 
 S3 Replication supports:
 - Cross-Region Replication (CRR)

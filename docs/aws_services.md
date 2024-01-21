@@ -42,6 +42,8 @@ List of services in alphabetical order.
 | PinPoint | Front-End Web & Mobile | Personalized user engagement across channels |
 | Simple Storage Service (S3) | Storage | Scalable storage in the cloud |
 | Security Toekn Service (STS) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
+| Snow Family | Storage | Physical edge computing and storage devices for rugged or disconnected environments |
 | Step Functions | Application Integration | Coordination for distributed applications |
+| Storage Gateway | Storage | Hybrid storage integration |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
 | Workspaces | End User Computing | Virtual desktop services for every use case |

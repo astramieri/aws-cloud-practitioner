@@ -1,10 +1,10 @@
 # AWS Snow Family
 
 AWS Snow Family represents a highly secure portable devices that has two use cases within AWS:
-- collect and process data at the edge
+- Collect and process data at the edge
     - Snowcone
     - Snowball Edge 
-- migrate data in and out of AWS
+- Migrate data in and out of AWS
     - Snowcone
     - Snowball Edge (petabyte scale)
     - Snowmobile (exabyte scale)
@@ -29,7 +29,7 @@ Devices:
     - Snowball Edge Compute Optimized (42 TB)
 - Snowcone
     - small, portable computing, anywhere, rugged & secure
-    - use it when showball does not fit (space-constrained capacity)
+    - **use it when showball does not fit (space-constrained capacity)**
     - Snowcone (Base) (8TB)
     - Snowcone SSD (16 TB)
     - data can be sent back to AWS:

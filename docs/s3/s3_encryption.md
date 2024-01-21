@@ -1,6 +1,7 @@
 # S3 Encryption
 
-- Server-Side Encryption **(default, always on)**
+- Server-Side Encryption **(SSE-S3)**
+    - **default, always on**
     - server encrypts the file after receiving it
 - Client-Side Encryption
     - client encrypts the file before uploading it
