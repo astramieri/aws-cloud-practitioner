@@ -1,0 +1,56 @@
+# AWS Well Architected Framework - Pillar 2: Security
+
+- Includes the ability to protect information, systems, and assets while delivering business value through risk assessments and mitigation strategies
+- Design Principles
+    - **Implement a strong identity foundation**
+        - Centralize privilege management
+        - Reduce reliance on long-term credentials
+        - Principle of least privilege
+        - IAM
+    - **Enable traceability**
+        - Integrate log and metrics with systems to automatically responds and take action
+    - **Apply security at all layers**
+        - Like edge network
+        - VPC
+        - Subnet
+        - Load Balancer
+        - Every instance
+        - Operating System
+        - Application
+    - **Automate security best practices**
+    - **Protect date in transit and at rest**
+        - Encryption
+        - Tokenization
+        - Access Control
+    - **Keep people away from data**
+        - Reduce or eliminate the need for direct access or manual processing of data
+    - **Prepare for security events**
+        - Run incident response simulations and use tools with automation to increase your speed of detection, investigation, and recovery
+
+## Security - AWS Services
+
+- Identity and Access Management
+    - IAM
+    - AWS-STS
+    - MFA Token
+    - AWS Organizations
+- Detective Controls
+    - AWS Config
+    - AWS CloudTrail
+    - AWS CloudWatch
+- Infrastructure Protection
+    - AWS CloudFront
+    - AWS VPC
+    - AWS Shield
+    - AWS Web Application Firewall (WAF)
+    - AWS Inspector
+- Data Protection
+    - AWS KMS
+    - AWS S3
+    - AWS Elastic Load Balancing (ELB)
+    - AWS EBS
+    - AWS RDS
+- Incident Response
+    - IAM
+    - AWS CloudFormation
+    - AWS CloudWatch Events
