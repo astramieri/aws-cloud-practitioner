@@ -1,4 +1,4 @@
-# AWS Well Architected Framewoek - Pillar 1: Operational Excellence
+# AWS Well-Architected Framework - Pillar 1: Operational Excellence
 
 - Includes the ability to run and monitor systems to deliver business value and to continually improve supporting processes and procedures
 - Design Principles

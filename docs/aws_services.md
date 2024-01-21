@@ -46,4 +46,5 @@ List of services in alphabetical order.
 | Step Functions | Application Integration | Coordination for distributed applications |
 | Storage Gateway | Storage | Hybrid storage integration |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
+| Well-Architected Tool | Management & Governance | Review and improve your workloads | 
 | Workspaces | End User Computing | Virtual desktop services for every use case |

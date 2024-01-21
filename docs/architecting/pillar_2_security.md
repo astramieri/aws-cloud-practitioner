@@ -1,4 +1,4 @@
-# AWS Well Architected Framework - Pillar 2: Security
+# AWS Well-Architected Framework - Pillar 2: Security
 
 - Includes the ability to protect information, systems, and assets while delivering business value through risk assessments and mitigation strategies
 - Design Principles

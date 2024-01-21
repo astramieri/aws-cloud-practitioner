@@ -1,4 +1,4 @@
-# AWS Well Architected Framework - Pillar 4: Performance Efficency
+# AWS Well-Architected Framework - Pillar 4: Performance Efficency
 
 - Includes the ability to use computing resources efficiently to meet system requirements, and to maintain that efficiency as demand changes and technologies evolves
 - Design Principles

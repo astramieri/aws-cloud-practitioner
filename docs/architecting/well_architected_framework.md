@@ -1,4 +1,4 @@
-# AWS Well Architected Framework
+# AWS Well-Architected Framework
 
 ## General Guiding Principles
 
@@ -28,7 +28,7 @@
     - Don't use just EC2
     - Use managed services, databases, serverless, etc.
 
-## Well Architected Frameworks - 6 Pillars
+## AWS Well-Architected Framework - 6 Pillars
 
 1. Operational Excellence
 2. Security

@@ -238,6 +238,7 @@ AWS Architecting & Ecosystem Section
 - [Pillar 4 - Performance Efficiency](./docs/architecting/pillar_4_performance_efficiency.md)
 - [Pillar 5 - Cost Optimization](./docs/architecting/pillar_5_cost_optimization.md)
 - [Pillar 6 - Sustainability](./docs/architecting/pillar_6_sustainability.md)
+- [Well Architected Tool](./docs/architecting/well_architected_tool.md)
 
 ## Resources
 

@@ -1,4 +1,4 @@
-# AWS Well Architected Framework - Pillar 5: Cost Optimization
+# AWS Well-Architected Framework - Pillar 5: Cost Optimization
 
 - Includes the ability to run systems to deliver business value at the lowest price point
 - Design Principles

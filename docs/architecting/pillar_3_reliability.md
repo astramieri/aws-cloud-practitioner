@@ -1,4 +1,4 @@
-# AWS Well Architected Framework - Pillar 3: Reliability
+# AWS Well-Architected Framework - Pillar 3: Reliability
 
 - Ability of a system to recover from infrastructure or service disruptions, dynamically acquire computing resources to meet demand, and mitigate disruptions such as misconfigurations or transient network issues
 - Design Principles

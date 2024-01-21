@@ -1,4 +1,4 @@
-# AWS Well Architected Framework - Pillar 6: Sustainability
+# AWS Well-Architected Framework - Pillar 6: Sustainability
 
 - Focuses on minimizing the environmental impacts of running cloud workloads
 - Design Principles
