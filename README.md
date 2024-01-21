@@ -229,6 +229,10 @@ Other Services
 - [Ground Station](./docs/other/ground_station.md)
 - [PinPoint](./docs/other/pinpoint.md)
 
+AWS Architecting & Ecosystem Section
+
+- [Well Architected Framework](./docs/architecting/well_architected_framework.md)
+
 ## Resources
 
 [Course Material Download](https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/)
