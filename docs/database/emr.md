@@ -1,4 +1,4 @@
-# EMR Basics
+# Elastic MapReduce (EMR)
 
 - EMR stands for **Elastic MapReduce** (not really a database)
 - EMR helps creating **Hadoop clusters** (Big Data) to analyze and process vast amount of data

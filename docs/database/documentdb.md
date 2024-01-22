@@ -1,4 +1,4 @@
-# DocumentDB Basics
+# DocumentDB
 
 - DocumentDB is an **AWS implementation of MongoDB** (NoSQL database)
 - MongoDB is used to store, query and index JSON data

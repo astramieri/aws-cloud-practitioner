@@ -1,4 +1,4 @@
-# Glue Basics
+# Glue
 
 - Managed **extract-transform-load (ETL)** service
 - Useful to prepare and transform data for analytics

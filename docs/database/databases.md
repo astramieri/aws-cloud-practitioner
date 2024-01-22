@@ -1,4 +1,4 @@
-# Database Basics
+# Databases
 
 Databases are **optmized for a purpose** and come with different features, shapes and constraints.
 

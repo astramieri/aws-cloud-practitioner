@@ -1,4 +1,4 @@
-# Amazon Managed Blockchain
+# Managed Blockchain
 
 - Blockchain makes it possibile to build applications where multiple parties can execute transactions **without the need for a trusted central authority**
 - It is a managed service to:

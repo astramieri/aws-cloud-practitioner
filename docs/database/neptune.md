@@ -1,4 +1,4 @@
-# Neptune Basics
+# Neptune
 
 - Fully managed **graph database**
 - A popular graph dataset would be a social network
@@ -11,4 +11,4 @@
 - Optimized for these complex and hard queries
 - Can store up to billions of relations and query the graph with milliseconds latency
 - Highly available with replications across multiple AZs
-- Uses cases: great for knowledge graphs (wikipedia), fraud detection, recommendation engines, social networking
+- Uses cases: great for knowledge graphs (e.g. wikipedia), fraud detection, recommendation engines, social networking

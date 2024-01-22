@@ -1,4 +1,4 @@
-# Database & Analytics Summary
+# Summary
 
 - Differences between Multi-AZ, Read Replicas, Multi-Region
 - **RDS & Aurora**: Relational Database - OLTP (SQL)

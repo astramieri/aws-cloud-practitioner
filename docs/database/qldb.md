@@ -1,4 +1,4 @@
-# QLDB Basics
+# QLDB
 
 - QLDB stands for **Quantum Ledger Database**
 - A ledger is a book **recording financial transactions**
@@ -8,7 +8,7 @@
 - 2-3x performance than common ledger blockchain frameworks 
 - Manipulate data using SQL
 
-**NOTE**. The difference with Amazon Managed Blockchain is that with QLDB there is **no decentralization component** in accordance with financial regulation rules.
+**NOTE**. The difference with AWS Managed Blockchain is that with QLDB there is **no decentralization component** in accordance with financial regulation rules.
 
-![Amazon QLDB](../../images/database/qldb.png)
+![QLDB](../../images/database/qldb.png)
 
