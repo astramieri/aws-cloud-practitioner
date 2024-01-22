@@ -1,12 +1,12 @@
-# Batch Basics
+# Batch
 
 - Fully managed batch processing at any scale
 - Efficiently run 100K of computing batch jobs
-- A *batch job* has a start and an end (opposed to continuos)
+- A batch job has a start and an end (opposed to continuos)
 - AWS Batch will dynamically launch **EC2 instances** or **Spot instances** to accomodate with the load
 - AWS Batch provisions the right amount of compute/memory to deal with the batch queue
 - You submit or schedule batch jobs and AWS Batch does the rest
-- AWS Batch jobs are **defined as Docker images** and run on ECS
+- **AWS Batch jobs are defined as Docker images and run on ECS**
 - Helpfull for cost optimizations and focusing less on the infrastructure
 
 ## Batch vs Lambda
@@ -19,9 +19,10 @@
 - Batch
     - No time limit
     - Any runtime as long as it's packaged as a Docker image
-    - Rely on EBS / instance store for disk space
-    - Relies on EC2
-        - Managed by AWS (e.g. automatic auto-scaling)
+    - Relies on:
+        - EC2 managed by AWS (e.g. automatic auto-scaling)
+        - EC2 Instance Store for disk space
+        - Elastic Block Store for disk space
 
 ## Example: AWS Batch
 

@@ -1,11 +1,11 @@
-# Docker Basics
+# Docker
 
 - Docker is a software development platform to deploy apps
 - Apps are packaged in **containers** that can be run on **any OS**
 - Apps run the same, regardless of where they are running
     - Any machine
     - No compatibility issue
-    - Predictable behaviuor
+    - Predictable behaviour
     - Less work
     - Easier to maintain and deploy
     - Works with any language, any OS, any technology

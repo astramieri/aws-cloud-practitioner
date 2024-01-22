@@ -1,4 +1,4 @@
-# Lambda Basics
+# Lambda
 
 A classic approach to run code in the cloud:
 - Virtual Server in the cloud (Amazon EC2)

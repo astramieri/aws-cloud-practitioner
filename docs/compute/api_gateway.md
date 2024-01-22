@@ -1,4 +1,4 @@
-# API Gateway Basics
+# API Gateway
 
 - Fully **managed service** for developers to easily create, publish, maintain, monitor and secure API
 - Serverless and scalable
