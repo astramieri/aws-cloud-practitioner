@@ -1,4 +1,4 @@
-# DynamoDB Basics
+# DynamoDB
 
 - Fully managed
 - High available database (with replication across 3 AZ)
@@ -40,7 +40,7 @@ We need to make sure that all the relevant data is well formatted within our mai
 
 DynamoDB Global Tables feature make a DyanmoDB table accessibile with **low latency** in **multiple-regions**.
 
-A global table is truly global and users can read and write to the table in any specific region, there will just be replication between these two.
+A global table is truly global and users can read and write to the table in any specific region, there will just be **replication between these two**.
 
 So the fact that there is read/write access to any region of AWS on this global table, makes it an **active-active replication** because you can actively write to any region and it will actively be replicated into other regions.
 

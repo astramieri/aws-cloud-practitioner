@@ -1,4 +1,4 @@
-# RDS
+# Relational Database Service (RDS)
 
 RDS stands for **Relational Database Service**.
 
@@ -16,7 +16,7 @@ RDS allows you to create different relational databases:
 
 RDS is a managed service:
 - Automated provisioning
-- Operating System patching
+- Operating system patching
 - Continuous backups and restore to specific timestamp (Point in Time Restore)
 - Monitoring dashboards
 - Read replicas for improved read performance

@@ -10,6 +10,7 @@ List of services in alphabetical order.
 | Application Migration Service (MGN) | Migration & Transfer | Move and improve your on-premises and cloud-based applications |
 | AppStream 2.0 | End User Computing | Stream desktop applications securely to a browser |
 | AppSync | Front-End Web & Mobile | Fully-managed, scalable GraphQL APIs |
+| Aurora | Database | High performance managed relational database with full MySQL and PostgreSQL compatibility |
 | Backup | Storage | Centralized backup across AWS services |
 | Cloud Development Kit (CDK) | Developer Tools | Model cloud infrastructure using code |
 | Cloud9 | Developer Tools | Write, run, and debug code on a cloud IDE |
@@ -25,6 +26,8 @@ List of services in alphabetical order.
 | DataSync | Migration| Simple, fast, online data transfer |
 | Device Farm | Front-End Web & Mobile | Test Android, iOS, and web apps on real devices in the AWS cloud |
 | Directory Service | Security, Identity and Compliance | Host and manage Active Directory (AD) |
+| DynamoDB | Database | Managed NoSQL database |
+| DynamoDB Accelerator (DAX) | Database | Fully managed, highly available, in-memory cache for Amazon DynamoDB |
 | Elastic Beanstalk | Compute | Run and manage web apps |
 | Elastic Block Store (EBS) | Storage | EC2 block storage volumes |
 | Elastic Cloud Compute (EC2) | Compute | Virtual servers in the cloud |
@@ -32,6 +35,7 @@ List of services in alphabetical order.
 | Elastic Disaster Recovery (DRS) | Storage | Scalable, cost-effective application recovery |
 | Elastic File System (EFS) | Storage | Fully managed file system for EC2 |
 | Elastic Load Balancing (ELB) | Networking & Content Delivery | Distribute incoming traffic across multiple targets |
+| ElastiCache | Database | In-memory caching service | 
 | Fault Injection Simulator (FIS) | Developer Tools | Fully managed fault injection service |
 | FSx | Storage | Managed service to get third-party high-performance file systems |
 | Ground Station | Satellite | Fully managed ground station as a service |
@@ -40,6 +44,7 @@ List of services in alphabetical order.
 | Migration Evaluator | Migration & Transfer | Create a business case for cloud migration |
 | Migration Hub | Migration & Transfer | Track migrations from a single place |
 | PinPoint | Front-End Web & Mobile | Personalized user engagement across channels |
+| Relational Database Service | Database | Managed relational database service for PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and Db2 |
 | Simple Storage Service (S3) | Storage | Scalable storage in the cloud |
 | Security Toekn Service (STS) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
 | Snow Family | Storage | Physical edge computing and storage devices for rugged or disconnected environments |

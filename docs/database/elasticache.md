@@ -1,4 +1,4 @@
-# ElastiCache Basics
+# ElastiCache
 
 The same way RDS is to get managed relational databases, **ElastiCache** is to get managed Redis or Memcached.
 
