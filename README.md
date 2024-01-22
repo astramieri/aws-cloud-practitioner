@@ -241,6 +241,7 @@ AWS Architecting & Ecosystem Section
 - [Well Architected Tool](./docs/architecting/well_architected_tool.md)
 - [Cloud Adoption Framework (CAF)](./docs/architecting/cloud_adoption_framework.md)
 - [Right Sizing](./docs/architecting/right_sizing.md)
+- [AWS Ecosystem](./docs/architecting/aws_ecosystem.md)
 
 ## Resources
 
