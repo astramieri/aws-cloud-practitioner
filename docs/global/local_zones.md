@@ -1,4 +1,4 @@
-# AWS Local Zones
+# Local Zones
 
 - Place AWS compute, storage, database and other selected AWS services **closer to end users to run latency-sensitive applications**
 - Extend your VPC to more locations (extensions of an AWS Region)

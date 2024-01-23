@@ -1,4 +1,4 @@
-# AWS WaveLength Basics
+# WaveLength
 
 - **WaveLength Zones** are infrastructure deployments embedded within the telecommunications providers datacenters at the edge of 5G networks
 

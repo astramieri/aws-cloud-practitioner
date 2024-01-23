@@ -128,10 +128,10 @@ Global Infrastructure
 - [S3 Transfer Acceleraton](./docs/global/s3_transfer_acceleration.md)
 - [Global Accelerator](./docs/global/global_accelerator.md)
 - [Outposts](./docs/global/outposts.md)
-- [WaveLength](./docs/global/wavelength_basics.md)
-- [Local Zones](./docs/global/local_zones_basics.md)
+- [WaveLength](./docs/global/wavelength.md)
+- [Local Zones](./docs/global/local_zones.md)
 - [Global Infrastructure](./docs/global/global_infrastructure.md)
-- [Global Infrastructure Summary](./docs/global/global_infrastructure_summary.md)
+- [Summary](./docs/global/summary.md)
 
 Cloud Integrations
 

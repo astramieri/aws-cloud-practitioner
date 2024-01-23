@@ -55,10 +55,12 @@ List of services in alphabetical order.
 | IoT Core | Internet of Things | Connect devices to the cloud |
 | Lambda | Compute | Run code without thinking about servers |
 | Lightsail | Compute | Launch and manage virtual private servers |
+| Local Zones | Compute | Run latency sensitive applications on a Local Zone |
 | Managed Blockchain | Blockchain | Create and manage scalable blockchain networks |
 | Migration Evaluator | Migration & Transfer | Create a business case for cloud migration |
 | Migration Hub | Migration & Transfer | Track migrations from a single place |
 | Neptune | Database | Fully managed graph database service |
+| Outposts | Compute | Run AWS infrastructure on-premises |
 | PinPoint | Front-End Web & Mobile | Personalized user engagement across channels |
 | Quantum Ledger Database (QLDB) | Database | Fully managed ledger database |
 | QuickSight | Analytics | Fast business analytics service |
@@ -71,5 +73,6 @@ List of services in alphabetical order.
 | Step Functions | Application Integration | Coordination for distributed applications |
 | Storage Gateway | Storage | Hybrid storage integration |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
+| Wavelength | Compute | Deliver ultra-low latency applications for 5G devices |
 | Well-Architected Tool | Management & Governance | Review and improve your workloads | 
 | Workspaces | End User Computing | Virtual desktop services for every use case |

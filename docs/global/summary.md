@@ -1,4 +1,4 @@
-# Global Infrastructure Summary
+# Summary
 
 - **Route 53** (Global DNS)
     - Great to route users to the closest deployment with least latency
@@ -11,7 +11,7 @@
 - **AWS Global Accelerator**
     - Improve global application availability and performance using AWS global network
 - **AWS Outposts**
-    - Deploy Outposts Racks in your own Data Center to extend AWS services
+    - Deploy Outposts racks in your own data center to extend AWS services
 - **AWS WaveLength**
     - Bring AWS services to the edge of 5G networks
     - Ultra-low latency applications
