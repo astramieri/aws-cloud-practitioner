@@ -1,4 +1,4 @@
-# CodeGuru Basics
+# CodeGuru
 
 - ML-powered service for **automated code reviews** and **application performance reccomendations**
 - Provides two functionalities:

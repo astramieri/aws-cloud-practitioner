@@ -1,4 +1,4 @@
-# Cloud Monitoring Summary
+# Summary
 
 - **CloudWatch**
     - **Metrics**: monitor the performance of AWS services and billing metrics
@@ -8,6 +8,6 @@
 - **CloudTrail**: audit API calls made within your AWS account
 - **CloudTrail Insights**: automated analysis of your CloudTrail Events
 - **X-Ray**: trace requests made through your distributed applications
-- **AWS Health Dashboard**: status of all AWS services across all regions
-- **AWS Account Health Dashboard**: AWS events that impact your infrastructure
+- **Health Dashboard - Service History**: status of all AWS services across all regions
+- **Health Dashboard - Your Account**: AWS events that impact your infrastructure
 - **CodeGuru**: automated code reviews and application performance recommendations

@@ -144,13 +144,13 @@ Cloud Integrations
 
 Cloud Monitoring
 
-- [CloudWatch Basics](./docs/monitoring/cloudwatch_basics.md)
-- [EventBridge Basics](./docs/monitoring/eventbridge_basics.md)
-- [CloudTrail Basics](./docs/monitoring/cloudtrail_basics.md)
-- [X-Ray Basics](./docs/monitoring/xray_basics.md)
-- [CodeGuru Basics](./docs/monitoring/codeguru_basics.md)
-- [Health Basics](./docs/monitoring/health_dashboard_basics.md)
-- [Cloud Monitoring Summary](./docs/monitoring/cloud_monitoring_summary.md)
+- [CloudWatch](./docs/monitoring/cloudwatch.md)
+- [EventBridge](./docs/monitoring/eventbridge.md)
+- [CloudTrail](./docs/monitoring/cloudtrail.md)
+- [X-Ray](./docs/monitoring/xray.md)
+- [CodeGuru](./docs/monitoring/codeguru.md)
+- [Health Dashboard](./docs/monitoring/health_dashboard.md)
+- [Summary](./docs/monitoring/summary.md)
 
 VPC & Networking
 

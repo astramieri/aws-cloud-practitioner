@@ -1,4 +1,4 @@
-# CloudWatch Basics
+# CloudWatch
 
 Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time.
 
@@ -24,9 +24,9 @@ Important Metrics:
 - Alarms are use to trigger notifications for any metric
 - Once a metric goes above a threshold we can have an **action**
     - Auto Scaling: increase or decrease EC2 instance
-    - EC2 Actions: stop, terminate, reboo or recover and EC2 instance
+    - EC2 Actions: stop, terminate, reboot or recover and EC2 instance
     - SNS notifications: send a notification into a SNS topic
-- Various options (samplic, percentage, max, min, etc.)
+- Various options (ercentage, max, min, etc.)
 - Can choose the period on which to evaluate an alarm
 - Alarm States:
     - **OK**: everything is good
@@ -45,7 +45,8 @@ Important Metrics:
 - Enables real-time monitoring of logs
 - Adjustable CloudWatch Logs retention
 
-CloudWatch Logs for EC2:
+## CloudWatch Logs for EC2
+
 - By default, no logs from you EC2 instance will go to the CloudWatch
 - You need to run a CloudWatch agent on EC2 to push the log files you want
 - Make sure IAM permissions are correct

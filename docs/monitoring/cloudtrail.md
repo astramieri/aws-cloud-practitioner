@@ -1,4 +1,4 @@
-# CloudTrail Basics
+# CloudTrail
 
 - It provides governance, compliance and audit for you AWS account
 - CloudTrail is **enabled by default**!

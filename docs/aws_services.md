@@ -19,12 +19,15 @@ List of services in alphabetical order.
 | Cloud9 | Developer Tools | Write, run, and debug code on a cloud IDE |
 | CloudFormation | Management & Governance | Create and manage resources with templates |
 | CloudFront | Networking & Content Delivery | Global content delivery network | 
+| CloudTrail | Management & Governance | Track user activity and API usage |
+| CloudWatch | Management & Governance | Monitor resources and applications |
 | Cognito | Security, Identity and Compliance | Identity management for your apps |
 | CodeArtifact | Developer Tools | Secure, scalable, and cost-effective artifact management for software development |
 | CodeBuild | Developer Tools | Build and test code |
 | CodeCatalyst | Developer Tools | Unified sofware service for faster development and delivery on AWS |
 | CodeCommit | Developer Tools | Store code in private Git repositories |
 | CodeDeploy | Developer Tools | Automate code deployments |
+| CodeGuru | Developer Tools | Find your most expensive lines of code |
 | CodePipeline | Developer Tools | Release software using continuos delivery |
 | CodeStar | Developer Tools | Develop and deploy AWS application |
 | Control Tower | Management & Governance | Set up and govern a secure, compliant multi-account environment |
@@ -46,12 +49,14 @@ List of services in alphabetical order.
 | Elastic Load Balancing (ELB) | Networking & Content Delivery | Distribute incoming traffic across multiple targets |
 | Elastic Map Reduce (EMR) | Analytics | Easily run big data frameworks |
 | ElastiCache | Database | In-memory caching service | 
+| EventBridge | Application Integration | Serverless event bus for SaaS apps & AWS services |
 | Fargate | Container | Serverless compute for containers |
 | Fault Injection Simulator (FIS) | Developer Tools | Fully managed fault injection service |
 | FSx | Storage | Managed service to get third-party high-performance file systems |
 | Glue | Analytics | Simple, scalable, and serverless data integration |
 | Global Accelerator | Networking & Content Delivery | Improve application availability and performance |
 | Ground Station | Satellite | Fully managed ground station as a service |
+| Health Dashboard | Management & Governance | View important events and changes affecting your AWS environment |
 | IAM Identity Center | Security, Identity and Compliance | Securely manage access to services and resources |
 | Kinesis | Analytics | Analyze real-time video and data streams |
 | IoT Core | Internet of Things | Connect devices to the cloud |
@@ -84,3 +89,4 @@ List of services in alphabetical order.
 | Wavelength | Compute | Deliver ultra-low latency applications for 5G devices |
 | Well-Architected Tool | Management & Governance | Review and improve your workloads | 
 | Workspaces | End User Computing | Virtual desktop services for every use case |
+| X-Ray | Developer Tools | Analyze and debug your applications |

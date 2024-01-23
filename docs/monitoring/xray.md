@@ -1,4 +1,4 @@
-# X-Ray Basics
+# X-Ray
 
 - Debugging in Production ("the good old way")
     - Test locally
@@ -16,7 +16,7 @@ With AWS X-Ray you get **tracing** and **visual analysis** of your application.
 
 - Troubleshooting performance (bottlenecks)
 - Undestand dependencies in a microservice architecture
-- Pinpoint sservice issues
+- Pinpoint service issues
 - Review request behavior
 - Find errors and exceptions
 - Are me meeting time SLA?

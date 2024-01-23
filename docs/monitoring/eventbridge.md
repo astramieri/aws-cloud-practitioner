@@ -1,4 +1,4 @@
-# EventBridge Basics (formerly CloudWatch Events)
+# EventBridge (formerly CloudWatch Events)
 
 With AWS EventBridge you can react to events happening within your AWS accounts.
 
