@@ -199,6 +199,11 @@ Machine Learning
 - [Textract](./docs/ml/textract.md)
 - [Machine Learning Summary](./docs/ml/machine_learning_summary.md)
 
+Account Management, Billing & Support
+
+- [Organization](./docs/account/organizations.md)
+- [Consolidated Billing](./docs/account/consolidated_billing.md)
+
 Advanced Identity
 
 - [Security Token Service (STS)](./docs/identity/sts.md)

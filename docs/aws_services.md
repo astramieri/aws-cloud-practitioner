@@ -62,6 +62,7 @@ List of services in alphabetical order.
 | Migration Hub | Migration & Transfer | Track migrations from a single place |
 | MQ | Application Integration | Managed message broker service |
 | Neptune | Database | Fully managed graph database service |
+| Organizations | Management & Governance | Central governance and management across AWS accounts |
 | Outposts | Compute | Run AWS infrastructure on-premises |
 | PinPoint | Front-End Web & Mobile | Personalized user engagement across channels |
 | Quantum Ledger Database (QLDB) | Database | Fully managed ledger database |
