@@ -52,6 +52,7 @@ List of services in alphabetical order.
 | Global Accelerator | Networking & Content Delivery | Improve application availability and performance |
 | Ground Station | Satellite | Fully managed ground station as a service |
 | IAM Identity Center | Security, Identity and Compliance | Securely manage access to services and resources |
+| Kinesis | Analytics | Analyze real-time video and data streams |
 | IoT Core | Internet of Things | Connect devices to the cloud |
 | Lambda | Compute | Run code without thinking about servers |
 | Lightsail | Compute | Launch and manage virtual private servers |
@@ -59,6 +60,7 @@ List of services in alphabetical order.
 | Managed Blockchain | Blockchain | Create and manage scalable blockchain networks |
 | Migration Evaluator | Migration & Transfer | Create a business case for cloud migration |
 | Migration Hub | Migration & Transfer | Track migrations from a single place |
+| MQ | Application Integration | Managed message broker service |
 | Neptune | Database | Fully managed graph database service |
 | Outposts | Compute | Run AWS infrastructure on-premises |
 | PinPoint | Front-End Web & Mobile | Personalized user engagement across channels |
@@ -67,6 +69,8 @@ List of services in alphabetical order.
 | Redshift | Analytics | Fast, simple, cost-effective data warehousing | 
 | Relational Database Service | Database | Managed relational database service for PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and Db2 |
 | Route 53 | Networking & Content Delivery | Scalable domain name system (DNS) |
+| Simple Notification Service (SNS) | Application Integration | Pub/sub, SMS, email, and mobile push notifications |
+| Simple Queue Service (SQS) | Application Integration | Managed message queues |
 | Simple Storage Service (S3) | Storage | Scalable storage in the cloud |
 | Security Toekn Service (STS) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
 | Snow Family | Storage | Physical edge computing and storage devices for rugged or disconnected environments |

@@ -1,4 +1,4 @@
-# Cloud Integration Summary
+# Summary
 
 - **SQS**
     - Queue service in AWS

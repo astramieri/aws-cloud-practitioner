@@ -1,4 +1,4 @@
-# SNS Basics
+# Simple Notification Service (SNS)
 
 What if you want to send in message to many receivers?
 

@@ -1,4 +1,4 @@
-# Kinesis Basics
+# Kinesis
 
 - Kinesis = real-time big data streaming
 - Managed service to collect, process, and analyze real-time streaming data at any scale

@@ -1,7 +1,7 @@
-# SQS Basics
+# Simple Queue Service (SQS) 
 
 - SQS stands for **Simple Queue Service**
-- Oldest AWS Offering (10 years old)
+- First AWS service (November 2024)
 - Fully managed service (serverless) 
 - Used to decouple applications
 - Scale seamlessly (from 1 message per second to 10K per second)
