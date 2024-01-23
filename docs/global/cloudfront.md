@@ -1,4 +1,4 @@
-# CloudFront Basics
+# CloudFront
 
 - CloudFront is **Content Delivery Network (CDN)**
 - CloudFront is a **Global Service**

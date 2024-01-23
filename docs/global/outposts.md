@@ -1,4 +1,4 @@
-# AWS Outposts Basics
+# Outposts
 
 Hybrid Cloud is when business keeps an on-premises infrastructure alongside a cloud infrastructure.
 

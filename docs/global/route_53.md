@@ -1,4 +1,4 @@
-# Route 53 Basics
+# Route 53
 
 **Route 53** is a managed DNS (Domain Name System).
 

@@ -1,4 +1,4 @@
- # Global Accelerator Basics
+ # Global Accelerator
 
  - AWS Global Accelerator improves global application **availability** and **performance** using the AWS global network
 

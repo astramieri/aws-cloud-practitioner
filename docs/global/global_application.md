@@ -21,7 +21,7 @@ Global Application Use Cases:
 
 ## Global Application in AWS
 
-- **Ruote 53**
+- **Route 53**
     - Global Domain Name System (DNS)
     - Great to route users to the closest deployment with least latency
     - Great for disaster recover strategy

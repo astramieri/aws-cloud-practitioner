@@ -123,11 +123,11 @@ Deployments & Managing Infrastructure at Scale
 Global Infrastructure
 
 - [Global Application](./docs/global/global_application.md)
-- [Route 53](./docs/global/route_53_basics.md)
-- [CloudFront](./docs/global/cloudfront_basics.md)
+- [Route 53](./docs/global/route_53.md)
+- [CloudFront](./docs/global/cloudfront.md)
 - [S3 Transfer Acceleraton](./docs/global/s3_transfer_acceleration.md)
-- [Global Accelerator](./docs/global/global_accelerator_basics.md)
-- [Outposts](./docs/global/outposts_basics.md)
+- [Global Accelerator](./docs/global/global_accelerator.md)
+- [Outposts](./docs/global/outposts.md)
 - [WaveLength](./docs/global/wavelength_basics.md)
 - [Local Zones](./docs/global/local_zones_basics.md)
 - [Global Infrastructure](./docs/global/global_infrastructure.md)

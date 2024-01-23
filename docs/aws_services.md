@@ -16,6 +16,7 @@ List of services in alphabetical order.
 | Cloud Development Kit (CDK) | Developer Tools | Model cloud infrastructure using code |
 | Cloud9 | Developer Tools | Write, run, and debug code on a cloud IDE |
 | CloudFormation | Management & Governance | Create and manage resources with templates |
+| CloudFront | Networking & Content Delivery | Global content delivery network | 
 | Cognito | Security, Identity and Compliance | Identity management for your apps |
 | CodeArtifact | Developer Tools | Secure, scalable, and cost-effective artifact management for software development |
 | CodeBuild | Developer Tools | Build and test code |
@@ -43,6 +44,7 @@ List of services in alphabetical order.
 | Fault Injection Simulator (FIS) | Developer Tools | Fully managed fault injection service |
 | FSx | Storage | Managed service to get third-party high-performance file systems |
 | Glue | Analytics | Simple, scalable, and serverless data integration |
+| Global Accelerator | Networking & Content Delivery | Improve application availability and performance |
 | Ground Station | Satellite | Fully managed ground station as a service |
 | IAM Identity Center | Security, Identity and Compliance | Securely manage access to services and resources |
 | IoT Core | Internet of Things | Connect devices to the cloud |
@@ -55,6 +57,7 @@ List of services in alphabetical order.
 | QuickSight | Analytics | Fast business analytics service |
 | Redshift | Analytics | Fast, simple, cost-effective data warehousing | 
 | Relational Database Service | Database | Managed relational database service for PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and Db2 |
+| Route 53 | Networking & Content Delivery | Scalable domain name system (DNS) |
 | Simple Storage Service (S3) | Storage | Scalable storage in the cloud |
 | Security Toekn Service (STS) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
 | Snow Family | Storage | Physical edge computing and storage devices for rugged or disconnected environments |
