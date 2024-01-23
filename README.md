@@ -203,6 +203,9 @@ Account Management, Billing & Support
 
 - [Organization](./docs/account/organizations.md)
 - [Consolidated Billing](./docs/account/consolidated_billing.md)
+- [Control Tower](./docs/account/control_tower.md)
+- [Resource Access Manager (RAM)](./docs/account/resource_access_manager.md)
+- [Service Catalog](./docs/account/service_catalog.md)
 
 Advanced Identity
 

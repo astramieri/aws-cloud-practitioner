@@ -27,6 +27,7 @@ List of services in alphabetical order.
 | CodeDeploy | Developer Tools | Automate code deployments |
 | CodePipeline | Developer Tools | Release software using continuos delivery |
 | CodeStar | Developer Tools | Develop and deploy AWS application |
+| Control Tower | Management & Governance | Set up and govern a secure, compliant multi-account environment |
 | Database Migration Service (DMS) | Migration & Transfer | Migrate databases with minimal downtime |
 | DataSync | Migration| Simple, fast, online data transfer |
 | Device Farm | Front-End Web & Mobile | Test Android, iOS, and web apps on real devices in the AWS cloud |
@@ -69,11 +70,13 @@ List of services in alphabetical order.
 | QuickSight | Analytics | Fast business analytics service |
 | Redshift | Analytics | Fast, simple, cost-effective data warehousing | 
 | Relational Database Service | Database | Managed relational database service for PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and Db2 |
+| Resource Access Manager (RAM) | Security, Identity and Compliance | Simple, secure service to share AWS resources |
 | Route 53 | Networking & Content Delivery | Scalable domain name system (DNS) |
 | Simple Notification Service (SNS) | Application Integration | Pub/sub, SMS, email, and mobile push notifications |
 | Simple Queue Service (SQS) | Application Integration | Managed message queues |
 | Simple Storage Service (S3) | Storage | Scalable storage in the cloud |
 | Security Toekn Service (STS) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
+| Service Catalog | Management & Governance | Create and use standardized products |
 | Snow Family | Storage | Physical edge computing and storage devices for rugged or disconnected environments |
 | Step Functions | Application Integration | Coordination for distributed applications |
 | Storage Gateway | Storage | Hybrid storage integration |

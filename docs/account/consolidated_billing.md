@@ -6,5 +6,6 @@
         - share reserved instances 
         - sahre saving plans discounts
     - **One Bill** get one bill for all AWS Accounts in the AWS Organization
+- The management account can turn off reserved instances discount sharing for any account in the AWS Organization, including itself
 
 ![AWS Organizations - Combined Usage](../../images/account/aws_organization.png)
