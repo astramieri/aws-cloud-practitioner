@@ -242,6 +242,8 @@ AWS Architecting & Ecosystem Section
 - [Cloud Adoption Framework (CAF)](./docs/architecting/cloud_adoption_framework.md)
 - [Right Sizing](./docs/architecting/right_sizing.md)
 - [AWS Ecosystem](./docs/architecting/aws_ecosystem.md)
+- [AWS IQ](./docs/architecting/aws_iq.md)
+- [AWS re:Post](./docs/architecting/aws_repost.md)
 
 ## Resources
 
