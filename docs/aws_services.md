@@ -5,6 +5,7 @@ List of services in alphabetical order.
 | Service | Category | Description |
 | - | - | - |
 | Amplify | Front-End Web & Mobile | Build, deploy, and host scalable web and mobile apps |
+| API Gateway | Front-End Web & Mobile | Build, deploy, and manage APIs |
 | Application Composer | Serverless | Visually design and build serverless applications quickly |
 | Application Discovery Service | Migration & Transfer | Discover on-premises applications to streamline migration |
 | Application Migration Service (MGN) | Migration & Transfer | Move and improve your on-premises and cloud-based applications |
@@ -13,6 +14,7 @@ List of services in alphabetical order.
 | Athena | Analytics | Query data in S3 using SQL | 
 | Aurora | Database | High performance managed relational database with full MySQL and PostgreSQL compatibility |
 | Backup | Storage | Centralized backup across AWS services |
+| Batch | Compute | Run batch jobs at any scale |
 | Cloud Development Kit (CDK) | Developer Tools | Model cloud infrastructure using code |
 | Cloud9 | Developer Tools | Write, run, and debug code on a cloud IDE |
 | CloudFormation | Management & Governance | Create and manage resources with templates |
@@ -36,11 +38,14 @@ List of services in alphabetical order.
 | Elastic Block Store (EBS) | Storage | EC2 block storage volumes |
 | Elastic Cloud Compute (EC2) | Compute | Virtual servers in the cloud |
 | Elastic Cloud Compute (EC2) Auto Scaling | Compute | Scale compute capacity to meet demand |
+| Elastic Container Registry (ECR) | Container | Easily store, manage, and deploy container images |
+| Elastic Container Service (ECS) | Container | Highly secure, reliable, and scalable way to run containers |
 | Elastic Disaster Recovery (DRS) | Storage | Scalable, cost-effective application recovery |
 | Elastic File System (EFS) | Storage | Fully managed file system for EC2 |
 | Elastic Load Balancing (ELB) | Networking & Content Delivery | Distribute incoming traffic across multiple targets |
 | Elastic Map Reduce (EMR) | Analytics | Easily run big data frameworks |
 | ElastiCache | Database | In-memory caching service | 
+| Fargate | Container | Serverless compute for containers |
 | Fault Injection Simulator (FIS) | Developer Tools | Fully managed fault injection service |
 | FSx | Storage | Managed service to get third-party high-performance file systems |
 | Glue | Analytics | Simple, scalable, and serverless data integration |
@@ -48,6 +53,8 @@ List of services in alphabetical order.
 | Ground Station | Satellite | Fully managed ground station as a service |
 | IAM Identity Center | Security, Identity and Compliance | Securely manage access to services and resources |
 | IoT Core | Internet of Things | Connect devices to the cloud |
+| Lambda | Compute | Run code without thinking about servers |
+| Lightsail | Compute | Launch and manage virtual private servers |
 | Managed Blockchain | Blockchain | Create and manage scalable blockchain networks |
 | Migration Evaluator | Migration & Transfer | Create a business case for cloud migration |
 | Migration Hub | Migration & Transfer | Track migrations from a single place |

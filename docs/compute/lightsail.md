@@ -1,9 +1,9 @@
-# Lightsail Basics
+# Lightsail
 
 - Greater for people **with little cloud experience!**
 - Virtual servers, storage, databases, and networking
 - Low and predictable pricing
-- Simpler alternative to use EC2, RDS, ELB, EBS, Route 53, etc.
+- **Simpler alternative** to use EC2, RDS, ELB, EBS, Route 53, etc.
 - Can setup notifications and monitoring of your Lightsail resoruces
 - Has high availability but no auto-scaling, limited AWS integrations
 - Use cases:

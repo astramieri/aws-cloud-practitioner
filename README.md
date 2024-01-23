@@ -94,15 +94,15 @@ Databases & Analytics
 
 Other Compute Services
 
-- [Docker Basics](./docs/compute/docker_basics.md)
-- [ECS Basics](./docs/compute/ecs_basics.md)
-- [Fargate Basics](./docs/compute/fargate_basics.md)
-- [ECR Basics](./docs/compute/ecr_basics.md)
-- [Serverless Introduction](./docs/compute/serverless_introduction.md)
-- [Lambda Basics](./docs/compute/lambda_basics.md)
-- [API Gateway Basics](./docs/compute/api_gateway_basics.md)
-- [Batch Basics](./docs/compute/batch_basics.md)
-- [Lightsail Basics](./docs/compute/lightsail_basics.md)
+- [Docker](./docs/compute/docker.md)
+- [ECS](./docs/compute/ecs.md)
+- [Fargate](./docs/compute/fargate.md)
+- [ECR](./docs/compute/ecr.md)
+- [Serverless](./docs/compute/serverless.md)
+- [Lambda](./docs/compute/lambda.md)
+- [API Gateway](./docs/compute/api_gateway.md)
+- [Batch](./docs/compute/batch.md)
+- [Lightsail](./docs/compute/lightsail.md)
 - [Summary](./docs/compute/summary.md)
 
 Deployments & Managing Infrastructure at Scale
@@ -239,6 +239,9 @@ AWS Architecting & Ecosystem Section
 - [Pillar 5 - Cost Optimization](./docs/architecting/pillar_5_cost_optimization.md)
 - [Pillar 6 - Sustainability](./docs/architecting/pillar_6_sustainability.md)
 - [Well Architected Tool](./docs/architecting/well_architected_tool.md)
+- [Cloud Adoption Framework (CAF)](./docs/architecting/cloud_adoption_framework.md)
+- [Right Sizing](./docs/architecting/right_sizing.md)
+- [AWS Ecosystem](./docs/architecting/aws_ecosystem.md)
 
 ## Resources
 
