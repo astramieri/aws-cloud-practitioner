@@ -244,6 +244,7 @@ AWS Architecting & Ecosystem Section
 - [AWS Ecosystem](./docs/architecting/aws_ecosystem.md)
 - [AWS IQ](./docs/architecting/aws_iq.md)
 - [AWS re:Post](./docs/architecting/aws_repost.md)
+- [Managed Services (AMS)](./docs/architecting/ams.md)
 
 ## Resources
 
