@@ -12,7 +12,7 @@ Access Keys are generated through the AWS Management Console. Users manage their
 
 Access Keys are like user and password:
 - access key ID ~= username
-- secret access key ~= password
+- access key secret ~= password
 
 ## AWS Command Line Interface (CLI)
 
