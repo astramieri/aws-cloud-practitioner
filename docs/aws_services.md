@@ -16,11 +16,11 @@ List of services in alphabetical order.
 | Backup | Storage | Centralized backup across AWS services |
 | Batch | Compute | Run batch jobs at any scale |
 | Cloud Development Kit (CDK) | Developer Tools | Model cloud infrastructure using code |
-| Cloud9 | Developer Tools | Write, run, and debug code on a cloud IDE |
 | CloudFormation | Management & Governance | Create and manage resources with templates |
 | CloudFront | Networking & Content Delivery | Global content delivery network | 
 | CloudTrail | Management & Governance | Track user activity and API usage |
 | CloudWatch | Management & Governance | Monitor resources and applications |
+| Cloud9 | Developer Tools | Write, run, and debug code on a cloud IDE |
 | Cognito | Security, Identity and Compliance | Identity management for your apps |
 | CodeArtifact | Developer Tools | Secure, scalable, and cost-effective artifact management for software development |
 | CodeBuild | Developer Tools | Build and test code |

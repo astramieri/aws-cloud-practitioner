@@ -3,7 +3,7 @@
 ## Deployment
 
 - **CloudFormation** (AWS only)
-    - Infrastructure-as-a-Code (IaaC), 
+    - Infrastructure-as-Code (IaC), 
     - Works with almost all of AWS resources
 - **Elastic Beanstalk** (AWS only)
     - Platform-as-a-Service (PaaS)

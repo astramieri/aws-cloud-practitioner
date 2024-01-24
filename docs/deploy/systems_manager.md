@@ -34,7 +34,7 @@ So to summarize, we have three ways of accessing our EC2 instance:
 
 ## SSM Parameter Store  
 
-- SSM Parameter Store is a secure storage for configuration and secrets
+- SSM Parameter Store is a **secure storage for configuration and secrets**
     - API keys
     - passwords
     - configurations
