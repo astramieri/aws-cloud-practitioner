@@ -1,14 +1,14 @@
-# VPC & Networking Summary
+# Summary
 
 - **VPC**: Virtual Private Cloud, tied to a specific region
-- **Subnet**: Tied to a specific AZ, network partition of the VPC
+- **Subnet**: network partition of the VPC, tied to a specific AZ
 - **Internet Gateway**: at the VPC level, provide internet access
 - **NAT Gateway/Instances**: give internet access to private subnets
-- **NACLs**: Stateless, subnet rules for inbound and outbound
-- **Security Groups**: Stateful, operate at the EC2 level or ENI
-- **VPC Peering**: Connect two VPC with no overlapping IP ranges, non-transitive
+- **NACLs**: stateless, subnet rules for inbound and outbound
+- **Security Groups**: stateful, operate at the EC2 level or ENI
+- **VPC Peering**: connect two VPC with no overlapping IP ranges, non-transitive
 - **Elastic IP**: fixed public IPv4, ongoing cost if not in-use
-- **VPC Endpoints**: Provide private access to AWS services within VPC
+- **VPC Endpoints**: provide private access to AWS services within VPC
 - **PrivateLink**: privately connect to a service in a 3rd party VPC
 - **VPC Flow Logs**: network traffic logs
 - **Site to Site VPN**: VPN over public internet between on-premises data center and AWS 

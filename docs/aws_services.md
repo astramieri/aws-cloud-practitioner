@@ -34,6 +34,7 @@ List of services in alphabetical order.
 | Database Migration Service (DMS) | Migration & Transfer | Migrate databases with minimal downtime |
 | DataSync | Migration| Simple, fast, online data transfer |
 | Device Farm | Front-End Web & Mobile | Test Android, iOS, and web apps on real devices in the AWS cloud |
+| Direct Connect (DX) | Networking & Content Delivery | Dedicated network connection to AWS |
 | Directory Service | Security, Identity and Compliance | Host and manage Active Directory (AD) |
 | DocumentDB | Database | Fully managed document database |
 | DynamoDB | Database | Managed NoSQL database |
@@ -71,6 +72,7 @@ List of services in alphabetical order.
 | Organizations | Management & Governance | Central governance and management across AWS accounts |
 | Outposts | Compute | Run AWS infrastructure on-premises |
 | PinPoint | Front-End Web & Mobile | Personalized user engagement across channels |
+| PrivateLink | Networking & Content Delivery | Securely access services hosted on AWS |
 | Quantum Ledger Database (QLDB) | Database | Fully managed ledger database |
 | QuickSight | Analytics | Fast business analytics service |
 | Redshift | Analytics | Fast, simple, cost-effective data warehousing | 
@@ -86,6 +88,8 @@ List of services in alphabetical order.
 | Step Functions | Application Integration | Coordination for distributed applications |
 | Storage Gateway | Storage | Hybrid storage integration |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
+| Transit Gateway | Networking & Content Delivery | Easily scale VPC and account connections |
+| Virtual Private Cloud (VPC) | Networking & Content Delivery | Isolated cloud resources | 
 | Wavelength | Compute | Deliver ultra-low latency applications for 5G devices |
 | Well-Architected Tool | Management & Governance | Review and improve your workloads | 
 | Workspaces | End User Computing | Virtual desktop services for every use case |

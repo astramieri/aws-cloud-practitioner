@@ -154,14 +154,15 @@ Cloud Monitoring
 
 VPC & Networking
 
-- [VPC Basics](./docs/networking/vpc_basics.md)
-- [NACLs & SGs Basics](./docs/networking/nacls_and_sgs_basics.md)
-- [VPC Peering](./docs/networking/vpc_peering_basics.md)
-- [VPC Endpoints](./docs/networking/vpc_endpoints_basics.md)
-- [Site to Site VPN](./docs/networking/site_to_site_vpn_basics.md)
-- [Client VPN](./docs/networking/client_vpn_basics.md)
-- [Transit Gateway](./docs/networking/transit_gateway_basics.md)
-- [VPC & Networking Basics](./docs/networking/vpc_and_networking_summary.md)
+- [VPC](./docs/networking/vpc.md)
+- [NACLs & SGs](./docs/networking/nacls_and_sgs.md)
+- [VPC Peering](./docs/networking/vpc_peering.md)
+- [VPC Endpoints](./docs/networking/vpc_endpoints.md)
+- [PrivateLink](./docs/networking/privatelink.md)
+- [Site to Site VPN](./docs/networking/site_to_site_vpn.md)
+- [Client VPN](./docs/networking/client_vpn.md)
+- [Transit Gateway](./docs/networking/transit_gateway.md)
+- [Summary](./docs/networking/summary.md)
 
 Security & Compliance
 

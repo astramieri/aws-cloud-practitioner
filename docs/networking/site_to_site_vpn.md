@@ -1,4 +1,4 @@
-# Site to Site VPN Basics
+# Site to Site VPN
 
 Two options to connect AWS to your data center:
 - **Site to Site VPN**

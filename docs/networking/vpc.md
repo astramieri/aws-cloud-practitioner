@@ -1,4 +1,4 @@
-# VPC Basics
+# VPC
 
 VPC stands for **Virtual Private Cloud**.
 
@@ -11,7 +11,7 @@ VPC stands for **Virtual Private Cloud**.
         - Private IPv4 is fixed for EC2 instaces even if you start/stop them
 - **Elastic IP**: allows you to attach a fixed public IPv4 address to EC2 instance (it will cost you!)
     - **Note**: It has ongoing cost if not attached to EC2 instance or if the EC2 instance is stopped (because AWS needs to pay to keep that public IP alive and within its own network.)
-- **IPv6: Internet Protocol version 6** (3.4 * 10³⁸ naddresses)
+- **IPv6: Internet Protocol version 6** (3.4 * 10³⁸ addresses)
     - **Every IP address is public (no private range)**
     - Example: 2001:db8:3333:4444:cccc:dddd:eeee:ffff
 
@@ -31,7 +31,7 @@ VPC stands for **Virtual Private Cloud**.
 
 - **Internet Gateways** allow VPC instances to connect with the internet
     - Public Subnets have a route to the Internet Gateway
-    - A VCP can only have one Internet Gateway
+    - A VCP can **only have one** Internet Gateway
 - **NAT Gateways** (AWS-managed) & **NAT Instances** (self-managed) allow your instances in your Private Subnets to access the internet while remaining private (e.g. software updates)
 
 ## NAT Gateway Example 
@@ -49,8 +49,8 @@ How to allow private subnets to get internet connectivity ?
 - Capture information about IP traffic going into your interfaces:
     - VPC Flow Logs
     - Subnet Flow Logs
-    - ENI Flow Logs
-- Help to monitor & troubleshoot connectivity issues
+    - Elastic Network Interface (ENI) Flow Logs
+- Help to **monitor & troubleshoot connectivity issues**
     - e.g. a subnet cannot connect to internet
     - e.g. a subnet cannot connect to another subnet
     - e.g. internet cannot access a subnet
@@ -60,4 +60,4 @@ How to allow private subnets to get internet connectivity ?
     - RDS
     - Aurora
     - Etc.
-- VPC Flow logs can go to S3, CloudWatch Logs, and Kinesis Data Firehose
+- VPC Flow Logs can go to S3, CloudWatch Logs, and Kinesis Data Firehose
