@@ -29,7 +29,7 @@ MFA = password *you know* + security device *you own*
 The main benefit of MFA is that even if a password is stolen or hacked, the account will not be compromised.
 
 MFA device options:
-- **virtual MFA device**: supports for multiple tokens on a sigle device
+- **virtual MFA device**: supports for multiple tokens on a single device
     - Google Authenticator (phone only)
     - Authy (multi-device)
 - **Universal 2nd Factor (U2F) Security Key**: supports for multiple root and IAM users using a single security key
