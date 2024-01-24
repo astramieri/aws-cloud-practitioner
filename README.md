@@ -207,6 +207,7 @@ Account Management, Billing & Support
 - [Control Tower](./docs/account/control_tower.md)
 - [Resource Access Manager (RAM)](./docs/account/resource_access_manager.md)
 - [Service Catalog](./docs/account/service_catalog.md)
+- [Pricing Models](./docs/account/pricing_models.md)
 
 Advanced Identity
 
