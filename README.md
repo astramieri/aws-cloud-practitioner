@@ -208,6 +208,7 @@ Account Management, Billing & Support
 - [Resource Access Manager (RAM)](./docs/account/resource_access_manager.md)
 - [Service Catalog](./docs/account/service_catalog.md)
 - [Pricing Models](./docs/account/pricing_models.md)
+- [Saving Plans](./docs/account/saving_plans.md)
 
 Advanced Identity
 
