@@ -212,6 +212,7 @@ Account Management, Billing & Support
 - [Compute Optimizer](./docs/account/compute_optimizer.md)
 - [Billing & Costing Tools](./docs/account/billing_and_costing_tools.md)
 - [Pricing Calculator](./docs/account/pricing_calculator.md)
+- [Billing Dashboard](./docs/account/billing_dashboard.md)
 
 Advanced Identity
 
