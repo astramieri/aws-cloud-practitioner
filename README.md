@@ -209,6 +209,7 @@ Account Management, Billing & Support
 - [Service Catalog](./docs/account/service_catalog.md)
 - [Pricing Models](./docs/account/pricing_models.md)
 - [Saving Plans](./docs/account/saving_plans.md)
+- [Compute Optimizer](./docs/account/compute_optimizer.md)
 
 Advanced Identity
 

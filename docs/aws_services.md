@@ -31,6 +31,7 @@ List of services in alphabetical order.
 | CodePipeline | Developer Tools | Release software using continuos delivery |
 | CodeStar | Developer Tools | Develop and deploy AWS application |
 | Control Tower | Management & Governance | Set up and govern a secure, compliant multi-account environment |
+| Cost Explorer | Cloud Financial Management | Analyze your AWS cost and usage |
 | Database Migration Service (DMS) | Migration & Transfer | Migrate databases with minimal downtime |
 | DataSync | Migration| Simple, fast, online data transfer |
 | Device Farm | Front-End Web & Mobile | Test Android, iOS, and web apps on real devices in the AWS cloud |
