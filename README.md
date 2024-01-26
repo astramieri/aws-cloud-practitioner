@@ -221,6 +221,7 @@ Account Management, Billing & Support
 - [Cost Anomaly Detection](./docs/account/cost_anomaly_detection.md)
 - [Service Quotas](./docs/account/service_quotas.md)
 - [Trusted Advisor](./docs/account/trusted_advisor.md)
+- [Support Plans for AWS](./docs/account/support_plan_for_aws.md)
 
 Advanced Identity
 

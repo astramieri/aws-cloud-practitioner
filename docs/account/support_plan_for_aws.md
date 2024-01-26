@@ -1,0 +1,52 @@
+# Support Plan for AWS
+
+- Different plans you can choose from:
+    - **Basic**
+        - **Free**
+        - Customer Service & Communities 
+            - 24x7 access to customer service, documentation, whitepapers, and support forums
+        - AWS Trsuted Advisor
+            - Access to the 7 core Trusted Advisor checks and guidance to provision your resources following best pratices to increase performance and improve security
+        - AWS Personal Health Dashboard
+            - A personalized view of the health of AWS services, and alerts when your resources are impacted
+    - **Developer**
+        - All Basic Support Plan
+        - Business hours email access to Cloud Support Associated
+        - Unlimited cases / 1 primary contact 
+        - Case severity / response times:
+            - General guidance: < 24 business hours
+            - System impaired: < 12 business hours
+    - **Business (24/7)**
+        - Intended to be used if you have **production workloads**
+        - Trusted Advisor: Full set of checks + API access
+        - 24x7 phone, email, and chat access to Cloud Support Engineers
+        - Unlimited cases / unlimited contacts
+        - Access to Infrastructure Event Management for additional fee
+        - Case severity / response times:
+            - General guidance: < 24 business hours
+            - System impaired: < 12 business hours
+            - Production system impaired: < 4 hours
+            - Production system down: < 1 hours
+    - **Enterpise On-Ramp (24/7)**
+        - Intended to be used if you have production or business critical workloads
+        - All of Business Support Plan +
+        - Access to a pool of Technical Account Manager (TAM)
+        - Concierge Support Team (for billing and account best practices)
+        - Infrastructure Event Management, Well-Architected & Opeartions Reviews
+        - Case severity / response times:
+            - General guidance: < 24 business hours
+            - System impaired: < 12 business hours
+            - Production system impaired: < 4 hours
+            - Production system down: < 1 hours
+            - Business-critical system down: < 30 minutes
+    - **Enterprise (24/7)**
+        - Intended to be used if you have **mission critical workloads**
+        - All of Business Support Plan +
+        - Access to a **designated** Technical Account Manager (TAM)
+        - Infrastructure Event Management, Well-Architected & Opeartions Reviews
+        - Case severity / response times:
+            - General guidance: < 24 business hours
+            - System impaired: < 12 business hours
+            - Production system impaired: < 4 hours
+            - Production system down: < 1 hours
+            - Business-critical system down: < 15 minutes
