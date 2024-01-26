@@ -216,6 +216,8 @@ Account Management, Billing & Support
 - [Cost Allocation Tags](./docs/account/cost_allocation_tags.md)
 - [Cost and Usage Reports](./docs/account/cost_and_usage_reports.md)
 - [Cost Explorer](./docs/account/cost_explorer.md)
+- [Billing Alarms](./docs/account/billing_alarms.md)
+- [Budgets](./docs/account/budgets.md)
 
 Advanced Identity
 

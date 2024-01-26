@@ -15,6 +15,7 @@ List of services in alphabetical order.
 | Aurora | Database | High performance managed relational database with full MySQL and PostgreSQL compatibility |
 | Backup | Storage | Centralized backup across AWS services |
 | Batch | Compute | Run batch jobs at any scale |
+| Budgets | Cloud Financial Management | Set custom cost and usage budgets |
 | Cloud Development Kit (CDK) | Developer Tools | Model cloud infrastructure using code |
 | CloudFormation | Management & Governance | Create and manage resources with templates |
 | CloudFront | Networking & Content Delivery | Global content delivery network | 
