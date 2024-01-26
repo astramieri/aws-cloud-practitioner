@@ -222,6 +222,7 @@ Account Management, Billing & Support
 - [Service Quotas](./docs/account/service_quotas.md)
 - [Trusted Advisor](./docs/account/trusted_advisor.md)
 - [Support Plans for AWS](./docs/account/support_plan_for_aws.md)
+- [Summary](./docs/account/summary.md)
 
 Advanced Identity
 

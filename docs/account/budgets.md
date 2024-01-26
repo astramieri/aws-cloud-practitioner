@@ -22,3 +22,7 @@
     - etc.
 - Same options as AWS Cost Explorer
 - **2 budgets are free, then $ 0.02/daybudget**
+
+## CloudWatch Billing Alarms vs Budgets
+
+CloudWatch Billing Alarms only send alerts when your costs and usage are exceeding your budget, **not when it is forecasted** to exceed your budget, while AWS Budgets does both.
