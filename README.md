@@ -213,6 +213,9 @@ Account Management, Billing & Support
 - [Billing & Costing Tools](./docs/account/billing_and_costing_tools.md)
 - [Pricing Calculator](./docs/account/pricing_calculator.md)
 - [Billing Dashboard](./docs/account/billing_dashboard.md)
+- [Cost Allocation Tags](./docs/account/cost_allocation_tags.md)
+- [Cost and Usage Reports](./docs/account/cost_and_usage_reports.md)
+- [Cost Explorer](./docs/account/cost_explorer.md)
 
 Advanced Identity
 
