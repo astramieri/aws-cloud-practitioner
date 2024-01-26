@@ -220,6 +220,7 @@ Account Management, Billing & Support
 - [Budgets](./docs/account/budgets.md)
 - [Cost Anomaly Detection](./docs/account/cost_anomaly_detection.md)
 - [Service Quotas](./docs/account/service_quotas.md)
+- [Trusted Advisor](./docs/account/trusted_advisor.md)
 
 Advanced Identity
 

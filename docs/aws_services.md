@@ -91,6 +91,7 @@ List of services in alphabetical order.
 | Storage Gateway | Storage | Hybrid storage integration |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
 | Transit Gateway | Networking & Content Delivery | Easily scale VPC and account connections |
+| Trusted Advisor | Management & Governance | Optimize performance and security |
 | Virtual Private Cloud (VPC) | Networking & Content Delivery | Isolated cloud resources | 
 | Wavelength | Compute | Deliver ultra-low latency applications for 5G devices |
 | Well-Architected Tool | Management & Governance | Review and improve your workloads | 
