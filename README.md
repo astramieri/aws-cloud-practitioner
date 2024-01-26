@@ -86,6 +86,7 @@ Databases & Analytics
 - [QuickSight](./docs/database/quicksight.md)
 - [DocumentDB](./docs/database/documentdb.md)
 - [Neptune](./docs/database/neptune.md)
+- [Timestream](./docs/database/timestream.md)
 - [QLDB](./docs/database/qldb.md)
 - [Managed Blockchain](./docs/database/managed_blockchain.md)
 - [Glue](./docs/database/glue.md)
