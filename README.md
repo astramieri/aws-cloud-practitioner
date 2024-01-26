@@ -219,6 +219,7 @@ Account Management, Billing & Support
 - [Billing Alarms](./docs/account/billing_alarms.md)
 - [Budgets](./docs/account/budgets.md)
 - [Cost Anomaly Detection](./docs/account/cost_anomaly_detection.md)
+- [Service Quotas](./docs/account/service_quotas.md)
 
 Advanced Identity
 
