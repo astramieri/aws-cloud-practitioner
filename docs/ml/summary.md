@@ -1,4 +1,4 @@
-# Machine Learning Summary
+# Summary
 
 - **Rekognition**: face detection, labeling, celebrity recognition
 - **Transcribe**: audio to text (e.g. subtitles)

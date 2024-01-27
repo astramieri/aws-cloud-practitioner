@@ -5,7 +5,7 @@
 - Create a database of "familiar faces" or compare against celebrities
 - Use cases:
     - Labeling
-    - Content Modetation
+    - Content Moderation
     - Text Detection
     - Face Detection and Analysis (gender, age range, emotions, etc.)
     - Face Search and Verification

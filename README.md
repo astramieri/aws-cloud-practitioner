@@ -199,7 +199,7 @@ Machine Learning
 - [Forecast](./docs/ml/forecast.md)
 - [Personalize](./docs/ml/personalize.md)
 - [Textract](./docs/ml/textract.md)
-- [Machine Learning Summary](./docs/ml/machine_learning_summary.md)
+- [Summary](./docs/ml/summary.md)
 
 Account Management, Billing & Support
 

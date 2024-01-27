@@ -34,6 +34,7 @@ List of services in alphabetical order.
 | CodeGuru | Developer Tools | Find your most expensive lines of code |
 | CodePipeline | Developer Tools | Release software using continuos delivery |
 | CodeStar | Developer Tools | Develop and deploy AWS application |
+| Comprehend | Machine Learning | Discover insights and relationships in text |
 | Config | Management & Governance | Track resources inventory and changes |
 | Control Tower | Management & Governance | Set up and govern a secure, compliant multi-account environment |
 | Cost Explorer | Cloud Financial Management | Analyze your AWS cost and usage |
@@ -61,6 +62,7 @@ List of services in alphabetical order.
 | Fargate | Container | Serverless compute for containers |
 | Fault Injection Simulator (FIS) | Developer Tools | Fully managed fault injection service |
 | Firewall Manager | Security, Identity and Compliance  | Central management of firewall rules |
+| Forecast | Machine Learning | Increase forecast accuracy using machine learning |
 | FSx | Storage | Managed service to get third-party high-performance file systems |
 | Glue | Analytics | Simple, scalable, and serverless data integration |
 | Global Accelerator | Networking & Content Delivery | Improve application availability and performance |
@@ -73,6 +75,7 @@ List of services in alphabetical order.
 | Kinesis | Analytics | Analyze real-time video and data streams |
 | IoT Core | Internet of Things | Connect devices to the cloud |
 | Lambda | Compute | Run code without thinking about servers |
+| Lex | Machine Learning | Build voice and text chatbots |
 | Lightsail | Compute | Launch and manage virtual private servers |
 | Local Zones | Compute | Run latency sensitive applications on a Local Zone |
 | Macie | Security, Identity and Compliance | Discover and protect your sensitive data at scale |
@@ -84,14 +87,18 @@ List of services in alphabetical order.
 | Network Firewall | Security, Identity and Compliance | Network security to protect your VPCs |
 | Organizations | Management & Governance | Central governance and management across AWS accounts |
 | Outposts | Compute | Run AWS infrastructure on-premises |
+| Personalize | Machine Learning | Build real-time recommendations into your applications |
 | PinPoint | Front-End Web & Mobile | Personalized user engagement across channels |
+| Polly | Machine Learning | Turn text into life-like speech |
 | PrivateLink | Networking & Content Delivery | Securely access services hosted on AWS |
 | Quantum Ledger Database (QLDB) | Database | Fully managed ledger database |
 | QuickSight | Analytics | Fast business analytics service |
 | Redshift | Analytics | Fast, simple, cost-effective data warehousing | 
+| Rekognition | Machine Learning | Analyze image and video |
 | Relational Database Service | Database | Managed relational database service for PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and Db2 |
 | Resource Access Manager (RAM) | Security, Identity and Compliance | Simple, secure service to share AWS resources |
 | Route 53 | Networking & Content Delivery | Scalable domain name system (DNS) |
+| SageMaker | Machine Learning | Build, train, and deploy machine learning models at scale |
 | Secrets Manager | Security, Identity and Compliance | Rotate, manage, and retrieve secrets |
 | Security Hub | Security, Identity and Compliance | Unified security and compliance center |
 | Security Token Service (STS) | Security, Identity and Compliance | Request temporary, limited-privilege credentials for AWS IAM users or federated users |
@@ -104,7 +111,10 @@ List of services in alphabetical order.
 | Step Functions | Application Integration | Coordination for distributed applications |
 | Storage Gateway | Storage | Hybrid storage integration |
 | Systems Manager | Management & Governance | Gain operational insights and take action |
+| Textract | Machine Learning | Extract text and data from documents |
+| Transcribe | Machine Learning | Automatic speech recognition | 
 | Transit Gateway | Networking & Content Delivery | Easily scale VPC and account connections |
+| Translate | Machine Learning | Natural and fluent language translation |
 | Trusted Advisor | Management & Governance | Optimize performance and security |
 | Virtual Private Cloud (VPC) | Networking & Content Delivery | Isolated cloud resources | 
 | Web Application Firewall (WAF) | Security, Identity and Compliance | Filter malicious web traffic |
