@@ -27,7 +27,7 @@ Types of KSM keys:
 
 ## AWS Key Service Management (KSM)
 
-- AWS KMS manages the **encryption keys** for us (and we define who can access the keys)
+- KMS manages the **encryption keys** for us (and we define who can access the keys)
 - **Encryption Opt-In**:
     - EBS volumes: encrypt volumes
     - S3 buckets: server-side encryption of objects

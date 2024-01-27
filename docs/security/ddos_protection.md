@@ -37,7 +37,7 @@ A DDoS attack is a Distributed Denial-of-Service attack.
         - Global Accelerator
         - Route 53
     - 24/7 access to AWS DDoS response team (DRP)
-    - Protect agains higher fees during usage spikes due to DDoS
+    - **Protect agains higher fees during usage spikes due to DDoS**
 
 ## AWS Web Application Firewall (WAF)
 

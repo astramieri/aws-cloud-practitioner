@@ -11,7 +11,7 @@
         - Identifies software vulnerabilities in function code and package dependencies
         - Assessment of functions as they are deployed 
 - Every time AWS Inspector runs, a **risk score** is going to be associated with all the vulnerabilities for prioritization
-- Reporting and Integration with AWS Security Hub
+- Reporting and integration with AWS Security Hub
 - Send findings to Amazon Event Bridge
 
 ![AWS Inspector](../../images/security/inspector.png)

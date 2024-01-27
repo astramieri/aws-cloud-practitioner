@@ -30,7 +30,7 @@
     - Manage the underlying EC2 instace, disable SSH access
     - Automated DB patching
     - Automated OS patching
-    - Audit the underlyng instance and disks & guarantee it funtions
+    - Audit the underlying instance and disks & guarantee it functions
 - Customer responsibility
     - Check the ports, IP, security group inbound rules in DB's SG
     - In-database user creation and permissions

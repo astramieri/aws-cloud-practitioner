@@ -185,7 +185,7 @@ Security & Compliance
 - [Abuse](./docs/security/abuse.md)
 - [Root User Privileges](./docs/security/root_user.md)
 - [IAM Access Analyzer](./docs/security/iam_access_analyzer.md)
-- [Security & Compliance Summary](./docs/security/security_and_compliance_summary.md)
+- [Summary](./docs/security/summary.md)
 
 Machine Learning
 
