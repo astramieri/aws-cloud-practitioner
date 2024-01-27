@@ -8,7 +8,7 @@
     - EC2 Windows Instances
 
 - Identity provides
-    - Built-in identity sotre in IAM Identity Center
+    - Built-in identity store in IAM Identity Center
     - 3rd parties: Active Directory (AD), OneLogin, Okta, etc.
 
 ## Login Flow
