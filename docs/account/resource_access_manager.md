@@ -1,7 +1,7 @@
 # AWS Resource Access Manager (RAM)
 
 - Share AWS resources that you own with other AWS accounts
-- Share with any account or within your Organization
+- Share with any account or within your organization
 - Avoid resource duplication!
 - Supported resources include:
     - Aurora

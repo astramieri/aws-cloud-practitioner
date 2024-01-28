@@ -4,7 +4,7 @@
     - **Combined Usage** (combine the usage across all AWS accounts in the AWS Organization)
         - share the volume pricing
         - share reserved instances 
-        - sahre saving plans discounts
+        - share saving plans discounts
     - **One Bill** get one bill for all AWS Accounts in the AWS Organization
 - The management account can turn off reserved instances discount sharing for any account in the AWS Organization, including itself
 
