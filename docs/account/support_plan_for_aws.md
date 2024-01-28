@@ -5,13 +5,14 @@
         - **Free**
         - Customer Service & Communities 
             - 24x7 access to customer service, documentation, whitepapers, and support forums
-        - AWS Trsuted Advisor
-            - Access to the 7 core Trusted Advisor checks and guidance to provision your resources following best pratices to increase performance and improve security
+        - AWS Trusted Advisor
+            - Access to the **7 core Trusted Advisor checks** and guidance to provision your resources following best pratices to increase performance and improve security
         - AWS Personal Health Dashboard
             - A personalized view of the health of AWS services, and alerts when your resources are impacted
     - **Developer**
         - All Basic Support Plan
         - Business hours email access to Cloud Support Associated
+            - General architectural guidance as you build and test
         - Unlimited cases / 1 primary contact 
         - Case severity / response times:
             - General guidance: < 24 business hours
@@ -20,6 +21,8 @@
         - Intended to be used if you have **production workloads**
         - Trusted Advisor: Full set of checks + API access
         - 24x7 phone, email, and chat access to Cloud Support Engineers
+            - **Architectural guidance** in the context of **your specific use-cases**
+            - Guidance, configuration, and troubleshooting of **AWS interoperability** with many common operating systems, platforms, and application stack components.
         - Unlimited cases / unlimited contacts
         - Access to Infrastructure Event Management for additional fee
         - Case severity / response times:
@@ -32,7 +35,7 @@
         - All of Business Support Plan +
         - Access to a pool of Technical Account Manager (TAM)
         - Concierge Support Team (for billing and account best practices)
-        - Infrastructure Event Management, Well-Architected & Opeartions Reviews
+        - Infrastructure Event Management, Well-Architected & Operations Reviews
         - Case severity / response times:
             - General guidance: < 24 business hours
             - System impaired: < 12 business hours

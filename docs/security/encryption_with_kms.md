@@ -10,7 +10,7 @@ There are two type of data encryption on AWS:
 ![Types of encryption](../../images/security/types_of_encryption.png)
 
 Types of KSM keys:
-- **Customer Managed Key**
+- **Customer Managed Key (CMK)**
     - Created, managed and used by the customer
     - Can be enabled/disabled
     - Possibility of rotation policy (e.g. new key generated every year, old key preserved)
