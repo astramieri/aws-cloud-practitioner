@@ -28,7 +28,7 @@
 - It can send session logs to S3 or CloudWatch Logs
 
 So to summarize, we have three ways of accessing our EC2 instance:
-1. **a terminal with SSH keys** (port 22 required)
+1. **A terminal with SSH keys** (port 22 required)
 2. **EC2 Instance Connect** (port 22 required)
 3. **Session Manager + IAM role**
 

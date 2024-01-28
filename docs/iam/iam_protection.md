@@ -29,11 +29,11 @@ MFA = password *you know* + security device *you own*
 The main benefit of MFA is that even if a password is stolen or hacked, the account will not be compromised.
 
 MFA device options:
-- **virtual MFA device**: supports for multiple tokens on a single device
+- **Virtual MFA device**: supports for multiple tokens on a single device
     - Google Authenticator (phone only)
     - Authy (multi-device)
 - **Universal 2nd Factor (U2F) Security Key**: supports for multiple root and IAM users using a single security key
-    - YubiKey by Yubico (3rd party) phyisical device
+    - YubiKey by Yubico (3rd party) physical device
 - **Hardware Key Fob MFA Device**
     - Provided by Gemalto (3rd party)
 - **Hardware Key Fob MFA Device for AWS GovCloud (US)**
