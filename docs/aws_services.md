@@ -25,7 +25,6 @@ List of services in alphabetical order.
 | CloudTrail | Management & Governance | Track user activity and API usage |
 | CloudWatch | Management & Governance | Monitor resources and applications |
 | Cloud9 | Developer Tools | Write, run, and debug code on a cloud IDE |
-| Cognito | Security, Identity and Compliance | Identity management for your apps |
 | CodeArtifact | Developer Tools | Secure, scalable, and cost-effective artifact management for software development |
 | CodeBuild | Developer Tools | Build and test code |
 | CodeCatalyst | Developer Tools | Unified sofware service for faster development and delivery on AWS |
@@ -34,6 +33,7 @@ List of services in alphabetical order.
 | CodeGuru | Developer Tools | Find your most expensive lines of code |
 | CodePipeline | Developer Tools | Release software using continuos delivery |
 | CodeStar | Developer Tools | Develop and deploy AWS application |
+| Cognito | Security, Identity and Compliance | Identity management for your apps |
 | Comprehend | Machine Learning | Discover insights and relationships in text |
 | Config | Management & Governance | Track resources inventory and changes |
 | Control Tower | Management & Governance | Set up and govern a secure, compliant multi-account environment |

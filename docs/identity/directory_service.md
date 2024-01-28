@@ -18,7 +18,6 @@
     
     ![Simple AD](../../images/identity/ad_simple.png)
 
-
 ## Microsoft Active Directory (AD)
 
 - Microsoft Active Directory (AD) is found on any Windows Server with AD Domain Services

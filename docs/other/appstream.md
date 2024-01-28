@@ -1,6 +1,6 @@
 # AWS AppStream 2.0
 
-- Desktop Application Streaming Service
+- **Desktop Application Streaming Service**
 - Deliver to any computer without acquiring or provisioning infrastructure
 - The **application is delivered from within a web browser**
 

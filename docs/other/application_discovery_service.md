@@ -1,6 +1,6 @@
 # AWS Application Discovery Service
 
-When you plan to do a migration to the clodu:
+When you plan to do a migration to the cloud:
 - Plan migration project by gathering information about on-premises data centers
 - Server utilization data and dependency mapping are important for migrations
 
