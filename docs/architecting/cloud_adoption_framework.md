@@ -29,12 +29,12 @@
 
 - **Technology**: using the cloud to migrate and modernize legacy infraastructure, applications, data and analytics platform, etc.
 - **Process**: digitizing, automating, and optimizing your business operations
-    - leveraing new data and analytics platforms to create actionable insights
+    - leveraging new data and analytics platforms to create actionable insights
     - using machine learning (ML) to improve your customer service experience, etc.
 - **Organization**: reimagining your operating model
     - Organizing your teams around products and value streams
     - Leveraging agile methods to rapidly iterate and evolve
-- **Product**: reimagining your business model by craeting new value propositions (products and services) and revenue models
+- **Product**: reimagining your business model by creating new value propositions (products and services) and revenue models
 
 ## AWS CAF - Transformation Phases
 
