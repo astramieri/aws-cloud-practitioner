@@ -19,7 +19,7 @@
     - **Business (24/7)**
         - Intended to be used if you have **production workloads**
         - Trusted Advisor: Full set of checks + API access
-        - 24x7 phone, email, and chat access to Cloud Support Engineers
+        - **24x7 phone**, email, and chat access to Cloud Support Engineers
         - Unlimited cases / unlimited contacts
         - Access to Infrastructure Event Management for additional fee
         - Case severity / response times:

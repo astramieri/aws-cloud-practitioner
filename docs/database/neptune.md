@@ -11,4 +11,8 @@
 - Optimized for these complex and hard queries
 - Can store up to billions of relations and query the graph with milliseconds latency
 - Highly available with replications across multiple AZs
-- Uses cases: great for knowledge graphs (e.g. wikipedia), fraud detection, recommendation engines, social networking
+- Uses cases: 
+    - great for knowledge graphs (e.g. wikipedia)
+    - fraud detection
+    - recommendation engines
+    - social networking

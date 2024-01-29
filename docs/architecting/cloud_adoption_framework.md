@@ -10,6 +10,8 @@
     4. Platform
     5. Security
     6. Operations
+    
+![AWS CAF perspective and foundational capabilities](../../images/architecting/aws_caf.png)
 
 ## AWS CAF - Business Capabilities
 
