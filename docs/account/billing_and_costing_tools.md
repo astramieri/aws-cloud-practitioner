@@ -8,5 +8,5 @@
     - Cost and Usage Reports
     - Cost Explorer
 - **Monitoring against costs plans**
-    - Billing Alarms
+    - CloudWatch Billing Alarms
     - Budgets

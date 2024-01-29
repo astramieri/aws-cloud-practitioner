@@ -1,6 +1,6 @@
 # Cost Allocation Tags
 
-- Use **cost allocation tags** to track your AWS costs on a detailed level
+- Use **Cost Allocation Tags** to track your AWS costs on a detailed level
 - **AWS generated tags**
     - Automatically applied to the resource you create
     - Starts with prefix **aws:** (e.g. aws:createdBy)

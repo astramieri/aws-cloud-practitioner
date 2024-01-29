@@ -6,7 +6,7 @@
 - AWS Partner Solutions (formerly Quick Starts)
     - Automated, gold-standard deployments in the AWS Cloud
     - Build your production environment quickly with templates
-    - Example: Wordpress on AWS
+        - Example: Wordpress on AWS
     - Leverage CloudFormation
 - AWS Solutions
     - Vetted Technology Solutions for the AWS Cloud
@@ -20,11 +20,11 @@
     - General guidance: < 24 business hours
     - System impaired: < 12 business hours
 - Business
-    - 24x7 phone, email, anmd chat access to Cloud Support Engineers
+    - 24x7 phone, email, and chat access to Cloud Support Engineers
     - Production system impaired: < 4 hours
     - Production system down: < 1 hour
 - Enterprise
-    - Access to a Tecnhical Account Manager (TAM)
+    - Access to a Technical Account Manager (TAM)
     - Concierge Support Team (for billing and account best practices)
     - Business-critical system down: < 15 minutes
 
@@ -49,11 +49,10 @@
 
 ## AWS Professional Services & Partner Network
 
-- The AWS Professional Services organization is a global team of experts
-- The work alongside your team and a chosen member of the APN
-- **APN** stands for **AWS Partner Network**
-- **APN Technology Partners**: providing hardware, connectivity, and software
-- **APN Consulting Partners**: professional services firm to help build on AWS
-- **APN Traning Partners**: find who can help you learn AWS 
+- The AWS Professional Services organization is a **global team of experts**
+- The work alongside your team and a chosen member of the **AWS Partner Network (APN)**
+    - **APN Technology Partners**: providing hardware, connectivity, and software
+    - **APN Consulting Partners**: professional services firm to help build on AWS
+    - **APN Traning Partners**: find who can help you learn AWS 
 - **AWS Competency Program**: AWS Competencies are granted to APN Partners who have demonstrated technical proficiency and proven customer success in specialized solutions areas
 - **AWS Navigate Program**: help Partners become better Partners
