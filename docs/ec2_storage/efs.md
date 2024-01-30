@@ -27,7 +27,7 @@ EFS is a network file system. That means that whatever is on the EFS drive is sh
 
 EFS Infrequent Access (EFS-IA) is a **storage class** that is cost-optimized for files not accessed every day.
 
-EFS-IA is up to 90% lower cost compared to EFS Standard.
+EFS-IA is up to 90% lower cost compared to EFS Standard, but **you will pay a fee** each time you read from or write to a file.
 
 If you enable EFS-IA with a Lifecycle Policy, EFS will automatically move your files to EFS-IA based on the last time they were accessed.
 

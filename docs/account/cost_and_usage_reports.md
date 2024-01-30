@@ -1,4 +1,4 @@
-# Cost and Usage Reports
+# AWS Cost and Usage Reports (CUR)
 
 - Dive deeper into your AWS costs and usage
 - Contains **the most comprehesive set of AWS cost and usage data available**

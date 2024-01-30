@@ -1,6 +1,6 @@
 # EBS Snapshots
 
-A snapshot is a backup of an EBS volume at a point in time. 
+A snapshot is a backup of an EBS volume at a point in time. For the first snapshot of a volume, EBS saves a full copy of your data to S3. Snapshots are **stored incrementally**, which means you are billed only for the changed blocks stored.
 
 It is not necessary to detach the volume prior to doing the backup, but **it is recommended**.
 
