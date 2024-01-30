@@ -46,10 +46,14 @@
         - Intended to be used if you have **mission critical workloads**
         - All of Business Support Plan +
         - Access to a **designated** Technical Account Manager (TAM)
-        - Infrastructure Event Management, Well-Architected & Opeartions Reviews
+        - Infrastructure Event Management, Well-Architected & Operations Reviews
         - Case severity / response times:
             - General guidance: < 24 business hours
             - System impaired: < 12 business hours
             - Production system impaired: < 4 hours
             - Production system down: < 1 hours
             - Business-critical system down: < 15 minutes
+
+## AWS Countdown
+
+AWS Countdown replaces AWS Support’s Infrastructure Event Management (IEM) service, and is included with Enterprise Support. Enterprise On-Ramp customers receive one (1) Standard engagement each year at no cost. AWS Countdown Premium is available for Business Support, Enterprise On-Ramp, and Enterprise Support customers as a monthly subscription for an additional fee.
