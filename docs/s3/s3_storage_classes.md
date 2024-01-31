@@ -73,7 +73,7 @@ When you create an object in S3:
 - **S3 Intellingent Tiering**
     - small monthly monitoring and auto-tiering fee
     - moved objects automatically between access tiers based on usage 
-    - there are no retrieval charges in S3 intelligent tiering
+    - **there are no retrieval charges in S3 intelligent tiering**
     - different tiers:
         - *frequent access tier (automatic)*: default tier
         - *infrequent access tier (automatic)*: objects not accessed for 30 days

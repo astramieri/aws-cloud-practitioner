@@ -15,7 +15,7 @@ Three deployment options:
 
 ## Multi AZ
 
-- Failover in case of AZ outage (hig availability)
+- Failover in case of AZ outage (high availability)
 - Data in only read/written to the main database
 - Can have **only one other AZ** as failover
 
