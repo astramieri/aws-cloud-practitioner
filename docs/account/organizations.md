@@ -7,6 +7,7 @@
     - Consolidated billing accross all accounts - single payment method
     - Pricing benefits from aggregated usage (volume discount for EC2, S3, etc.)
     - Pooling of reserved EC2 instances for optimal savings
+        - Note: only if Bob launches his instances **in the same AZ** where Alice purchased
 - API is available to automate AWS account creation
 - Restrict account privileges using **Service Control Policies (SCP)**
 
