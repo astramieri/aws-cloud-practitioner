@@ -28,7 +28,7 @@
     - flexible across:
         - instance size (e.g. m5.xlarge, m5.2xlarge)
         - OS (e.g. Linux or Windows)
-        - Tenancy (Host, Dedicated, Default)
+        - tenancy (Host, Dedicated, Default)
 - **Spot Instances**: short workloads, cheap, can lose instances (less reliable)
     - can get a discount up to 90% (*may change*) compared to on-demand
     - instance that you can "lose" at any point of time if your max price is less than the current spot price
