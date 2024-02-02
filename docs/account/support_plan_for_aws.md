@@ -1,5 +1,7 @@
 # Support Plan for AWS
 
+[Compare AWS Support Plans](https://aws.amazon.com/premiumsupport/plans/)
+
 - Different plans you can choose from:
     - **Basic**
         - **Free**

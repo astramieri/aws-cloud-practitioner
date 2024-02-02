@@ -3,7 +3,7 @@
 - AWS Blog
 - AWS Forums (community)
 - AWS Whitepapers & Guides
-- AWS Partner Solutions (formerly Quick Starts)
+- **AWS Partner Solutions (formerly Quick Starts)**
     - Automated, gold-standard deployments in the AWS Cloud
     - Build your production environment quickly with templates
         - Example: Wordpress on AWS

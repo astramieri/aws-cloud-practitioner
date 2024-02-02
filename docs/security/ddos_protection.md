@@ -42,7 +42,11 @@ A DDoS attack is a Distributed Denial-of-Service attack.
 ## AWS Web Application Firewall (WAF)
 
 - Protects your web applications from common web exploits (Layer 7)
-- Can be deployed on Application Load Balancer, API Gateway, CloudFront
+- Can be deployed on:
+    - Application Load Balancer (ALB)
+    - API Gateway
+    - CloudFront
+    - AppSync
 - You can define Web ACL (Web Access Control List)
     - Rules can include IP addresses, HTTP headers, HTTP body or URI strings
     - Protects from common attack: SQL injection and Cross-Site Scripting (XSS)
