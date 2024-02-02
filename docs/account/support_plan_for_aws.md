@@ -13,6 +13,7 @@
             - A personalized view of the health of AWS services, and alerts when your resources are impacted
     - **Developer**
         - All Basic Support Plan
+        - Client-side diagnostic tools
         - Business hours email access to Cloud Support Associated
             - General architectural guidance as you build and test
         - Unlimited cases / 1 primary contact 
@@ -21,6 +22,7 @@
             - System impaired: < 12 business hours
     - **Business (24/7)**
         - Intended to be used if you have **production workloads**
+        - Client-side diagnostic tools
         - Trusted Advisor: Full set of checks + API access
         - **24x7 phone**, email, and chat access to Cloud Support Engineers
             - **Architectural guidance** in the context of **your specific use-cases**
